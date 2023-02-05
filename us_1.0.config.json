@@ -810,6 +810,78 @@
                         "folder": "dino"
                     },
                     {
+                        "index": 114,
+                        "filename": "stone_wall_sandy",
+                        "build-id": "ASSET_TEX3D_TROPICAL_STONEWALLSANDY",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 115,
+                        "filename": "arrow_sign_shadow",
+                        "build-id": "ASSET_TEX3D_COMMON_ARROWSIGNSHADOW",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 116,
+                        "filename": "ice_bricks",
+                        "build-id": "ASSET_TEX3D_WINTER_ICEBRICKS",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 117,
+                        "filename": "ice_bricks_with_snow",
+                        "build-id": "ASSET_TEX3D_WINTER_ICEBRICKSWITHSNOW",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 118,
+                        "filename": "hanging_snow",
+                        "build-id": "ASSET_TEX3D_WINTER_HANGINGSNOW",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 119,
+                        "filename": "hanging_snow2",
+                        "build-id": "ASSET_TEX3D_WINTER_HANGINGSNOW2",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 120,
+                        "filename": "element_gradient",
+                        "build-id": "ASSET_TEX3D_COMMON_ELEMENTGRADIENT",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 121,
+                        "filename": "snow_trees_billboard_0",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWTREESBILLBOARD_0",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 122,
+                        "filename": "snow_trees_billboard_1",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWTREESBILLBOARD_1",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 123,
+                        "filename": "icy_snow",
+                        "build-id": "ASSET_TEX3D_WINTER_ICYSNOW",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 124,
+                        "filename": "snowy_fence",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWYFENCE",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 125,
+                        "filename": "icy_path",
+                        "build-id": "ASSET_TEX3D_WINTER_ICYPATH",
+                        "folder": "winter"
+                    },
+                    {
                         "index": 625,
                         "flip-tex": false
                     },
@@ -2317,7 +2389,9 @@
                 "build-id": "ASSET_LEVEL_MODELS",
                 "type": "LevelModels",
                 "folder": "levels/models",
-                "table": 26
+                "table": 26,
+                "default-build-id-prefix": "ASSET_LEVELMODEL_",
+                "files": []
             },
             {
                 "build-id": "ASSET_OBJECT_MODELS_TABLE",
@@ -2333,1952 +2407,1952 @@
                     {
                         "index": 0,
                         "filename": "dome",
-                        "build-id": "ASSET_OBJMODEL_DOME"
+                        "build-id": "ASSET_OBJECTMODEL_DOME"
                     },
                     {
                         "index": 1,
                         "filename": "dome1",
-                        "build-id": "ASSET_OBJMODEL_DOME1"
+                        "build-id": "ASSET_OBJECTMODEL_DOME1"
                     },
                     {
                         "index": 2,
                         "filename": "dome2",
-                        "build-id": "ASSET_OBJMODEL_DOME2"
+                        "build-id": "ASSET_OBJECTMODEL_DOME2"
                     },
                     {
                         "index": 3,
                         "filename": "dome3",
-                        "build-id": "ASSET_OBJMODEL_DOME3"
+                        "build-id": "ASSET_OBJECTMODEL_DOME3"
                     },
                     {
                         "index": 4,
                         "filename": "dome4",
-                        "build-id": "ASSET_OBJMODEL_DOME4"
+                        "build-id": "ASSET_OBJECTMODEL_DOME4"
                     },
                     {
                         "index": 5,
                         "filename": "dome5",
-                        "build-id": "ASSET_OBJMODEL_DOME5"
+                        "build-id": "ASSET_OBJECTMODEL_DOME5"
                     },
                     {
                         "index": 6,
                         "filename": "dome6",
-                        "build-id": "ASSET_OBJMODEL_DOME6"
+                        "build-id": "ASSET_OBJECTMODEL_DOME6"
                     },
                     {
                         "index": 7,
                         "filename": "dome7",
-                        "build-id": "ASSET_OBJMODEL_DOME7"
+                        "build-id": "ASSET_OBJECTMODEL_DOME7"
                     },
                     {
                         "index": 8,
                         "filename": "dome8",
-                        "build-id": "ASSET_OBJMODEL_DOME8"
+                        "build-id": "ASSET_OBJECTMODEL_DOME8"
                     },
                     {
                         "index": 9,
                         "filename": "dome9",
-                        "build-id": "ASSET_OBJMODEL_DOME9"
+                        "build-id": "ASSET_OBJECTMODEL_DOME9"
                     },
                     {
                         "index": 10,
                         "filename": "dome10",
-                        "build-id": "ASSET_OBJMODEL_DOME10"
+                        "build-id": "ASSET_OBJECTMODEL_DOME10"
                     },
                     {
                         "index": 11,
                         "filename": "dome11",
-                        "build-id": "ASSET_OBJMODEL_DOME11"
+                        "build-id": "ASSET_OBJECTMODEL_DOME11"
                     },
                     {
                         "index": 12,
                         "filename": "dome12",
-                        "build-id": "ASSET_OBJMODEL_DOME12"
+                        "build-id": "ASSET_OBJECTMODEL_DOME12"
                     },
                     {
                         "index": 13,
                         "filename": "dome13",
-                        "build-id": "ASSET_OBJMODEL_DOME13"
+                        "build-id": "ASSET_OBJECTMODEL_DOME13"
                     },
                     {
                         "index": 14,
                         "filename": "dome14",
-                        "build-id": "ASSET_OBJMODEL_DOME14"
+                        "build-id": "ASSET_OBJECTMODEL_DOME14"
                     },
                     {
                         "index": 15,
                         "filename": "dome15",
-                        "build-id": "ASSET_OBJMODEL_DOME15"
+                        "build-id": "ASSET_OBJECTMODEL_DOME15"
                     },
                     {
                         "index": 16,
                         "filename": "dome16",
-                        "build-id": "ASSET_OBJMODEL_DOME16"
+                        "build-id": "ASSET_OBJECTMODEL_DOME16"
                     },
                     {
                         "index": 17,
                         "filename": "dome17",
-                        "build-id": "ASSET_OBJMODEL_DOME17"
+                        "build-id": "ASSET_OBJECTMODEL_DOME17"
                     },
                     {
                         "index": 18,
                         "filename": "FirstPlace",
-                        "build-id": "ASSET_OBJMODEL_FIRSTPLACE"
+                        "build-id": "ASSET_OBJECTMODEL_FIRSTPLACE"
                     },
                     {
                         "index": 19,
                         "filename": "diddycar_0",
-                        "build-id": "ASSET_OBJMODEL_DIDDYCAR_0"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYCAR_0"
                     },
                     {
                         "index": 20,
                         "filename": "diddycar_1",
-                        "build-id": "ASSET_OBJMODEL_DIDDYCAR_1"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYCAR_1"
                     },
                     {
                         "index": 21,
                         "filename": "diddycar_2",
-                        "build-id": "ASSET_OBJMODEL_DIDDYCAR_2"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYCAR_2"
                     },
                     {
                         "index": 22,
                         "filename": "diddycar_3",
-                        "build-id": "ASSET_OBJMODEL_DIDDYCAR_3"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYCAR_3"
                     },
                     {
                         "index": 23,
                         "filename": "diddycar_4",
-                        "build-id": "ASSET_OBJMODEL_DIDDYCAR_4"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYCAR_4"
                     },
                     {
                         "index": 24,
                         "filename": "diddycar_5",
-                        "build-id": "ASSET_OBJMODEL_DIDDYCAR_5"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYCAR_5"
                     },
                     {
                         "index": 25,
                         "filename": "SWcar_0",
-                        "build-id": "ASSET_OBJMODEL_SWCAR_0"
+                        "build-id": "ASSET_OBJECTMODEL_SWCAR_0"
                     },
                     {
                         "index": 26,
                         "filename": "SWcar_1",
-                        "build-id": "ASSET_OBJMODEL_SWCAR_1"
+                        "build-id": "ASSET_OBJECTMODEL_SWCAR_1"
                     },
                     {
                         "index": 27,
                         "filename": "SWcar_2",
-                        "build-id": "ASSET_OBJMODEL_SWCAR_2"
+                        "build-id": "ASSET_OBJECTMODEL_SWCAR_2"
                     },
                     {
                         "index": 28,
                         "filename": "SWcar_3",
-                        "build-id": "ASSET_OBJMODEL_SWCAR_3"
+                        "build-id": "ASSET_OBJECTMODEL_SWCAR_3"
                     },
                     {
                         "index": 29,
                         "filename": "SWcar_4",
-                        "build-id": "ASSET_OBJMODEL_SWCAR_4"
+                        "build-id": "ASSET_OBJECTMODEL_SWCAR_4"
                     },
                     {
                         "index": 30,
                         "filename": "SWcar_5",
-                        "build-id": "ASSET_OBJMODEL_SWCAR_5"
+                        "build-id": "ASSET_OBJECTMODEL_SWCAR_5"
                     },
                     {
                         "index": 31,
                         "filename": "BadgerCar_0",
-                        "build-id": "ASSET_OBJMODEL_BADGERCAR_0"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERCAR_0"
                     },
                     {
                         "index": 32,
                         "filename": "BadgerCar_1",
-                        "build-id": "ASSET_OBJMODEL_BADGERCAR_1"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERCAR_1"
                     },
                     {
                         "index": 33,
                         "filename": "BadgerCar_2",
-                        "build-id": "ASSET_OBJMODEL_BADGERCAR_2"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERCAR_2"
                     },
                     {
                         "index": 34,
                         "filename": "BadgerCar_3",
-                        "build-id": "ASSET_OBJMODEL_BADGERCAR_3"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERCAR_3"
                     },
                     {
                         "index": 35,
                         "filename": "BadgerCar_4",
-                        "build-id": "ASSET_OBJMODEL_BADGERCAR_4"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERCAR_4"
                     },
                     {
                         "index": 36,
                         "filename": "BadgerCar_5",
-                        "build-id": "ASSET_OBJMODEL_BADGERCAR_5"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERCAR_5"
                     },
                     {
                         "index": 37,
                         "filename": "TortCar_0",
-                        "build-id": "ASSET_OBJMODEL_TORTCAR_0"
+                        "build-id": "ASSET_OBJECTMODEL_TORTCAR_0"
                     },
                     {
                         "index": 38,
                         "filename": "TortCar_1",
-                        "build-id": "ASSET_OBJMODEL_TORTCAR_1"
+                        "build-id": "ASSET_OBJECTMODEL_TORTCAR_1"
                     },
                     {
                         "index": 39,
                         "filename": "TortCar_2",
-                        "build-id": "ASSET_OBJMODEL_TORTCAR_2"
+                        "build-id": "ASSET_OBJECTMODEL_TORTCAR_2"
                     },
                     {
                         "index": 40,
                         "filename": "TortCar_3",
-                        "build-id": "ASSET_OBJMODEL_TORTCAR_3"
+                        "build-id": "ASSET_OBJECTMODEL_TORTCAR_3"
                     },
                     {
                         "index": 41,
                         "filename": "TortCar_4",
-                        "build-id": "ASSET_OBJMODEL_TORTCAR_4"
+                        "build-id": "ASSET_OBJECTMODEL_TORTCAR_4"
                     },
                     {
                         "index": 42,
                         "filename": "TortCar_5",
-                        "build-id": "ASSET_OBJMODEL_TORTCAR_5"
+                        "build-id": "ASSET_OBJECTMODEL_TORTCAR_5"
                     },
                     {
                         "index": 43,
                         "filename": "KremCar_0",
-                        "build-id": "ASSET_OBJMODEL_KREMCAR_0"
+                        "build-id": "ASSET_OBJECTMODEL_KREMCAR_0"
                     },
                     {
                         "index": 44,
                         "filename": "KremCar_1",
-                        "build-id": "ASSET_OBJMODEL_KREMCAR_1"
+                        "build-id": "ASSET_OBJECTMODEL_KREMCAR_1"
                     },
                     {
                         "index": 45,
                         "filename": "KremCar_2",
-                        "build-id": "ASSET_OBJMODEL_KREMCAR_2"
+                        "build-id": "ASSET_OBJECTMODEL_KREMCAR_2"
                     },
                     {
                         "index": 46,
                         "filename": "KremCar_3",
-                        "build-id": "ASSET_OBJMODEL_KREMCAR_3"
+                        "build-id": "ASSET_OBJECTMODEL_KREMCAR_3"
                     },
                     {
                         "index": 47,
                         "filename": "KremCar_4",
-                        "build-id": "ASSET_OBJMODEL_KREMCAR_4"
+                        "build-id": "ASSET_OBJECTMODEL_KREMCAR_4"
                     },
                     {
                         "index": 48,
                         "filename": "KremCar_5",
-                        "build-id": "ASSET_OBJMODEL_KREMCAR_5"
+                        "build-id": "ASSET_OBJECTMODEL_KREMCAR_5"
                     },
                     {
                         "index": 49,
                         "filename": "TigerCar_0",
-                        "build-id": "ASSET_OBJMODEL_TIGERCAR_0"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERCAR_0"
                     },
                     {
                         "index": 50,
                         "filename": "TigerCar_1",
-                        "build-id": "ASSET_OBJMODEL_TIGERCAR_1"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERCAR_1"
                     },
                     {
                         "index": 51,
                         "filename": "TigerCar_2",
-                        "build-id": "ASSET_OBJMODEL_TIGERCAR_2"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERCAR_2"
                     },
                     {
                         "index": 52,
                         "filename": "TigerCar_3",
-                        "build-id": "ASSET_OBJMODEL_TIGERCAR_3"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERCAR_3"
                     },
                     {
                         "index": 53,
                         "filename": "TigerCar_4",
-                        "build-id": "ASSET_OBJMODEL_TIGERCAR_4"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERCAR_4"
                     },
                     {
                         "index": 54,
                         "filename": "TigerCar_5",
-                        "build-id": "ASSET_OBJMODEL_TIGERCAR_5"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERCAR_5"
                     },
                     {
                         "index": 55,
                         "filename": "ConkaCar_0",
-                        "build-id": "ASSET_OBJMODEL_CONKACAR_0"
+                        "build-id": "ASSET_OBJECTMODEL_CONKACAR_0"
                     },
                     {
                         "index": 56,
                         "filename": "ConkaCar_1",
-                        "build-id": "ASSET_OBJMODEL_CONKACAR_1"
+                        "build-id": "ASSET_OBJECTMODEL_CONKACAR_1"
                     },
                     {
                         "index": 57,
                         "filename": "ConkaCar_2",
-                        "build-id": "ASSET_OBJMODEL_CONKACAR_2"
+                        "build-id": "ASSET_OBJECTMODEL_CONKACAR_2"
                     },
                     {
                         "index": 58,
                         "filename": "ConkaCar_3",
-                        "build-id": "ASSET_OBJMODEL_CONKACAR_3"
+                        "build-id": "ASSET_OBJECTMODEL_CONKACAR_3"
                     },
                     {
                         "index": 59,
                         "filename": "ConkaCar_4",
-                        "build-id": "ASSET_OBJMODEL_CONKACAR_4"
+                        "build-id": "ASSET_OBJECTMODEL_CONKACAR_4"
                     },
                     {
                         "index": 60,
                         "filename": "ConkaCar_5",
-                        "build-id": "ASSET_OBJMODEL_CONKACAR_5"
+                        "build-id": "ASSET_OBJECTMODEL_CONKACAR_5"
                     },
                     {
                         "index": 61,
                         "filename": "BanjoCar_0",
-                        "build-id": "ASSET_OBJMODEL_BANJOCAR_0"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOCAR_0"
                     },
                     {
                         "index": 62,
                         "filename": "BanjoCar_1",
-                        "build-id": "ASSET_OBJMODEL_BANJOCAR_1"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOCAR_1"
                     },
                     {
                         "index": 63,
                         "filename": "BanjoCar_2",
-                        "build-id": "ASSET_OBJMODEL_BANJOCAR_2"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOCAR_2"
                     },
                     {
                         "index": 64,
                         "filename": "BanjoCar_3",
-                        "build-id": "ASSET_OBJMODEL_BANJOCAR_3"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOCAR_3"
                     },
                     {
                         "index": 65,
                         "filename": "BanjoCar_4",
-                        "build-id": "ASSET_OBJMODEL_BANJOCAR_4"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOCAR_4"
                     },
                     {
                         "index": 66,
                         "filename": "BanjoCar_5",
-                        "build-id": "ASSET_OBJMODEL_BANJOCAR_5"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOCAR_5"
                     },
                     {
                         "index": 67,
                         "filename": "ChickenCar_0",
-                        "build-id": "ASSET_OBJMODEL_CHICKENCAR_0"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENCAR_0"
                     },
                     {
                         "index": 68,
                         "filename": "ChickenCar_1",
-                        "build-id": "ASSET_OBJMODEL_CHICKENCAR_1"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENCAR_1"
                     },
                     {
                         "index": 69,
                         "filename": "ChickenCar_2",
-                        "build-id": "ASSET_OBJMODEL_CHICKENCAR_2"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENCAR_2"
                     },
                     {
                         "index": 70,
                         "filename": "ChickenCar_3",
-                        "build-id": "ASSET_OBJMODEL_CHICKENCAR_3"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENCAR_3"
                     },
                     {
                         "index": 71,
                         "filename": "ChickenCar_4",
-                        "build-id": "ASSET_OBJMODEL_CHICKENCAR_4"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENCAR_4"
                     },
                     {
                         "index": 72,
                         "filename": "ChickenCar_5",
-                        "build-id": "ASSET_OBJMODEL_CHICKENCAR_5"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENCAR_5"
                     },
                     {
                         "index": 73,
                         "filename": "MouseCar_0",
-                        "build-id": "ASSET_OBJMODEL_MOUSECAR_0"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSECAR_0"
                     },
                     {
                         "index": 74,
                         "filename": "MouseCar_1",
-                        "build-id": "ASSET_OBJMODEL_MOUSECAR_1"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSECAR_1"
                     },
                     {
                         "index": 75,
                         "filename": "MouseCar_2",
-                        "build-id": "ASSET_OBJMODEL_MOUSECAR_2"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSECAR_2"
                     },
                     {
                         "index": 76,
                         "filename": "MouseCar_3",
-                        "build-id": "ASSET_OBJMODEL_MOUSECAR_3"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSECAR_3"
                     },
                     {
                         "index": 77,
                         "filename": "MouseCar_4",
-                        "build-id": "ASSET_OBJMODEL_MOUSECAR_4"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSECAR_4"
                     },
                     {
                         "index": 78,
                         "filename": "MouseCar_5",
-                        "build-id": "ASSET_OBJMODEL_MOUSECAR_5"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSECAR_5"
                     },
                     {
                         "index": 79,
                         "filename": "ticktockhover_0",
-                        "build-id": "ASSET_OBJMODEL_TICKTOCKHOVER_0"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTOCKHOVER_0"
                     },
                     {
                         "index": 80,
                         "filename": "ticktockhover_1",
-                        "build-id": "ASSET_OBJMODEL_TICKTOCKHOVER_1"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTOCKHOVER_1"
                     },
                     {
                         "index": 81,
                         "filename": "ticktockhover_2",
-                        "build-id": "ASSET_OBJMODEL_TICKTOCKHOVER_2"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTOCKHOVER_2"
                     },
                     {
                         "index": 82,
                         "filename": "ticktockhover_3",
-                        "build-id": "ASSET_OBJMODEL_TICKTOCKHOVER_3"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTOCKHOVER_3"
                     },
                     {
                         "index": 83,
                         "filename": "ticktockhover_4",
-                        "build-id": "ASSET_OBJMODEL_TICKTOCKHOVER_4"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTOCKHOVER_4"
                     },
                     {
                         "index": 84,
                         "filename": "ticktockhover_5",
-                        "build-id": "ASSET_OBJMODEL_TICKTOCKHOVER_5"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTOCKHOVER_5"
                     },
                     {
                         "index": 85,
                         "filename": "KremlinHover_0",
-                        "build-id": "ASSET_OBJMODEL_KREMLINHOVER_0"
+                        "build-id": "ASSET_OBJECTMODEL_KREMLINHOVER_0"
                     },
                     {
                         "index": 86,
                         "filename": "KremlinHover_1",
-                        "build-id": "ASSET_OBJMODEL_KREMLINHOVER_1"
+                        "build-id": "ASSET_OBJECTMODEL_KREMLINHOVER_1"
                     },
                     {
                         "index": 87,
                         "filename": "KremlinHover_2",
-                        "build-id": "ASSET_OBJMODEL_KREMLINHOVER_2"
+                        "build-id": "ASSET_OBJECTMODEL_KREMLINHOVER_2"
                     },
                     {
                         "index": 88,
                         "filename": "KremlinHover_3",
-                        "build-id": "ASSET_OBJMODEL_KREMLINHOVER_3"
+                        "build-id": "ASSET_OBJECTMODEL_KREMLINHOVER_3"
                     },
                     {
                         "index": 89,
                         "filename": "KremlinHover_4",
-                        "build-id": "ASSET_OBJMODEL_KREMLINHOVER_4"
+                        "build-id": "ASSET_OBJECTMODEL_KREMLINHOVER_4"
                     },
                     {
                         "index": 90,
                         "filename": "KremlinHover_5",
-                        "build-id": "ASSET_OBJMODEL_KREMLINHOVER_5"
+                        "build-id": "ASSET_OBJECTMODEL_KREMLINHOVER_5"
                     },
                     {
                         "index": 91,
                         "filename": "BadgerHover_0",
-                        "build-id": "ASSET_OBJMODEL_BADGERHOVER_0"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERHOVER_0"
                     },
                     {
                         "index": 92,
                         "filename": "BadgerHover_1",
-                        "build-id": "ASSET_OBJMODEL_BADGERHOVER_1"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERHOVER_1"
                     },
                     {
                         "index": 93,
                         "filename": "BadgerHover_2",
-                        "build-id": "ASSET_OBJMODEL_BADGERHOVER_2"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERHOVER_2"
                     },
                     {
                         "index": 94,
                         "filename": "BadgerHover_3",
-                        "build-id": "ASSET_OBJMODEL_BADGERHOVER_3"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERHOVER_3"
                     },
                     {
                         "index": 95,
                         "filename": "BadgerHover_4",
-                        "build-id": "ASSET_OBJMODEL_BADGERHOVER_4"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERHOVER_4"
                     },
                     {
                         "index": 96,
                         "filename": "BadgerHover_5",
-                        "build-id": "ASSET_OBJMODEL_BADGERHOVER_5"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERHOVER_5"
                     },
                     {
                         "index": 97,
                         "filename": "ConkaHover_0",
-                        "build-id": "ASSET_OBJMODEL_CONKAHOVER_0"
+                        "build-id": "ASSET_OBJECTMODEL_CONKAHOVER_0"
                     },
                     {
                         "index": 98,
                         "filename": "ConkaHover_1",
-                        "build-id": "ASSET_OBJMODEL_CONKAHOVER_1"
+                        "build-id": "ASSET_OBJECTMODEL_CONKAHOVER_1"
                     },
                     {
                         "index": 99,
                         "filename": "ConkaHover_2",
-                        "build-id": "ASSET_OBJMODEL_CONKAHOVER_2"
+                        "build-id": "ASSET_OBJECTMODEL_CONKAHOVER_2"
                     },
                     {
                         "index": 100,
                         "filename": "ConkaHover_3",
-                        "build-id": "ASSET_OBJMODEL_CONKAHOVER_3"
+                        "build-id": "ASSET_OBJECTMODEL_CONKAHOVER_3"
                     },
                     {
                         "index": 101,
                         "filename": "ConkaHover_4",
-                        "build-id": "ASSET_OBJMODEL_CONKAHOVER_4"
+                        "build-id": "ASSET_OBJECTMODEL_CONKAHOVER_4"
                     },
                     {
                         "index": 102,
                         "filename": "ConkaHover_5",
-                        "build-id": "ASSET_OBJMODEL_CONKAHOVER_5"
+                        "build-id": "ASSET_OBJECTMODEL_CONKAHOVER_5"
                     },
                     {
                         "index": 103,
                         "filename": "TortHover_0",
-                        "build-id": "ASSET_OBJMODEL_TORTHOVER_0"
+                        "build-id": "ASSET_OBJECTMODEL_TORTHOVER_0"
                     },
                     {
                         "index": 104,
                         "filename": "TortHover_1",
-                        "build-id": "ASSET_OBJMODEL_TORTHOVER_1"
+                        "build-id": "ASSET_OBJECTMODEL_TORTHOVER_1"
                     },
                     {
                         "index": 105,
                         "filename": "TortHover_2",
-                        "build-id": "ASSET_OBJMODEL_TORTHOVER_2"
+                        "build-id": "ASSET_OBJECTMODEL_TORTHOVER_2"
                     },
                     {
                         "index": 106,
                         "filename": "TortHover_3",
-                        "build-id": "ASSET_OBJMODEL_TORTHOVER_3"
+                        "build-id": "ASSET_OBJECTMODEL_TORTHOVER_3"
                     },
                     {
                         "index": 107,
                         "filename": "TortHover_4",
-                        "build-id": "ASSET_OBJMODEL_TORTHOVER_4"
+                        "build-id": "ASSET_OBJECTMODEL_TORTHOVER_4"
                     },
                     {
                         "index": 108,
                         "filename": "TortHover_5",
-                        "build-id": "ASSET_OBJMODEL_TORTHOVER_5"
+                        "build-id": "ASSET_OBJECTMODEL_TORTHOVER_5"
                     },
                     {
                         "index": 109,
                         "filename": "BanjoHover_0",
-                        "build-id": "ASSET_OBJMODEL_BANJOHOVER_0"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOHOVER_0"
                     },
                     {
                         "index": 110,
                         "filename": "BanjoHover_1",
-                        "build-id": "ASSET_OBJMODEL_BANJOHOVER_1"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOHOVER_1"
                     },
                     {
                         "index": 111,
                         "filename": "BanjoHover_2",
-                        "build-id": "ASSET_OBJMODEL_BANJOHOVER_2"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOHOVER_2"
                     },
                     {
                         "index": 112,
                         "filename": "BanjoHover_3",
-                        "build-id": "ASSET_OBJMODEL_BANJOHOVER_3"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOHOVER_3"
                     },
                     {
                         "index": 113,
                         "filename": "BanjoHover_4",
-                        "build-id": "ASSET_OBJMODEL_BANJOHOVER_4"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOHOVER_4"
                     },
                     {
                         "index": 114,
                         "filename": "BanjoHover_5",
-                        "build-id": "ASSET_OBJMODEL_BANJOHOVER_5"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOHOVER_5"
                     },
                     {
                         "index": 115,
                         "filename": "TigerHover_0",
-                        "build-id": "ASSET_OBJMODEL_TIGERHOVER_0"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERHOVER_0"
                     },
                     {
                         "index": 116,
                         "filename": "TigerHover_1",
-                        "build-id": "ASSET_OBJMODEL_TIGERHOVER_1"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERHOVER_1"
                     },
                     {
                         "index": 117,
                         "filename": "TigerHover_2",
-                        "build-id": "ASSET_OBJMODEL_TIGERHOVER_2"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERHOVER_2"
                     },
                     {
                         "index": 118,
                         "filename": "TigerHover_3",
-                        "build-id": "ASSET_OBJMODEL_TIGERHOVER_3"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERHOVER_3"
                     },
                     {
                         "index": 119,
                         "filename": "TigerHover_4",
-                        "build-id": "ASSET_OBJMODEL_TIGERHOVER_4"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERHOVER_4"
                     },
                     {
                         "index": 120,
                         "filename": "TigerHover_5",
-                        "build-id": "ASSET_OBJMODEL_TIGERHOVER_5"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERHOVER_5"
                     },
                     {
                         "index": 121,
                         "filename": "ChickenHover_0",
-                        "build-id": "ASSET_OBJMODEL_CHICKENHOVER_0"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENHOVER_0"
                     },
                     {
                         "index": 122,
                         "filename": "ChickenHover_1",
-                        "build-id": "ASSET_OBJMODEL_CHICKENHOVER_1"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENHOVER_1"
                     },
                     {
                         "index": 123,
                         "filename": "ChickenHover_2",
-                        "build-id": "ASSET_OBJMODEL_CHICKENHOVER_2"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENHOVER_2"
                     },
                     {
                         "index": 124,
                         "filename": "ChickenHover_3",
-                        "build-id": "ASSET_OBJMODEL_CHICKENHOVER_3"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENHOVER_3"
                     },
                     {
                         "index": 125,
                         "filename": "ChickenHover_4",
-                        "build-id": "ASSET_OBJMODEL_CHICKENHOVER_4"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENHOVER_4"
                     },
                     {
                         "index": 126,
                         "filename": "ChickenHover_5",
-                        "build-id": "ASSET_OBJMODEL_CHICKENHOVER_5"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENHOVER_5"
                     },
                     {
                         "index": 127,
                         "filename": "MouseHover_0",
-                        "build-id": "ASSET_OBJMODEL_MOUSEHOVER_0"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSEHOVER_0"
                     },
                     {
                         "index": 128,
                         "filename": "MouseHover_1",
-                        "build-id": "ASSET_OBJMODEL_MOUSEHOVER_1"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSEHOVER_1"
                     },
                     {
                         "index": 129,
                         "filename": "MouseHover_2",
-                        "build-id": "ASSET_OBJMODEL_MOUSEHOVER_2"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSEHOVER_2"
                     },
                     {
                         "index": 130,
                         "filename": "MouseHover_3",
-                        "build-id": "ASSET_OBJMODEL_MOUSEHOVER_3"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSEHOVER_3"
                     },
                     {
                         "index": 131,
                         "filename": "MouseHover_4",
-                        "build-id": "ASSET_OBJMODEL_MOUSEHOVER_4"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSEHOVER_4"
                     },
                     {
                         "index": 132,
                         "filename": "MouseHover_5",
-                        "build-id": "ASSET_OBJMODEL_MOUSEHOVER_5"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSEHOVER_5"
                     },
                     {
                         "index": 133,
                         "filename": "diddyhover_0",
-                        "build-id": "ASSET_OBJMODEL_DIDDYHOVER_0"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYHOVER_0"
                     },
                     {
                         "index": 134,
                         "filename": "diddyhover_1",
-                        "build-id": "ASSET_OBJMODEL_DIDDYHOVER_1"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYHOVER_1"
                     },
                     {
                         "index": 135,
                         "filename": "diddyhover_2",
-                        "build-id": "ASSET_OBJMODEL_DIDDYHOVER_2"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYHOVER_2"
                     },
                     {
                         "index": 136,
                         "filename": "diddyhover_3",
-                        "build-id": "ASSET_OBJMODEL_DIDDYHOVER_3"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYHOVER_3"
                     },
                     {
                         "index": 137,
                         "filename": "diddyhover_4",
-                        "build-id": "ASSET_OBJMODEL_DIDDYHOVER_4"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYHOVER_4"
                     },
                     {
                         "index": 138,
                         "filename": "diddyhover_5",
-                        "build-id": "ASSET_OBJMODEL_DIDDYHOVER_5"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYHOVER_5"
                     },
                     {
                         "index": 139,
                         "filename": "diddyplane_0",
-                        "build-id": "ASSET_OBJMODEL_DIDDYPLANE_0"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYPLANE_0"
                     },
                     {
                         "index": 140,
                         "filename": "diddyplane_1",
-                        "build-id": "ASSET_OBJMODEL_DIDDYPLANE_1"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYPLANE_1"
                     },
                     {
                         "index": 141,
                         "filename": "diddyplane_2",
-                        "build-id": "ASSET_OBJMODEL_DIDDYPLANE_2"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYPLANE_2"
                     },
                     {
                         "index": 142,
                         "filename": "diddyplane_3",
-                        "build-id": "ASSET_OBJMODEL_DIDDYPLANE_3"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYPLANE_3"
                     },
                     {
                         "index": 143,
                         "filename": "diddyplane_4",
-                        "build-id": "ASSET_OBJMODEL_DIDDYPLANE_4"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYPLANE_4"
                     },
                     {
                         "index": 144,
                         "filename": "diddyplane_5",
-                        "build-id": "ASSET_OBJMODEL_DIDDYPLANE_5"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYPLANE_5"
                     },
                     {
                         "index": 145,
                         "filename": "TigerAnimPlane",
-                        "build-id": "ASSET_OBJMODEL_TIGERANIMPLANE"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERANIMPLANE"
                     },
                     {
                         "index": 146,
                         "filename": "ticktockplane_0",
-                        "build-id": "ASSET_OBJMODEL_TICKTOCKPLANE_0"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTOCKPLANE_0"
                     },
                     {
                         "index": 147,
                         "filename": "ticktockplane_1",
-                        "build-id": "ASSET_OBJMODEL_TICKTOCKPLANE_1"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTOCKPLANE_1"
                     },
                     {
                         "index": 148,
                         "filename": "ticktockplane_2",
-                        "build-id": "ASSET_OBJMODEL_TICKTOCKPLANE_2"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTOCKPLANE_2"
                     },
                     {
                         "index": 149,
                         "filename": "ticktockplane_3",
-                        "build-id": "ASSET_OBJMODEL_TICKTOCKPLANE_3"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTOCKPLANE_3"
                     },
                     {
                         "index": 150,
                         "filename": "ticktockplane_4",
-                        "build-id": "ASSET_OBJMODEL_TICKTOCKPLANE_4"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTOCKPLANE_4"
                     },
                     {
                         "index": 151,
                         "filename": "ticktockplane_5",
-                        "build-id": "ASSET_OBJMODEL_TICKTOCKPLANE_5"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTOCKPLANE_5"
                     },
                     {
                         "index": 152,
                         "filename": "KremPlane_0",
-                        "build-id": "ASSET_OBJMODEL_KREMPLANE_0"
+                        "build-id": "ASSET_OBJECTMODEL_KREMPLANE_0"
                     },
                     {
                         "index": 153,
                         "filename": "KremPlane_1",
-                        "build-id": "ASSET_OBJMODEL_KREMPLANE_1"
+                        "build-id": "ASSET_OBJECTMODEL_KREMPLANE_1"
                     },
                     {
                         "index": 154,
                         "filename": "KremPlane_2",
-                        "build-id": "ASSET_OBJMODEL_KREMPLANE_2"
+                        "build-id": "ASSET_OBJECTMODEL_KREMPLANE_2"
                     },
                     {
                         "index": 155,
                         "filename": "KremPlane_3",
-                        "build-id": "ASSET_OBJMODEL_KREMPLANE_3"
+                        "build-id": "ASSET_OBJECTMODEL_KREMPLANE_3"
                     },
                     {
                         "index": 156,
                         "filename": "KremPlane_4",
-                        "build-id": "ASSET_OBJMODEL_KREMPLANE_4"
+                        "build-id": "ASSET_OBJECTMODEL_KREMPLANE_4"
                     },
                     {
                         "index": 157,
                         "filename": "KremPlane_5",
-                        "build-id": "ASSET_OBJMODEL_KREMPLANE_5"
+                        "build-id": "ASSET_OBJECTMODEL_KREMPLANE_5"
                     },
                     {
                         "index": 158,
                         "filename": "BadgerPlane_0",
-                        "build-id": "ASSET_OBJMODEL_BADGERPLANE_0"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERPLANE_0"
                     },
                     {
                         "index": 159,
                         "filename": "BadgerPlane_1",
-                        "build-id": "ASSET_OBJMODEL_BADGERPLANE_1"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERPLANE_1"
                     },
                     {
                         "index": 160,
                         "filename": "BadgerPlane_2",
-                        "build-id": "ASSET_OBJMODEL_BADGERPLANE_2"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERPLANE_2"
                     },
                     {
                         "index": 161,
                         "filename": "BadgerPlane_3",
-                        "build-id": "ASSET_OBJMODEL_BADGERPLANE_3"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERPLANE_3"
                     },
                     {
                         "index": 162,
                         "filename": "BadgerPlane_4",
-                        "build-id": "ASSET_OBJMODEL_BADGERPLANE_4"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERPLANE_4"
                     },
                     {
                         "index": 163,
                         "filename": "BadgerPlane_5",
-                        "build-id": "ASSET_OBJMODEL_BADGERPLANE_5"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERPLANE_5"
                     },
                     {
                         "index": 164,
                         "filename": "TortPlane_0",
-                        "build-id": "ASSET_OBJMODEL_TORTPLANE_0"
+                        "build-id": "ASSET_OBJECTMODEL_TORTPLANE_0"
                     },
                     {
                         "index": 165,
                         "filename": "TortPlane_1",
-                        "build-id": "ASSET_OBJMODEL_TORTPLANE_1"
+                        "build-id": "ASSET_OBJECTMODEL_TORTPLANE_1"
                     },
                     {
                         "index": 166,
                         "filename": "TortPlane_2",
-                        "build-id": "ASSET_OBJMODEL_TORTPLANE_2"
+                        "build-id": "ASSET_OBJECTMODEL_TORTPLANE_2"
                     },
                     {
                         "index": 167,
                         "filename": "TortPlane_3",
-                        "build-id": "ASSET_OBJMODEL_TORTPLANE_3"
+                        "build-id": "ASSET_OBJECTMODEL_TORTPLANE_3"
                     },
                     {
                         "index": 168,
                         "filename": "TortPlane_4",
-                        "build-id": "ASSET_OBJMODEL_TORTPLANE_4"
+                        "build-id": "ASSET_OBJECTMODEL_TORTPLANE_4"
                     },
                     {
                         "index": 169,
                         "filename": "TortPlane_5",
-                        "build-id": "ASSET_OBJMODEL_TORTPLANE_5"
+                        "build-id": "ASSET_OBJECTMODEL_TORTPLANE_5"
                     },
                     {
                         "index": 170,
                         "filename": "Conka_0",
-                        "build-id": "ASSET_OBJMODEL_CONKA_0"
+                        "build-id": "ASSET_OBJECTMODEL_CONKA_0"
                     },
                     {
                         "index": 171,
                         "filename": "Conka_1",
-                        "build-id": "ASSET_OBJMODEL_CONKA_1"
+                        "build-id": "ASSET_OBJECTMODEL_CONKA_1"
                     },
                     {
                         "index": 172,
                         "filename": "Conka_2",
-                        "build-id": "ASSET_OBJMODEL_CONKA_2"
+                        "build-id": "ASSET_OBJECTMODEL_CONKA_2"
                     },
                     {
                         "index": 173,
                         "filename": "Conka_3",
-                        "build-id": "ASSET_OBJMODEL_CONKA_3"
+                        "build-id": "ASSET_OBJECTMODEL_CONKA_3"
                     },
                     {
                         "index": 174,
                         "filename": "Conka_4",
-                        "build-id": "ASSET_OBJMODEL_CONKA_4"
+                        "build-id": "ASSET_OBJECTMODEL_CONKA_4"
                     },
                     {
                         "index": 175,
                         "filename": "Conka_5",
-                        "build-id": "ASSET_OBJMODEL_CONKA_5"
+                        "build-id": "ASSET_OBJECTMODEL_CONKA_5"
                     },
                     {
                         "index": 176,
                         "filename": "TigPlane_0",
-                        "build-id": "ASSET_OBJMODEL_TIGPLANE_0"
+                        "build-id": "ASSET_OBJECTMODEL_TIGPLANE_0"
                     },
                     {
                         "index": 177,
                         "filename": "TigPlane_1",
-                        "build-id": "ASSET_OBJMODEL_TIGPLANE_1"
+                        "build-id": "ASSET_OBJECTMODEL_TIGPLANE_1"
                     },
                     {
                         "index": 178,
                         "filename": "TigPlane_2",
-                        "build-id": "ASSET_OBJMODEL_TIGPLANE_2"
+                        "build-id": "ASSET_OBJECTMODEL_TIGPLANE_2"
                     },
                     {
                         "index": 179,
                         "filename": "TigPlane_3",
-                        "build-id": "ASSET_OBJMODEL_TIGPLANE_3"
+                        "build-id": "ASSET_OBJECTMODEL_TIGPLANE_3"
                     },
                     {
                         "index": 180,
                         "filename": "TigPlane_4",
-                        "build-id": "ASSET_OBJMODEL_TIGPLANE_4"
+                        "build-id": "ASSET_OBJECTMODEL_TIGPLANE_4"
                     },
                     {
                         "index": 181,
                         "filename": "TigPlane_5",
-                        "build-id": "ASSET_OBJMODEL_TIGPLANE_5"
+                        "build-id": "ASSET_OBJECTMODEL_TIGPLANE_5"
                     },
                     {
                         "index": 182,
                         "filename": "BanjoPlane_0",
-                        "build-id": "ASSET_OBJMODEL_BANJOPLANE_0"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOPLANE_0"
                     },
                     {
                         "index": 183,
                         "filename": "BanjoPlane_1",
-                        "build-id": "ASSET_OBJMODEL_BANJOPLANE_1"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOPLANE_1"
                     },
                     {
                         "index": 184,
                         "filename": "BanjoPlane_2",
-                        "build-id": "ASSET_OBJMODEL_BANJOPLANE_2"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOPLANE_2"
                     },
                     {
                         "index": 185,
                         "filename": "BanjoPlane_3",
-                        "build-id": "ASSET_OBJMODEL_BANJOPLANE_3"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOPLANE_3"
                     },
                     {
                         "index": 186,
                         "filename": "BanjoPlane_4",
-                        "build-id": "ASSET_OBJMODEL_BANJOPLANE_4"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOPLANE_4"
                     },
                     {
                         "index": 187,
                         "filename": "BanjoPlane_5",
-                        "build-id": "ASSET_OBJMODEL_BANJOPLANE_5"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOPLANE_5"
                     },
                     {
                         "index": 188,
                         "filename": "ChickenPlane_0",
-                        "build-id": "ASSET_OBJMODEL_CHICKENPLANE_0"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENPLANE_0"
                     },
                     {
                         "index": 189,
                         "filename": "ChickenPlane_1",
-                        "build-id": "ASSET_OBJMODEL_CHICKENPLANE_1"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENPLANE_1"
                     },
                     {
                         "index": 190,
                         "filename": "ChickenPlane_2",
-                        "build-id": "ASSET_OBJMODEL_CHICKENPLANE_2"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENPLANE_2"
                     },
                     {
                         "index": 191,
                         "filename": "ChickenPlane_3",
-                        "build-id": "ASSET_OBJMODEL_CHICKENPLANE_3"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENPLANE_3"
                     },
                     {
                         "index": 192,
                         "filename": "ChickenPlane_4",
-                        "build-id": "ASSET_OBJMODEL_CHICKENPLANE_4"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENPLANE_4"
                     },
                     {
                         "index": 193,
                         "filename": "ChickenPlane_5",
-                        "build-id": "ASSET_OBJMODEL_CHICKENPLANE_5"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKENPLANE_5"
                     },
                     {
                         "index": 194,
                         "filename": "MousePlane_0",
-                        "build-id": "ASSET_OBJMODEL_MOUSEPLANE_0"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSEPLANE_0"
                     },
                     {
                         "index": 195,
                         "filename": "MousePlane_1",
-                        "build-id": "ASSET_OBJMODEL_MOUSEPLANE_1"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSEPLANE_1"
                     },
                     {
                         "index": 196,
                         "filename": "MousePlane_2",
-                        "build-id": "ASSET_OBJMODEL_MOUSEPLANE_2"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSEPLANE_2"
                     },
                     {
                         "index": 197,
                         "filename": "MousePlane_3",
-                        "build-id": "ASSET_OBJMODEL_MOUSEPLANE_3"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSEPLANE_3"
                     },
                     {
                         "index": 198,
                         "filename": "MousePlane_4",
-                        "build-id": "ASSET_OBJMODEL_MOUSEPLANE_4"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSEPLANE_4"
                     },
                     {
                         "index": 199,
                         "filename": "MousePlane_5",
-                        "build-id": "ASSET_OBJMODEL_MOUSEPLANE_5"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSEPLANE_5"
                     },
                     {
                         "index": 200,
                         "filename": "EmptyPlane",
-                        "build-id": "ASSET_OBJMODEL_EMPTYPLANE"
+                        "build-id": "ASSET_OBJECTMODEL_EMPTYPLANE"
                     },
                     {
                         "index": 201,
                         "filename": "EmptyCar",
-                        "build-id": "ASSET_OBJMODEL_EMPTYCAR"
+                        "build-id": "ASSET_OBJECTMODEL_EMPTYCAR"
                     },
                     {
                         "index": 202,
                         "filename": "EmptyHover",
-                        "build-id": "ASSET_OBJMODEL_EMPTYHOVER"
+                        "build-id": "ASSET_OBJECTMODEL_EMPTYHOVER"
                     },
                     {
                         "index": 203,
                         "filename": "MagicCarpet",
-                        "build-id": "ASSET_OBJMODEL_MAGICCARPET"
+                        "build-id": "ASSET_OBJECTMODEL_MAGICCARPET"
                     },
                     {
                         "index": 204,
                         "filename": "PolyGoldBaloon_0",
-                        "build-id": "ASSET_OBJMODEL_POLYGOLDBALOON_0"
+                        "build-id": "ASSET_OBJECTMODEL_POLYGOLDBALOON_0"
                     },
                     {
                         "index": 205,
                         "filename": "PolyGoldBaloon_1",
-                        "build-id": "ASSET_OBJMODEL_POLYGOLDBALOON_1"
+                        "build-id": "ASSET_OBJECTMODEL_POLYGOLDBALOON_1"
                     },
                     {
                         "index": 206,
                         "filename": "Stopwatch-man",
-                        "build-id": "ASSET_OBJMODEL_STOPWATCHMAN"
+                        "build-id": "ASSET_OBJECTMODEL_STOPWATCHMAN"
                     },
                     {
                         "index": 207,
                         "filename": "stopwatchselect",
-                        "build-id": "ASSET_OBJMODEL_STOPWATCHSELECT"
+                        "build-id": "ASSET_OBJECTMODEL_STOPWATCHSELECT"
                     },
                     {
                         "index": 208,
                         "filename": "Parkwarden",
-                        "build-id": "ASSET_OBJMODEL_PARKWARDEN"
+                        "build-id": "ASSET_OBJECTMODEL_PARKWARDEN"
                     },
                     {
                         "index": 209,
                         "filename": "AnimGenie2",
-                        "build-id": "ASSET_OBJMODEL_ANIMGENIE2"
+                        "build-id": "ASSET_OBJECTMODEL_ANIMGENIE2"
                     },
                     {
                         "index": 210,
                         "filename": "Geniehead",
-                        "build-id": "ASSET_OBJMODEL_GENIEHEAD"
+                        "build-id": "ASSET_OBJECTMODEL_GENIEHEAD"
                     },
                     {
                         "index": 211,
                         "filename": "Pigboss",
-                        "build-id": "ASSET_OBJMODEL_PIGBOSS"
+                        "build-id": "ASSET_OBJECTMODEL_PIGBOSS"
                     },
                     {
                         "index": 212,
                         "filename": "Pigboss2",
-                        "build-id": "ASSET_OBJMODEL_PIGBOSS2"
+                        "build-id": "ASSET_OBJECTMODEL_PIGBOSS2"
                     },
                     {
                         "index": 213,
                         "filename": "Wizpig",
-                        "build-id": "ASSET_OBJMODEL_WIZPIG"
+                        "build-id": "ASSET_OBJECTMODEL_WIZPIG"
                     },
                     {
                         "index": 214,
                         "filename": "PigRocketeer",
-                        "build-id": "ASSET_OBJMODEL_PIGROCKETEER"
+                        "build-id": "ASSET_OBJECTMODEL_PIGROCKETEER"
                     },
                     {
                         "index": 215,
                         "filename": "WizpigRocket",
-                        "build-id": "ASSET_OBJMODEL_WIZPIGROCKET"
+                        "build-id": "ASSET_OBJECTMODEL_WIZPIGROCKET"
                     },
                     {
                         "index": 216,
                         "filename": "rocketbit1",
-                        "build-id": "ASSET_OBJMODEL_ROCKETBIT1"
+                        "build-id": "ASSET_OBJECTMODEL_ROCKETBIT1"
                     },
                     {
                         "index": 217,
                         "filename": "rocketbit2",
-                        "build-id": "ASSET_OBJMODEL_ROCKETBIT2"
+                        "build-id": "ASSET_OBJECTMODEL_ROCKETBIT2"
                     },
                     {
                         "index": 218,
                         "filename": "Pigboulder",
-                        "build-id": "ASSET_OBJMODEL_PIGBOULDER"
+                        "build-id": "ASSET_OBJECTMODEL_PIGBOULDER"
                     },
                     {
                         "index": 219,
                         "filename": "Pigboulder2",
-                        "build-id": "ASSET_OBJMODEL_PIGBOULDER2"
+                        "build-id": "ASSET_OBJECTMODEL_PIGBOULDER2"
                     },
                     {
                         "index": 220,
                         "filename": "Pigboulder3",
-                        "build-id": "ASSET_OBJMODEL_PIGBOULDER3"
+                        "build-id": "ASSET_OBJECTMODEL_PIGBOULDER3"
                     },
                     {
                         "index": 221,
                         "filename": "Pigboulder4",
-                        "build-id": "ASSET_OBJMODEL_PIGBOULDER4"
+                        "build-id": "ASSET_OBJECTMODEL_PIGBOULDER4"
                     },
                     {
                         "index": 222,
                         "filename": "Pigboulder5",
-                        "build-id": "ASSET_OBJMODEL_PIGBOULDER5"
+                        "build-id": "ASSET_OBJECTMODEL_PIGBOULDER5"
                     },
                     {
                         "index": 223,
                         "filename": "Bigplanet",
-                        "build-id": "ASSET_OBJMODEL_BIGPLANET"
+                        "build-id": "ASSET_OBJECTMODEL_BIGPLANET"
                     },
                     {
                         "index": 224,
                         "filename": "wizpigship",
-                        "build-id": "ASSET_OBJMODEL_WIZPIGSHIP"
+                        "build-id": "ASSET_OBJECTMODEL_WIZPIGSHIP"
                     },
                     {
                         "index": 225,
                         "filename": "Trickytops",
-                        "build-id": "ASSET_OBJMODEL_TRICKYTOPS"
+                        "build-id": "ASSET_OBJECTMODEL_TRICKYTOPS"
                     },
                     {
                         "index": 226,
                         "filename": "Trickyanim",
-                        "build-id": "ASSET_OBJMODEL_TRICKYANIM"
+                        "build-id": "ASSET_OBJECTMODEL_TRICKYANIM"
                     },
                     {
                         "index": 227,
                         "filename": "Trickyanim2",
-                        "build-id": "ASSET_OBJMODEL_TRICKYANIM2"
+                        "build-id": "ASSET_OBJECTMODEL_TRICKYANIM2"
                     },
                     {
                         "index": 228,
                         "filename": "Trickyanim3",
-                        "build-id": "ASSET_OBJMODEL_TRICKYANIM3"
+                        "build-id": "ASSET_OBJECTMODEL_TRICKYANIM3"
                     },
                     {
                         "index": 229,
                         "filename": "Dragonboss",
-                        "build-id": "ASSET_OBJMODEL_DRAGONBOSS"
+                        "build-id": "ASSET_OBJECTMODEL_DRAGONBOSS"
                     },
                     {
                         "index": 230,
                         "filename": "DragonAnim",
-                        "build-id": "ASSET_OBJMODEL_DRAGONANIM"
+                        "build-id": "ASSET_OBJECTMODEL_DRAGONANIM"
                     },
                     {
                         "index": 231,
                         "filename": "Terryboss",
-                        "build-id": "ASSET_OBJMODEL_TERRYBOSS"
+                        "build-id": "ASSET_OBJECTMODEL_TERRYBOSS"
                     },
                     {
                         "index": 232,
                         "filename": "Walrus",
-                        "build-id": "ASSET_OBJMODEL_WALRUS"
+                        "build-id": "ASSET_OBJECTMODEL_WALRUS"
                     },
                     {
                         "index": 233,
                         "filename": "Walrus_anim",
-                        "build-id": "ASSET_OBJMODEL_WALRUS_ANIM"
+                        "build-id": "ASSET_OBJECTMODEL_WALRUS_ANIM"
                     },
                     {
                         "index": 234,
                         "filename": "octopus",
-                        "build-id": "ASSET_OBJMODEL_OCTOPUS"
+                        "build-id": "ASSET_OBJECTMODEL_OCTOPUS"
                     },
                     {
                         "index": 235,
                         "filename": "stopwatchicon",
-                        "build-id": "ASSET_OBJMODEL_STOPWATCHICON"
+                        "build-id": "ASSET_OBJECTMODEL_STOPWATCHICON"
                     },
                     {
                         "index": 236,
                         "filename": "stopwatchhand",
-                        "build-id": "ASSET_OBJMODEL_STOPWATCHHAND"
+                        "build-id": "ASSET_OBJECTMODEL_STOPWATCHHAND"
                     },
                     {
                         "index": 237,
                         "filename": "SnowBall",
-                        "build-id": "ASSET_OBJMODEL_SNOWBALL"
+                        "build-id": "ASSET_OBJECTMODEL_SNOWBALL"
                     },
                     {
                         "index": 238,
                         "filename": "SnowBall2",
-                        "build-id": "ASSET_OBJMODEL_SNOWBALL2"
+                        "build-id": "ASSET_OBJECTMODEL_SNOWBALL2"
                     },
                     {
                         "index": 239,
                         "filename": "Dinosaur1",
-                        "build-id": "ASSET_OBJMODEL_DINOSAUR1"
+                        "build-id": "ASSET_OBJECTMODEL_DINOSAUR1"
                     },
                     {
                         "index": 240,
                         "filename": "Dinosaur2",
-                        "build-id": "ASSET_OBJMODEL_DINOSAUR2"
+                        "build-id": "ASSET_OBJECTMODEL_DINOSAUR2"
                     },
                     {
                         "index": 241,
                         "filename": "Dinosaur3",
-                        "build-id": "ASSET_OBJMODEL_DINOSAUR3"
+                        "build-id": "ASSET_OBJECTMODEL_DINOSAUR3"
                     },
                     {
                         "index": 242,
                         "filename": "SeaMonster",
-                        "build-id": "ASSET_OBJMODEL_SEAMONSTER"
+                        "build-id": "ASSET_OBJECTMODEL_SEAMONSTER"
                     },
                     {
                         "index": 243,
                         "filename": "WoodBlock",
-                        "build-id": "ASSET_OBJMODEL_WOODBLOCK"
+                        "build-id": "ASSET_OBJECTMODEL_WOODBLOCK"
                     },
                     {
                         "index": 244,
                         "filename": "Whale",
-                        "build-id": "ASSET_OBJMODEL_WHALE"
+                        "build-id": "ASSET_OBJECTMODEL_WHALE"
                     },
                     {
                         "index": 245,
                         "filename": "LevelDoor_2",
-                        "build-id": "ASSET_OBJMODEL_LEVELDOOR_2"
+                        "build-id": "ASSET_OBJECTMODEL_LEVELDOOR_2"
                     },
                     {
                         "index": 246,
                         "filename": "LevelDoor_3",
-                        "build-id": "ASSET_OBJMODEL_LEVELDOOR_3"
+                        "build-id": "ASSET_OBJECTMODEL_LEVELDOOR_3"
                     },
                     {
                         "index": 247,
                         "filename": "LevelDoor_0",
-                        "build-id": "ASSET_OBJMODEL_LEVELDOOR_0"
+                        "build-id": "ASSET_OBJECTMODEL_LEVELDOOR_0"
                     },
                     {
                         "index": 248,
                         "filename": "LevelDoor_4",
-                        "build-id": "ASSET_OBJMODEL_LEVELDOOR_4"
+                        "build-id": "ASSET_OBJECTMODEL_LEVELDOOR_4"
                     },
                     {
                         "index": 249,
                         "filename": "LevelDoor_1",
-                        "build-id": "ASSET_OBJMODEL_LEVELDOOR_1"
+                        "build-id": "ASSET_OBJECTMODEL_LEVELDOOR_1"
                     },
                     {
                         "index": 250,
                         "filename": "LevelDoor_7",
-                        "build-id": "ASSET_OBJMODEL_LEVELDOOR_7"
+                        "build-id": "ASSET_OBJECTMODEL_LEVELDOOR_7"
                     },
                     {
                         "index": 251,
                         "filename": "LevelDoor_8",
-                        "build-id": "ASSET_OBJMODEL_LEVELDOOR_8"
+                        "build-id": "ASSET_OBJECTMODEL_LEVELDOOR_8"
                     },
                     {
                         "index": 252,
                         "filename": "LevelDoor_5",
-                        "build-id": "ASSET_OBJMODEL_LEVELDOOR_5"
+                        "build-id": "ASSET_OBJECTMODEL_LEVELDOOR_5"
                     },
                     {
                         "index": 253,
                         "filename": "LevelDoor_6",
-                        "build-id": "ASSET_OBJMODEL_LEVELDOOR_6"
+                        "build-id": "ASSET_OBJECTMODEL_LEVELDOOR_6"
                     },
                     {
                         "index": 254,
                         "filename": "Signs_0",
-                        "build-id": "ASSET_OBJMODEL_SIGNS_0"
+                        "build-id": "ASSET_OBJECTMODEL_SIGNS_0"
                     },
                     {
                         "index": 255,
                         "filename": "Signs_1",
-                        "build-id": "ASSET_OBJMODEL_SIGNS_1"
+                        "build-id": "ASSET_OBJECTMODEL_SIGNS_1"
                     },
                     {
                         "index": 256,
                         "filename": "Signs_2",
-                        "build-id": "ASSET_OBJMODEL_SIGNS_2"
+                        "build-id": "ASSET_OBJECTMODEL_SIGNS_2"
                     },
                     {
                         "index": 257,
                         "filename": "Signs_3",
-                        "build-id": "ASSET_OBJMODEL_SIGNS_3"
+                        "build-id": "ASSET_OBJECTMODEL_SIGNS_3"
                     },
                     {
                         "index": 258,
                         "filename": "log",
-                        "build-id": "ASSET_OBJMODEL_LOG"
+                        "build-id": "ASSET_OBJECTMODEL_LOG"
                     },
                     {
                         "index": 259,
                         "filename": "boulder",
-                        "build-id": "ASSET_OBJMODEL_BOULDER"
+                        "build-id": "ASSET_OBJECTMODEL_BOULDER"
                     },
                     {
                         "index": 260,
                         "filename": "AirZippers",
-                        "build-id": "ASSET_OBJMODEL_AIRZIPPERS"
+                        "build-id": "ASSET_OBJECTMODEL_AIRZIPPERS"
                     },
                     {
                         "index": 261,
                         "filename": "WaterZippers",
-                        "build-id": "ASSET_OBJMODEL_WATERZIPPERS"
+                        "build-id": "ASSET_OBJECTMODEL_WATERZIPPERS"
                     },
                     {
                         "index": 262,
                         "filename": "GroundZipper2",
-                        "build-id": "ASSET_OBJMODEL_GROUNDZIPPER2"
+                        "build-id": "ASSET_OBJECTMODEL_GROUNDZIPPER2"
                     },
                     {
                         "index": 263,
                         "filename": "BetaAirZipper",
-                        "build-id": "ASSET_OBJMODEL_BETAAIRZIPPER"
+                        "build-id": "ASSET_OBJECTMODEL_BETAAIRZIPPER"
                     },
                     {
                         "index": 264,
                         "filename": "Dinoisle",
-                        "build-id": "ASSET_OBJMODEL_DINOISLE"
+                        "build-id": "ASSET_OBJECTMODEL_DINOISLE"
                     },
                     {
                         "index": 265,
                         "filename": "BetaBumperIcon",
-                        "build-id": "ASSET_OBJMODEL_BETABUMPERICON"
+                        "build-id": "ASSET_OBJECTMODEL_BETABUMPERICON"
                     },
                     {
                         "index": 266,
                         "filename": "BetaDrumstickIcon",
-                        "build-id": "ASSET_OBJMODEL_BETADRUMSTICKICON"
+                        "build-id": "ASSET_OBJECTMODEL_BETADRUMSTICKICON"
                     },
                     {
                         "index": 267,
                         "filename": "BetaKrunchIcon",
-                        "build-id": "ASSET_OBJMODEL_BETAKRUNCHICON"
+                        "build-id": "ASSET_OBJECTMODEL_BETAKRUNCHICON"
                     },
                     {
                         "index": 268,
                         "filename": "BetaPipsyIcon",
-                        "build-id": "ASSET_OBJMODEL_BETAPIPSYICON"
+                        "build-id": "ASSET_OBJECTMODEL_BETAPIPSYICON"
                     },
                     {
                         "index": 269,
                         "filename": "BetaTiptupIcon",
-                        "build-id": "ASSET_OBJMODEL_BETATIPTUPICON"
+                        "build-id": "ASSET_OBJECTMODEL_BETATIPTUPICON"
                     },
                     {
                         "index": 270,
                         "filename": "BetaKrunchBalloon",
-                        "build-id": "ASSET_OBJMODEL_BETAKRUNCHBALLOON"
+                        "build-id": "ASSET_OBJECTMODEL_BETAKRUNCHBALLOON"
                     },
                     {
                         "index": 271,
                         "filename": "BetaBumperBalloon",
-                        "build-id": "ASSET_OBJMODEL_BETABUMPERBALLOON"
+                        "build-id": "ASSET_OBJECTMODEL_BETABUMPERBALLOON"
                     },
                     {
                         "index": 272,
                         "filename": "BetaTiptupBalloon",
-                        "build-id": "ASSET_OBJMODEL_BETATIPTUPBALLOON"
+                        "build-id": "ASSET_OBJECTMODEL_BETATIPTUPBALLOON"
                     },
                     {
                         "index": 273,
                         "filename": "BetaTimberBalloon",
-                        "build-id": "ASSET_OBJMODEL_BETATIMBERBALLOON"
+                        "build-id": "ASSET_OBJECTMODEL_BETATIMBERBALLOON"
                     },
                     {
                         "index": 274,
                         "filename": "BetaBanjoBalloon",
-                        "build-id": "ASSET_OBJMODEL_BETABANJOBALLOON"
+                        "build-id": "ASSET_OBJECTMODEL_BETABANJOBALLOON"
                     },
                     {
                         "index": 275,
                         "filename": "BetaDrumstickBalloon",
-                        "build-id": "ASSET_OBJMODEL_BETADRUMSTICKBALLOON"
+                        "build-id": "ASSET_OBJECTMODEL_BETADRUMSTICKBALLOON"
                     },
                     {
                         "index": 276,
                         "filename": "BetaPipsyBalloon",
-                        "build-id": "ASSET_OBJMODEL_BETAPIPSYBALLOON"
+                        "build-id": "ASSET_OBJECTMODEL_BETAPIPSYBALLOON"
                     },
                     {
                         "index": 277,
                         "filename": "selectionshadow",
-                        "build-id": "ASSET_OBJMODEL_SELECTIONSHADOW"
+                        "build-id": "ASSET_OBJECTMODEL_SELECTIONSHADOW"
                     },
                     {
                         "index": 278,
                         "filename": "BetaPlayer1Balloon",
-                        "build-id": "ASSET_OBJMODEL_BETAPLAYER1BALLOON"
+                        "build-id": "ASSET_OBJECTMODEL_BETAPLAYER1BALLOON"
                     },
                     {
                         "index": 279,
                         "filename": "BetaPlayer2Balloon",
-                        "build-id": "ASSET_OBJMODEL_BETAPLAYER2BALLOON"
+                        "build-id": "ASSET_OBJECTMODEL_BETAPLAYER2BALLOON"
                     },
                     {
                         "index": 280,
                         "filename": "BetaPlayer3Balloon",
-                        "build-id": "ASSET_OBJMODEL_BETAPLAYER3BALLOON"
+                        "build-id": "ASSET_OBJECTMODEL_BETAPLAYER3BALLOON"
                     },
                     {
                         "index": 281,
                         "filename": "BetaPlayer4Balloon",
-                        "build-id": "ASSET_OBJMODEL_BETAPLAYER4BALLOON"
+                        "build-id": "ASSET_OBJECTMODEL_BETAPLAYER4BALLOON"
                     },
                     {
                         "index": 282,
                         "filename": "BadgerAnimWalk",
-                        "build-id": "ASSET_OBJMODEL_BADGERANIMWALK"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERANIMWALK"
                     },
                     {
                         "index": 283,
                         "filename": "timberdancer",
-                        "build-id": "ASSET_OBJMODEL_TIMBERDANCER"
+                        "build-id": "ASSET_OBJECTMODEL_TIMBERDANCER"
                     },
                     {
                         "index": 284,
                         "filename": "tiptupdancer",
-                        "build-id": "ASSET_OBJMODEL_TIPTUPDANCER"
+                        "build-id": "ASSET_OBJECTMODEL_TIPTUPDANCER"
                     },
                     {
                         "index": 285,
                         "filename": "rarewarelogo",
-                        "build-id": "ASSET_OBJMODEL_RAREWARELOGO"
+                        "build-id": "ASSET_OBJECTMODEL_RAREWARELOGO"
                     },
                     {
                         "index": 286,
                         "filename": "Frog_0",
-                        "build-id": "ASSET_OBJMODEL_FROG_0"
+                        "build-id": "ASSET_OBJECTMODEL_FROG_0"
                     },
                     {
                         "index": 287,
                         "filename": "Frog_1",
-                        "build-id": "ASSET_OBJMODEL_FROG_1"
+                        "build-id": "ASSET_OBJECTMODEL_FROG_1"
                     },
                     {
                         "index": 288,
                         "filename": "checkpoint",
-                        "build-id": "ASSET_OBJMODEL_CHECKPOINT"
+                        "build-id": "ASSET_OBJECTMODEL_CHECKPOINT"
                     },
                     {
                         "index": 289,
                         "filename": "midifade",
-                        "build-id": "ASSET_OBJMODEL_MIDIFADE"
+                        "build-id": "ASSET_OBJECTMODEL_MIDIFADE"
                     },
                     {
                         "index": 290,
                         "filename": "modechange",
-                        "build-id": "ASSET_OBJMODEL_MODECHANGE"
+                        "build-id": "ASSET_OBJECTMODEL_MODECHANGE"
                     },
                     {
                         "index": 291,
                         "filename": "exit",
-                        "build-id": "ASSET_OBJMODEL_EXIT"
+                        "build-id": "ASSET_OBJECTMODEL_EXIT"
                     },
                     {
                         "index": 292,
                         "filename": "bonus",
-                        "build-id": "ASSET_OBJMODEL_BONUS"
+                        "build-id": "ASSET_OBJECTMODEL_BONUS"
                     },
                     {
                         "index": 293,
                         "filename": "AnimCamera",
-                        "build-id": "ASSET_OBJMODEL_ANIMCAMERA"
+                        "build-id": "ASSET_OBJECTMODEL_ANIMCAMERA"
                     },
                     {
                         "index": 294,
                         "filename": "Animation",
-                        "build-id": "ASSET_OBJMODEL_ANIMATION"
+                        "build-id": "ASSET_OBJECTMODEL_ANIMATION"
                     },
                     {
                         "index": 295,
                         "filename": "rgbalight_0",
-                        "build-id": "ASSET_OBJMODEL_RGBALIGHT_0"
+                        "build-id": "ASSET_OBJECTMODEL_RGBALIGHT_0"
                     },
                     {
                         "index": 296,
                         "filename": "rgbalight_1",
-                        "build-id": "ASSET_OBJMODEL_RGBALIGHT_1"
+                        "build-id": "ASSET_OBJECTMODEL_RGBALIGHT_1"
                     },
                     {
                         "index": 297,
                         "filename": "rgbalight_2",
-                        "build-id": "ASSET_OBJMODEL_RGBALIGHT_2"
+                        "build-id": "ASSET_OBJECTMODEL_RGBALIGHT_2"
                     },
                     {
                         "index": 298,
                         "filename": "rgbalight_3",
-                        "build-id": "ASSET_OBJMODEL_RGBALIGHT_3"
+                        "build-id": "ASSET_OBJECTMODEL_RGBALIGHT_3"
                     },
                     {
                         "index": 299,
                         "filename": "N64logo",
-                        "build-id": "ASSET_OBJMODEL_N64LOGO"
+                        "build-id": "ASSET_OBJECTMODEL_N64LOGO"
                     },
                     {
                         "index": 300,
                         "filename": "Widescreen",
-                        "build-id": "ASSET_OBJMODEL_WIDESCREEN"
+                        "build-id": "ASSET_OBJECTMODEL_WIDESCREEN"
                     },
                     {
                         "index": 301,
                         "filename": "AnimDome",
-                        "build-id": "ASSET_OBJMODEL_ANIMDOME"
+                        "build-id": "ASSET_OBJECTMODEL_ANIMDOME"
                     },
                     {
                         "index": 302,
                         "filename": "DiddySelect",
-                        "build-id": "ASSET_OBJMODEL_DIDDYSELECT"
+                        "build-id": "ASSET_OBJECTMODEL_DIDDYSELECT"
                     },
                     {
                         "index": 303,
                         "filename": "Electricity",
-                        "build-id": "ASSET_OBJMODEL_ELECTRICITY"
+                        "build-id": "ASSET_OBJECTMODEL_ELECTRICITY"
                     },
                     {
                         "index": 304,
                         "filename": "KremSelect",
-                        "build-id": "ASSET_OBJMODEL_KREMSELECT"
+                        "build-id": "ASSET_OBJECTMODEL_KREMSELECT"
                     },
                     {
                         "index": 305,
                         "filename": "BadgerSelect",
-                        "build-id": "ASSET_OBJMODEL_BADGERSELECT"
+                        "build-id": "ASSET_OBJECTMODEL_BADGERSELECT"
                     },
                     {
                         "index": 306,
                         "filename": "TortSelect",
-                        "build-id": "ASSET_OBJMODEL_TORTSELECT"
+                        "build-id": "ASSET_OBJECTMODEL_TORTSELECT"
                     },
                     {
                         "index": 307,
                         "filename": "BanjoSelect",
-                        "build-id": "ASSET_OBJMODEL_BANJOSELECT"
+                        "build-id": "ASSET_OBJECTMODEL_BANJOSELECT"
                     },
                     {
                         "index": 308,
                         "filename": "TigerSelect",
-                        "build-id": "ASSET_OBJMODEL_TIGERSELECT"
+                        "build-id": "ASSET_OBJECTMODEL_TIGERSELECT"
                     },
                     {
                         "index": 309,
                         "filename": "ChickSelect",
-                        "build-id": "ASSET_OBJMODEL_CHICKSELECT"
+                        "build-id": "ASSET_OBJECTMODEL_CHICKSELECT"
                     },
                     {
                         "index": 310,
                         "filename": "MouseSelect",
-                        "build-id": "ASSET_OBJMODEL_MOUSESELECT"
+                        "build-id": "ASSET_OBJECTMODEL_MOUSESELECT"
                     },
                     {
                         "index": 311,
                         "filename": "ConkSelect",
-                        "build-id": "ASSET_OBJMODEL_CONKSELECT"
+                        "build-id": "ASSET_OBJECTMODEL_CONKSELECT"
                     },
                     {
                         "index": 312,
                         "filename": "postforparty",
-                        "build-id": "ASSET_OBJMODEL_POSTFORPARTY"
+                        "build-id": "ASSET_OBJECTMODEL_POSTFORPARTY"
                     },
                     {
                         "index": 313,
                         "filename": "Lighthouse",
-                        "build-id": "ASSET_OBJMODEL_LIGHTHOUSE"
+                        "build-id": "ASSET_OBJECTMODEL_LIGHTHOUSE"
                     },
                     {
                         "index": 314,
                         "filename": "lighthouse1",
-                        "build-id": "ASSET_OBJMODEL_LIGHTHOUSE1"
+                        "build-id": "ASSET_OBJECTMODEL_LIGHTHOUSE1"
                     },
                     {
                         "index": 315,
                         "filename": "SelectionHill",
-                        "build-id": "ASSET_OBJMODEL_SELECTIONHILL"
+                        "build-id": "ASSET_OBJECTMODEL_SELECTIONHILL"
                     },
                     {
                         "index": 316,
                         "filename": "Rarelogo",
-                        "build-id": "ASSET_OBJMODEL_RARELOGO"
+                        "build-id": "ASSET_OBJECTMODEL_RARELOGO"
                     },
                     {
                         "index": 317,
                         "filename": "WorldKey",
-                        "build-id": "ASSET_OBJMODEL_WORLDKEY"
+                        "build-id": "ASSET_OBJECTMODEL_WORLDKEY"
                     },
                     {
                         "index": 318,
                         "filename": "AnimKey",
-                        "build-id": "ASSET_OBJMODEL_ANIMKEY"
+                        "build-id": "ASSET_OBJECTMODEL_ANIMKEY"
                     },
                     {
                         "index": 319,
                         "filename": "rocketsignpost_0",
-                        "build-id": "ASSET_OBJMODEL_ROCKETSIGNPOST_0"
+                        "build-id": "ASSET_OBJECTMODEL_ROCKETSIGNPOST_0"
                     },
                     {
                         "index": 320,
                         "filename": "rocketsignpost_1",
-                        "build-id": "ASSET_OBJMODEL_ROCKETSIGNPOST_1"
+                        "build-id": "ASSET_OBJECTMODEL_ROCKETSIGNPOST_1"
                     },
                     {
                         "index": 321,
                         "filename": "rocketsignpost_2",
-                        "build-id": "ASSET_OBJMODEL_ROCKETSIGNPOST_2"
+                        "build-id": "ASSET_OBJECTMODEL_ROCKETSIGNPOST_2"
                     },
                     {
                         "index": 322,
                         "filename": "rocketsignpost_3",
-                        "build-id": "ASSET_OBJMODEL_ROCKETSIGNPOST_3"
+                        "build-id": "ASSET_OBJECTMODEL_ROCKETSIGNPOST_3"
                     },
                     {
                         "index": 323,
                         "filename": "rocketsignpost_4",
-                        "build-id": "ASSET_OBJMODEL_ROCKETSIGNPOST_4"
+                        "build-id": "ASSET_OBJECTMODEL_ROCKETSIGNPOST_4"
                     },
                     {
                         "index": 324,
                         "filename": "MagicRing",
-                        "build-id": "ASSET_OBJMODEL_MAGICRING"
+                        "build-id": "ASSET_OBJECTMODEL_MAGICRING"
                     },
                     {
                         "index": 325,
                         "filename": "Leefan",
-                        "build-id": "ASSET_OBJMODEL_LEEFAN"
+                        "build-id": "ASSET_OBJECTMODEL_LEEFAN"
                     },
                     {
                         "index": 326,
                         "filename": "SpaceShip1",
-                        "build-id": "ASSET_OBJMODEL_SPACESHIP1"
+                        "build-id": "ASSET_OBJECTMODEL_SPACESHIP1"
                     },
                     {
                         "index": 327,
                         "filename": "SpaceShip2",
-                        "build-id": "ASSET_OBJMODEL_SPACESHIP2"
+                        "build-id": "ASSET_OBJECTMODEL_SPACESHIP2"
                     },
                     {
                         "index": 328,
                         "filename": "SpaceShip3",
-                        "build-id": "ASSET_OBJMODEL_SPACESHIP3"
+                        "build-id": "ASSET_OBJECTMODEL_SPACESHIP3"
                     },
                     {
                         "index": 329,
                         "filename": "MonoRail",
-                        "build-id": "ASSET_OBJMODEL_MONORAIL"
+                        "build-id": "ASSET_OBJECTMODEL_MONORAIL"
                     },
                     {
                         "index": 330,
                         "filename": "bridge",
-                        "build-id": "ASSET_OBJMODEL_BRIDGE"
+                        "build-id": "ASSET_OBJECTMODEL_BRIDGE"
                     },
                     {
                         "index": 331,
                         "filename": "pirateship",
-                        "build-id": "ASSET_OBJMODEL_PIRATESHIP"
+                        "build-id": "ASSET_OBJECTMODEL_PIRATESHIP"
                     },
                     {
                         "index": 332,
                         "filename": "WorldGate_0",
-                        "build-id": "ASSET_OBJMODEL_WORLDGATE_0"
+                        "build-id": "ASSET_OBJECTMODEL_WORLDGATE_0"
                     },
                     {
                         "index": 333,
                         "filename": "WorldGate_1",
-                        "build-id": "ASSET_OBJMODEL_WORLDGATE_1"
+                        "build-id": "ASSET_OBJECTMODEL_WORLDGATE_1"
                     },
                     {
                         "index": 334,
                         "filename": "WorldGate_2",
-                        "build-id": "ASSET_OBJMODEL_WORLDGATE_2"
+                        "build-id": "ASSET_OBJECTMODEL_WORLDGATE_2"
                     },
                     {
                         "index": 335,
                         "filename": "WorldGate_3",
-                        "build-id": "ASSET_OBJMODEL_WORLDGATE_3"
+                        "build-id": "ASSET_OBJECTMODEL_WORLDGATE_3"
                     },
                     {
                         "index": 336,
                         "filename": "bigbossdoor_0",
-                        "build-id": "ASSET_OBJMODEL_BIGBOSSDOOR_0"
+                        "build-id": "ASSET_OBJECTMODEL_BIGBOSSDOOR_0"
                     },
                     {
                         "index": 337,
                         "filename": "bigbossdoor_1",
-                        "build-id": "ASSET_OBJMODEL_BIGBOSSDOOR_1"
+                        "build-id": "ASSET_OBJECTMODEL_BIGBOSSDOOR_1"
                     },
                     {
                         "index": 338,
                         "filename": "ChalDoor_0",
-                        "build-id": "ASSET_OBJMODEL_CHALDOOR_0"
+                        "build-id": "ASSET_OBJECTMODEL_CHALDOOR_0"
                     },
                     {
                         "index": 339,
                         "filename": "ChalDoor_1",
-                        "build-id": "ASSET_OBJMODEL_CHALDOOR_1"
+                        "build-id": "ASSET_OBJECTMODEL_CHALDOOR_1"
                     },
                     {
                         "index": 340,
                         "filename": "BossDoor_0",
-                        "build-id": "ASSET_OBJMODEL_BOSSDOOR_0"
+                        "build-id": "ASSET_OBJECTMODEL_BOSSDOOR_0"
                     },
                     {
                         "index": 341,
                         "filename": "BossDoor_1",
-                        "build-id": "ASSET_OBJMODEL_BOSSDOOR_1"
+                        "build-id": "ASSET_OBJECTMODEL_BOSSDOOR_1"
                     },
                     {
                         "index": 342,
                         "filename": "BossDoor_2",
-                        "build-id": "ASSET_OBJMODEL_BOSSDOOR_2"
+                        "build-id": "ASSET_OBJECTMODEL_BOSSDOOR_2"
                     },
                     {
                         "index": 343,
                         "filename": "SpaceColumn1",
-                        "build-id": "ASSET_OBJMODEL_SPACECOLUMN1"
+                        "build-id": "ASSET_OBJECTMODEL_SPACECOLUMN1"
                     },
                     {
                         "index": 344,
                         "filename": "SpaceColumn2",
-                        "build-id": "ASSET_OBJMODEL_SPACECOLUMN2"
+                        "build-id": "ASSET_OBJECTMODEL_SPACECOLUMN2"
                     },
                     {
                         "index": 345,
                         "filename": "SpaceColumn3",
-                        "build-id": "ASSET_OBJMODEL_SPACECOLUMN3"
+                        "build-id": "ASSET_OBJECTMODEL_SPACECOLUMN3"
                     },
                     {
                         "index": 346,
                         "filename": "TrackSelectFrame",
-                        "build-id": "ASSET_OBJMODEL_TRACKSELECTFRAME"
+                        "build-id": "ASSET_OBJECTMODEL_TRACKSELECTFRAME"
                     },
                     {
                         "index": 347,
                         "filename": "windsail",
-                        "build-id": "ASSET_OBJMODEL_WINDSAIL"
+                        "build-id": "ASSET_OBJECTMODEL_WINDSAIL"
                     },
                     {
                         "index": 348,
                         "filename": "EffectBox",
-                        "build-id": "ASSET_OBJMODEL_EFFECTBOX"
+                        "build-id": "ASSET_OBJECTMODEL_EFFECTBOX"
                     },
                     {
                         "index": 349,
                         "filename": "Asteroid",
-                        "build-id": "ASSET_OBJMODEL_ASTEROID"
+                        "build-id": "ASSET_OBJECTMODEL_ASTEROID"
                     },
                     {
                         "index": 350,
                         "filename": "trophycab",
-                        "build-id": "ASSET_OBJMODEL_TROPHYCAB"
+                        "build-id": "ASSET_OBJECTMODEL_TROPHYCAB"
                     },
                     {
                         "index": 351,
                         "filename": "laserbolt",
-                        "build-id": "ASSET_OBJMODEL_LASERBOLT"
+                        "build-id": "ASSET_OBJECTMODEL_LASERBOLT"
                     },
                     {
                         "index": 352,
                         "filename": "TrackSelectFrameUnknown",
-                        "build-id": "ASSET_OBJMODEL_TRACKSELECTFRAMEUNKNOWN"
+                        "build-id": "ASSET_OBJECTMODEL_TRACKSELECTFRAMEUNKNOWN"
                     },
                     {
                         "index": 353,
                         "filename": "TrackSelectFrameChallenge",
-                        "build-id": "ASSET_OBJMODEL_TRACKSELECTFRAMECHALLENGE"
+                        "build-id": "ASSET_OBJECTMODEL_TRACKSELECTFRAMECHALLENGE"
                     },
                     {
                         "index": 354,
                         "filename": "TrackSelectFrameTrophyRace",
-                        "build-id": "ASSET_OBJMODEL_TRACKSELECTFRAMETROPHYRACE"
+                        "build-id": "ASSET_OBJECTMODEL_TRACKSELECTFRAMETROPHYRACE"
                     },
                     {
                         "index": 355,
                         "filename": "Unknown",
-                        "build-id": "ASSET_OBJMODEL_UNKNOWN"
+                        "build-id": "ASSET_OBJECTMODEL_UNKNOWN"
                     },
                     {
                         "index": 356,
                         "filename": "pigheadcolours_0",
-                        "build-id": "ASSET_OBJMODEL_PIGHEADCOLOURS_0"
+                        "build-id": "ASSET_OBJECTMODEL_PIGHEADCOLOURS_0"
                     },
                     {
                         "index": 357,
                         "filename": "pigheadcolours_1",
-                        "build-id": "ASSET_OBJMODEL_PIGHEADCOLOURS_1"
+                        "build-id": "ASSET_OBJECTMODEL_PIGHEADCOLOURS_1"
                     },
                     {
                         "index": 358,
                         "filename": "pigheadcolours_2",
-                        "build-id": "ASSET_OBJMODEL_PIGHEADCOLOURS_2"
+                        "build-id": "ASSET_OBJECTMODEL_PIGHEADCOLOURS_2"
                     },
                     {
                         "index": 359,
                         "filename": "pigheadcolours_3",
-                        "build-id": "ASSET_OBJMODEL_PIGHEADCOLOURS_3"
+                        "build-id": "ASSET_OBJECTMODEL_PIGHEADCOLOURS_3"
                     },
                     {
                         "index": 360,
                         "filename": "pigheadcolours_4",
-                        "build-id": "ASSET_OBJMODEL_PIGHEADCOLOURS_4"
+                        "build-id": "ASSET_OBJECTMODEL_PIGHEADCOLOURS_4"
                     },
                     {
                         "index": 361,
                         "filename": "pterodactyl",
-                        "build-id": "ASSET_OBJMODEL_PTERODACTYL"
+                        "build-id": "ASSET_OBJECTMODEL_PTERODACTYL"
                     },
                     {
                         "index": 362,
                         "filename": "amuletpiece1",
-                        "build-id": "ASSET_OBJMODEL_AMULETPIECE1"
+                        "build-id": "ASSET_OBJECTMODEL_AMULETPIECE1"
                     },
                     {
                         "index": 363,
                         "filename": "amuletpiece2",
-                        "build-id": "ASSET_OBJMODEL_AMULETPIECE2"
+                        "build-id": "ASSET_OBJECTMODEL_AMULETPIECE2"
                     },
                     {
                         "index": 364,
                         "filename": "amuletpiece3",
-                        "build-id": "ASSET_OBJMODEL_AMULETPIECE3"
+                        "build-id": "ASSET_OBJECTMODEL_AMULETPIECE3"
                     },
                     {
                         "index": 365,
                         "filename": "amuletpiece4",
-                        "build-id": "ASSET_OBJMODEL_AMULETPIECE4"
+                        "build-id": "ASSET_OBJECTMODEL_AMULETPIECE4"
                     },
                     {
                         "index": 366,
                         "filename": "swamulet1",
-                        "build-id": "ASSET_OBJMODEL_SWAMULET1"
+                        "build-id": "ASSET_OBJECTMODEL_SWAMULET1"
                     },
                     {
                         "index": 367,
                         "filename": "swamulet2",
-                        "build-id": "ASSET_OBJMODEL_SWAMULET2"
+                        "build-id": "ASSET_OBJECTMODEL_SWAMULET2"
                     },
                     {
                         "index": 368,
                         "filename": "swamulet3",
-                        "build-id": "ASSET_OBJMODEL_SWAMULET3"
+                        "build-id": "ASSET_OBJECTMODEL_SWAMULET3"
                     },
                     {
                         "index": 369,
                         "filename": "swamulet4",
-                        "build-id": "ASSET_OBJMODEL_SWAMULET4"
+                        "build-id": "ASSET_OBJECTMODEL_SWAMULET4"
                     },
                     {
                         "index": 370,
                         "filename": "pigfaceanimator",
-                        "build-id": "ASSET_OBJMODEL_PIGFACEANIMATOR"
+                        "build-id": "ASSET_OBJECTMODEL_PIGFACEANIMATOR"
                     },
                     {
                         "index": 371,
                         "filename": "pillar",
-                        "build-id": "ASSET_OBJMODEL_PILLAR"
+                        "build-id": "ASSET_OBJECTMODEL_PILLAR"
                     },
                     {
                         "index": 372,
                         "filename": "boulderanim",
-                        "build-id": "ASSET_OBJMODEL_BOULDERANIM"
+                        "build-id": "ASSET_OBJECTMODEL_BOULDERANIM"
                     },
                     {
                         "index": 373,
                         "filename": "Haystack",
-                        "build-id": "ASSET_OBJMODEL_HAYSTACK"
+                        "build-id": "ASSET_OBJECTMODEL_HAYSTACK"
                     },
                     {
                         "index": 374,
                         "filename": "BetaProAM64HotAirBalloon",
-                        "build-id": "ASSET_OBJMODEL_BETAPROAM64HOTAIRBALLOON"
+                        "build-id": "ASSET_OBJECTMODEL_BETAPROAM64HOTAIRBALLOON"
                     },
                     {
                         "index": 375,
                         "filename": "MiniShip",
-                        "build-id": "ASSET_OBJMODEL_MINISHIP"
+                        "build-id": "ASSET_OBJECTMODEL_MINISHIP"
                     },
                     {
                         "index": 376,
                         "filename": "GoldTrophy",
-                        "build-id": "ASSET_OBJMODEL_GOLDTROPHY"
+                        "build-id": "ASSET_OBJECTMODEL_GOLDTROPHY"
                     },
                     {
                         "index": 377,
                         "filename": "Parktrophy",
-                        "build-id": "ASSET_OBJMODEL_PARKTROPHY"
+                        "build-id": "ASSET_OBJECTMODEL_PARKTROPHY"
                     },
                     {
                         "index": 378,
                         "filename": "Ticktrophy",
-                        "build-id": "ASSET_OBJMODEL_TICKTROPHY"
+                        "build-id": "ASSET_OBJECTMODEL_TICKTROPHY"
                     },
                     {
                         "index": 379,
                         "filename": "SpaceDome",
-                        "build-id": "ASSET_OBJMODEL_SPACEDOME"
+                        "build-id": "ASSET_OBJECTMODEL_SPACEDOME"
                     },
                     {
                         "index": 380,
                         "filename": "Missile",
-                        "build-id": "ASSET_OBJMODEL_MISSILE"
+                        "build-id": "ASSET_OBJECTMODEL_MISSILE"
                     },
                     {
                         "index": 381,
                         "filename": "Shield_1",
-                        "build-id": "ASSET_OBJMODEL_SHIELD_1"
+                        "build-id": "ASSET_OBJECTMODEL_SHIELD_1"
                     },
                     {
                         "index": 382,
                         "filename": "Shield_0",
-                        "build-id": "ASSET_OBJMODEL_SHIELD_0"
+                        "build-id": "ASSET_OBJECTMODEL_SHIELD_0"
                     },
                     {
                         "index": 383,
                         "filename": "Shield_2",
-                        "build-id": "ASSET_OBJMODEL_SHIELD_2"
+                        "build-id": "ASSET_OBJECTMODEL_SHIELD_2"
                     },
                     {
                         "index": 384,
                         "filename": "TTDoor_0",
-                        "build-id": "ASSET_OBJMODEL_TTDOOR_0"
+                        "build-id": "ASSET_OBJECTMODEL_TTDOOR_0"
                     },
                     {
                         "index": 385,
                         "filename": "TTDoor_1",
-                        "build-id": "ASSET_OBJMODEL_TTDOOR_1"
+                        "build-id": "ASSET_OBJECTMODEL_TTDOOR_1"
                     },
                     {
                         "index": 386,
                         "filename": "TTDoor_2",
-                        "build-id": "ASSET_OBJMODEL_TTDOOR_2"
+                        "build-id": "ASSET_OBJECTMODEL_TTDOOR_2"
                     },
                     {
                         "index": 387,
                         "filename": "piglog",
-                        "build-id": "ASSET_OBJMODEL_PIGLOG"
+                        "build-id": "ASSET_OBJECTMODEL_PIGLOG"
                     },
                     {
                         "index": 388,
                         "filename": "KeithPigDoor",
-                        "build-id": "ASSET_OBJMODEL_KEITHPIGDOOR"
+                        "build-id": "ASSET_OBJECTMODEL_KEITHPIGDOOR"
                     },
                     {
                         "index": 389,
                         "filename": "MagnetFX",
-                        "build-id": "ASSET_OBJMODEL_MAGNETFX"
+                        "build-id": "ASSET_OBJECTMODEL_MAGNETFX"
                     }
                 ]
             },
