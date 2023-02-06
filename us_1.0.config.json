@@ -235,8 +235,8 @@
                     },
                     {
                         "index": 18,
-                        "filename": "pirate_taffrail",
-                        "build-id": "ASSET_TEX3D_TROPICAL_PIRATETAFFRAIL",
+                        "filename": "pirateship_taffrail",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PIRATESHIPTAFFRAIL",
                         "folder": "tropical"
                     },
                     {
@@ -331,14 +331,14 @@
                     },
                     {
                         "index": 34,
-                        "filename": "stone",
-                        "build-id": "ASSET_TEX3D_MEDIEVAL_STONE",
+                        "filename": "yellow_stone",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_YELLOWSTONE",
                         "folder": "medieval"
                     },
                     {
                         "index": 35,
-                        "filename": "stone_hillside",
-                        "build-id": "ASSET_TEX3D_MEDIEVAL_STONEHILLSIDE",
+                        "filename": "yellow_stone_hillside",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_YELLOWSTONEHILLSIDE",
                         "folder": "medieval"
                     },
                     {
@@ -349,32 +349,32 @@
                     },
                     {
                         "index": 37,
-                        "filename": "start_finish_line_0",
-                        "build-id": "ASSET_TEX3D_SPACE_STARTFINISHLINE_0",
+                        "filename": "finish_line_0",
+                        "build-id": "ASSET_TEX3D_SPACE_FINISHLINE_0",
                         "folder": "space"
                     },
                     {
                         "index": 38,
-                        "filename": "start_finish_line_1",
-                        "build-id": "ASSET_TEX3D_SPACE_STARTFINISHLINE_1",
+                        "filename": "finish_line_1",
+                        "build-id": "ASSET_TEX3D_SPACE_FINISHLINE_1",
                         "folder": "space"
                     },
                     {
                         "index": 39,
-                        "filename": "start_finish_line_2",
-                        "build-id": "ASSET_TEX3D_SPACE_STARTFINISHLINE_2",
+                        "filename": "finish_line_2",
+                        "build-id": "ASSET_TEX3D_SPACE_FINISHLINE_2",
                         "folder": "space"
                     },
                     {
                         "index": 40,
-                        "filename": "start_finish_line_3",
-                        "build-id": "ASSET_TEX3D_SPACE_STARTFINISHLINE_3",
+                        "filename": "finish_line_3",
+                        "build-id": "ASSET_TEX3D_SPACE_FINISHLINE_3",
                         "folder": "space"
                     },
                     {
                         "index": 41,
-                        "filename": "start_finish_line_4",
-                        "build-id": "ASSET_TEX3D_SPACE_STARTFINISHLINE_4",
+                        "filename": "finish_line_4",
+                        "build-id": "ASSET_TEX3D_SPACE_FINISHLINE_4",
                         "folder": "space"
                     },
                     {
@@ -553,7 +553,7 @@
                     },
                     {
                         "index": 71,
-                        "filename": "debug_checker_redyellow",
+                        "filename": "debug_chequered_redyellow",
                         "build-id": "ASSET_TEX3D_COMMON_DEBUGREDYELLOW",
                         "folder": "common"
                     },
@@ -880,6 +880,450 @@
                         "filename": "icy_path",
                         "build-id": "ASSET_TEX3D_WINTER_ICYPATH",
                         "folder": "winter"
+                    },
+                    {
+                        "index": 126,
+                        "filename": "jungle_trees_billboard_0",
+                        "build-id": "ASSET_TEX3D_TROPICAL_JUNGLETREESBILLBOARD_0",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 127,
+                        "filename": "jungle_trees_billboard_1",
+                        "build-id": "ASSET_TEX3D_TROPICAL_JUNGLETREESBILLBOARD_1",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 128,
+                        "filename": "mossy_ship_planks_broken",
+                        "build-id": "ASSET_TEX3D_TROPICAL_MOSSYSHIPPLANKSBROKEN",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 129,
+                        "filename": "mossy_ship_planks",
+                        "build-id": "ASSET_TEX3D_TROPICAL_MOSSYSHIPPLANKS",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 130,
+                        "filename": "mossy_ship_torn_sail",
+                        "build-id": "ASSET_TEX3D_TROPICAL_MOSSYSHIPTORNSAIL",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 131,
+                        "filename": "pirateship_rear_decoration",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PIRATESHIPREARDECORATION",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 132,
+                        "filename": "thatch_roofing",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_THATCHROOFING",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 133,
+                        "filename": "house_window_with_plants",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_HOUSEWINDOWWITHPLANTS",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 134,
+                        "filename": "house_door",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_HOUSEDOOR",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 135,
+                        "filename": "house_roof_support",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_HOUSEROOFSUPPORT",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 136,
+                        "filename": "house_wall_support",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_HOUSEWALLSUPPORT",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 137,
+                        "filename": "white",
+                        "build-id": "ASSET_TEX3D_COMMON_WHITE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 138,
+                        "filename": "finish_line_tape",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINETAPE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 139,
+                        "filename": "ice_bricks2",
+                        "build-id": "ASSET_TEX3D_WINTER_ICEBRICKS2",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 140,
+                        "filename": "water_still2",
+                        "build-id": "ASSET_TEX3D_COMMON_WATERSTILL2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 141,
+                        "filename": "unused_track_select_frame_texture",
+                        "build-id": "ASSET_TEX3D_COMMON_UNUSEDTRACKSELCTFRAMETEXTURE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 142,
+                        "filename": "sand_dry",
+                        "build-id": "ASSET_TEX3D_COMMON_SANDDRY",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 143,
+                        "filename": "sand_dry_to_wet",
+                        "build-id": "ASSET_TEX3D_COMMON_SANDDRYTOWET",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 144,
+                        "filename": "ancient_lake_sign",
+                        "build-id": "ASSET_TEX3D_DINO_ANCIENTLAKESIGN",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 145,
+                        "filename": "log_exposed_side",
+                        "build-id": "ASSET_TEX3D_COMMON_LOGEXPOSEDSIDE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 146,
+                        "filename": "brick_rail_with_snow_edge",
+                        "build-id": "ASSET_TEX3D_WINTER_BRICKRAILWITHSNOWEDGE",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 147,
+                        "filename": "brick_rail_with_snow",
+                        "build-id": "ASSET_TEX3D_WINTER_BRICKRAILWITHSNOW",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 148,
+                        "filename": "colourful_arrow",
+                        "build-id": "ASSET_TEX3D_COMMON_COLOURFULARROW",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 149,
+                        "filename": "blue_floor_tile",
+                        "build-id": "ASSET_TEX3D_SPACE_BLUEFLOORTILE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 150,
+                        "filename": "pirateship_underside",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PIRATESHIPUNDERSIDE",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 151,
+                        "filename": "pirateship_sails",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PIRATESHIPSAILS",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 152,
+                        "filename": "pirateship_bowspirit",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PIRATESHIPBOWSPIRIT",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 153,
+                        "filename": "sand2",
+                        "build-id": "ASSET_TEX3D_COMMON_SAND2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 154,
+                        "filename": "trackselectframe_gold",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRACKSELECTFRAMEGOLD",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 155,
+                        "filename": "pirateship_cannon",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PIRATESHIPCANNON",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 156,
+                        "filename": "chain_link",
+                        "build-id": "ASSET_TEX3D_COMMON_CHAINLINK",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 157,
+                        "filename": "finish_line_tape2",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINETAPE2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 158,
+                        "filename": "finish_line_water",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEWATER",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 159,
+                        "filename": "finish_line_chequered_red_and_white",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINECHEQUEREDREDWHITE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 160,
+                        "filename": "finish_line_chequered_red_and_yellow",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINECHEQUEREDREDYELLOW",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 161,
+                        "filename": "finish_line_chequered_purple_and_yellow",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINECHEQUEREDPURPLEYELLOW",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 162,
+                        "filename": "cyan_yellow_arrow_sign",
+                        "build-id": "ASSET_TEX3D_COMMON_CYANYELLOWARROWSIGN",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 163,
+                        "filename": "blue_yellow_arrows2_0",
+                        "build-id": "ASSET_TEX3D_COMMON_BLUEYELLOWARROWS2_0",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 164,
+                        "filename": "blue_yellow_arrows2_1",
+                        "build-id": "ASSET_TEX3D_COMMON_BLUEYELLOWARROWS2_1",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 165,
+                        "filename": "blue_yellow_arrows2_2",
+                        "build-id": "ASSET_TEX3D_COMMON_BLUEYELLOWARROWS2_2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 166,
+                        "filename": "transparent",
+                        "build-id": "ASSET_TEX3D_COMMON_TRANSPARENT",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 167,
+                        "filename": "stone_with_grass",
+                        "build-id": "ASSET_TEX3D_UNUSED_STONEWITHGRASS",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 168,
+                        "filename": "orange_stone",
+                        "build-id": "ASSET_TEX3D_DINO_ORANGESTONE",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 169,
+                        "filename": "thin_cloud",
+                        "build-id": "ASSET_TEX3D_DINO_THINCLOUD",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 170,
+                        "filename": "dome_clouds",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMECLOUDS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 171,
+                        "filename": "dome_clouds2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMECLOUDS2",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 172,
+                        "filename": "temple_brick",
+                        "build-id": "ASSET_TEX3D_DINO_TEMPLEBRICK",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 173,
+                        "filename": "snow3",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOW3",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 174,
+                        "filename": "temple_brick_tile",
+                        "build-id": "ASSET_TEX3D_DINO_TEMPLEBRICKTILE",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 175,
+                        "filename": "castle_tower_block",
+                        "build-id": "ASSET_TEX3D_TROPICAL_CASTLETOWERBLOCK",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 176,
+                        "filename": "bridge",
+                        "build-id": "ASSET_TEX3D_UNUSED_BRIDGE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 177,
+                        "filename": "bridge2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BRIDGE2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 178,
+                        "filename": "flashing_arrow",
+                        "build-id": "ASSET_TEX3D_COMMON_FLASHINGARROW",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 179,
+                        "filename": "metal_environment_map",
+                        "build-id": "ASSET_TEX3D_UNUSED_METALENVIRONMENTMAP",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 180,
+                        "filename": "grass_transition",
+                        "build-id": "ASSET_TEX3D_COMMON_GRASSTRANSITION",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 181,
+                        "filename": "grass3",
+                        "build-id": "ASSET_TEX3D_COMMON_GRASS3",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 182,
+                        "filename": "pirateship_guardrail",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PIRATESHIPGUARDRAIL",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 183,
+                        "filename": "wood_bridge",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WOODBRIDGE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 184,
+                        "filename": "snowy_path",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWYPATH",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 185,
+                        "filename": "mossy_overlay",
+                        "build-id": "ASSET_TEX3D_TROPICAL_MOSSYOVERLAY",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 186,
+                        "filename": "fossil_canyon_sign",
+                        "build-id": "ASSET_TEX3D_DINO_FOSSILCANYONSIGN",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 187,
+                        "filename": "trophy_cab_base",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TROPHYCABBASE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 188,
+                        "filename": "orange_stone_wall_hillside",
+                        "build-id": "ASSET_TEX3D_COMMON_ORANGESTONEWALLHILLSIDE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 189,
+                        "filename": "blue_stone_wall_sandy_with_moss",
+                        "build-id": "ASSET_TEX3D_TROPICAL_BLUESTONEWALLSANDYWITHMOSS",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 190,
+                        "filename": "dirt_blue_stone_transition",
+                        "build-id": "ASSET_TEX3D_COMMON_DIRTBLUESTONETRANSITION",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 191,
+                        "filename": "blue_stone",
+                        "build-id": "ASSET_TEX3D_COMMON_BLUESTONE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 192,
+                        "filename": "blue_stone_sandy",
+                        "build-id": "ASSET_TEX3D_COMMON_BLUESTONESANDY",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 193,
+                        "filename": "hot_top_volcano_sign",
+                        "build-id": "ASSET_TEX3D_DINO_HOTTOPVOLCANOSIGN",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 194,
+                        "filename": "unknown_icy_texture",
+                        "build-id": "ASSET_TEX3D_UNUSED_UNKNOWNICYTEXTURE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 195,
+                        "filename": "transparent",
+                        "build-id": "ASSET_TEX3D_UNUSED_TRANSPARENT",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 196,
+                        "filename": "blue_stone_wall_sandy_heavy_moss",
+                        "build-id": "ASSET_TEX3D_TROPICAL_BLUESTONEWALLSANDYHEAVYMOSS",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 197,
+                        "filename": "moss",
+                        "build-id": "ASSET_TEX3D_UNUSED_MOSS",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 198,
+                        "filename": "jungle_falls_sign",
+                        "build-id": "ASSET_TEX3D_DINO_JUNGLEFALLSSIGN",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 199,
+                        "filename": "blinking_computer_lights",
+                        "build-id": "ASSET_TEX3D_SPACE_BLINKINGCOMPUTERLIGHTS",
+                        "folder": "space"
                     },
                     {
                         "index": 625,
