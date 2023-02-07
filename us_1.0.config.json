@@ -2541,15 +2541,1798 @@
                         "filename": "drumstick_pants_bottom_charselect",
                         "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKPANTSBOTTOMCHARSELECT",
                         "folder": "objects"
-                    },                                                                                                                             
+                    },
+                    {
+                        "index": 402,
+                        "filename": "diddy_mouth_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYMOUTHCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 403,
+                        "filename": "drumstick_eyes",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKEYES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 404,
+                        "filename": "racer_common_plane_underside",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONPLANEUNDERSIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 405,
+                        "filename": "bluey_tuxedo_piece",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BLUEYTUXEDOPIECE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 406,
+                        "filename": "conker_fur",
+                        "build-id": "ASSET_TEX3D_OBJECTS_CONKERFUR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 407,
+                        "filename": "conker_eyes",
+                        "build-id": "ASSET_TEX3D_OBJECTS_CONKEREYES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 408,
+                        "filename": "conkey_mouth",
+                        "build-id": "ASSET_TEX3D_OBJECTS_CONKEYMOUTH",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 409,
+                        "filename": "conker_fur_solid",
+                        "build-id": "ASSET_TEX3D_OBJECTS_CONKERFURSOLID",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 410,
+                        "filename": "conker_shoes_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_CONKERSHOESCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 411,
+                        "filename": "conker_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_CONKERBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 412,
+                        "filename": "beta_banjo_balloon_envmap",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABANJOBALLOONENVMAP",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 413,
+                        "filename": "racer_common_break_light",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONBREAKLIGHT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 414,
+                        "filename": "banjo_break_light1",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOBREAKLIGHT1",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 415,
+                        "filename": "banjo_break_light2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOBREAKLIGHT2",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 416,
+                        "filename": "banjo_break_light3",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOBREAKLIGHT3",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 417,
+                        "filename": "banjo_break_light4",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOBREAKLIGHT4",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 418,
+                        "filename": "banjo_break_light5",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOBREAKLIGHT5",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 419,
+                        "filename": "racer_common_plane_break_light",
+                        "build-id": "ASSET_TEX3D_UNUSED_RACERCOMMONPLANEBREAKLIGHT",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 420,
+                        "filename": "drumstick_straps",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKSTRAPS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 421,
+                        "filename": "diddy_lower_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYLOWERBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 422,
+                        "filename": "diddy_lower_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYLOWERFRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 423,
+                        "filename": "diddy_unknown",
+                        "build-id": "ASSET_TEX3D_UNUSED_DIDDYUNKNOWN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 424,
+                        "filename": "diddy_eye_noblink",
+                        "build-id": "ASSET_TEX3D_UNUSED_DIDDYEYENOBLINK",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 425,
+                        "filename": "diddy_cap_strap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYCAPSTRAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 426,
+                        "filename": "diddy_cap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYCAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 427,
+                        "filename": "diddy_back_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYBACKLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 428,
+                        "filename": "diddy_back_star",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYBACKSTAR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 429,
+                        "filename": "diddy_wrist",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYWRIST",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 430,
+                        "filename": "diddy_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 431,
+                        "filename": "yellow_dinosaur_feet",
+                        "build-id": "ASSET_TEX3D_OBJECTS_YELLOWDINOSAURFEET",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 432,
+                        "filename": "green_dinosaur_underside",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GREENDINOSAURUNDERSIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 433,
+                        "filename": "yellow_dinosaur_neck_transition",
+                        "build-id": "ASSET_TEX3D_OBJECTS_YELLOWDINOSAURNECKTRANSITION",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 434,
+                        "filename": "green_dinosaur_face_smile",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GREENDINOSAURFACESMILE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 435,
+                        "filename": "yellow_dinosaur_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_YELLOWDINOSAURNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 436,
+                        "filename": "green_dinosaur_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GREENDINOSAURNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 437,
+                        "filename": "green_dinosaur_skin",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GREENDINOSAURSKIN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 438,
+                        "filename": "yellow_dinosaur_neck_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_YELLOWDINOSAURNECKBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 439,
+                        "filename": "yellow_dinosaur_limbs",
+                        "build-id": "ASSET_TEX3D_OBJECTS_YELLOWDINOSAURLIMBS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 440,
+                        "filename": "racer_common_steering_wheel",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONSTEERINGWHEEL",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 441,
+                        "filename": "diddy_front_neckloop",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYFRONTNECKLOOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 442,
+                        "filename": "smokey_tricky_tongue",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SMOKEYTRICKYTONGUE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 443,
+                        "filename": "smokey_arms_back_scales",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SMOKEYARMSBACKSCALES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 444,
+                        "filename": "smokey_back_head_scales",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SMOKEYBACKHEADSCALES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 445,
+                        "filename": "smokey_underside",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SMOKEYUNDERSIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 446,
+                        "filename": "smokey_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SMOKEYEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 447,
+                        "filename": "spacecolumn_smokey_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SPACECOLUMNSMOKEYEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 448,
+                        "filename": "smokey_feet_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SMOKEYFEETBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 449,
+                        "filename": "smokey_cheek",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SMOKEYCHEEK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 450,
+                        "filename": "drumstick_straps_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKSTRAPSLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 451,
+                        "filename": "dome_blue_sky_clouds_0",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKYCLOUDS_0",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 452,
+                        "filename": "dome_blue_sky_clouds_1",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKYCLOUDS_1",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 453,
+                        "filename": "racer_common_car_exhaust",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONCAREXHAUST",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 454,
+                        "filename": "racer_common_car_exhaust_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONCAREXHAUSTLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 455,
+                        "filename": "exit",
+                        "build-id": "ASSET_TEX3D_OBJECTS_EXIT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 456,
+                        "filename": "stopwatch_eye_0",
+                        "build-id": "ASSET_TEX3D_OBJECTS_STOPWATCHEYE_0",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 457,
+                        "filename": "stopwatch_eye_1",
+                        "build-id": "ASSET_TEX3D_OBJECTS_STOPWATCHEYE_1",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 458,
+                        "filename": "stopwatch_eye_2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_STOPWATCHEYE_2",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 459,
+                        "filename": "frog_belly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_FROGBELLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 460,
+                        "filename": "blue",
+                        "build-id": "ASSET_TEX3D_UNUSED_BLUE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 461,
+                        "filename": "tiptup_shell_outline",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPSHELLOUTLINE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 462,
+                        "filename": "beta_balloon_bumper_0",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONBUMPER_0",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 463,
+                        "filename": "beta_balloon_bumper_1",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONBUMPER_1",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 464,
+                        "filename": "beta_balloon_bumper_2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONBUMPER_2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 465,
+                        "filename": "beta_balloon_bumper_3",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONBUMPER_3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 466,
+                        "filename": "bumper_eyes",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPEREYES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 467,
+                        "filename": "gold_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GOLDENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 468,
+                        "filename": "gold_envmap2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GOLDENVMAP2",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 469,
+                        "filename": "gold_balloon_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GOLDBALLOONENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 470,
+                        "filename": "green_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GREENENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 471,
+                        "filename": "diddy_car_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYCARENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 472,
+                        "filename": "racer_common_plane_tail_light",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONPLANETAILLIGHT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 473,
+                        "filename": "timber_car_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERCARENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 474,
+                        "filename": "debug_gray",
+                        "build-id": "ASSET_TEX3D_COMMON_DEBUGGRAY",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 475,
+                        "filename": "timber_cap_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERCAPBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 476,
+                        "filename": "timber_cap_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERCAPFRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 477,
+                        "filename": "timber_cap_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERCAPTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 478,
+                        "filename": "timber_head_fur",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERHEADFUR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 479,
+                        "filename": "timber_stripes_arms_nape",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERSTRIPESARMSNECKBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 480,
+                        "filename": "timber_stripes_arms_nape_plane",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERSTRIPESARMSNECKBACKPLANE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 481,
+                        "filename": "timber_stripes_limbs_back_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERSTRIPESLIMBSBACKCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 482,
+                        "filename": "white_wall_with_pipes",
+                        "build-id": "ASSET_TEX3D_SPACE_WHITEWALLWITHPIPES",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 483,
+                        "filename": "smokey_legs",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SMOKEYLEGS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 484,
+                        "filename": "rings_metal_envmap",
+                        "build-id": "ASSET_TEX3D_SPACE_RINGSMETALENVMAP",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 485,
+                        "filename": "krunch_jacket_sides",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHJACKETSIDES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 486,
+                        "filename": "dots",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOTS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 487,
+                        "filename": "krunch_scutes",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHSCUTES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 488,
+                        "filename": "beta_balloon_krunch_0",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONKRUNCH_0",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 489,
+                        "filename": "beta_balloon_krunch_1",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONKRUNCH_1",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 490,
+                        "filename": "beta_balloon_krunch_2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONKRUNCH_2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 491,
+                        "filename": "beta_balloon_krunch_3",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONKRUNCH_3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 492,
+                        "filename": "krunch_underside",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHUNDERSIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 493,
+                        "filename": "krunch_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 494,
+                        "filename": "krunch_eye_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHEYELOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 495,
+                        "filename": "krunch_skull",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHSKULL",
+                        "flip-tex": false,
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 496,
+                        "filename": "krunch_toes",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHTOES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 497,
+                        "filename": "krunch_skin",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHSKIN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 498,
+                        "filename": "krunch_head_sides",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHHEADSIDES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 499,
+                        "filename": "krunch_head_top_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHHEADTOPLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 500,
+                        "filename": "krunch_mouth",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHMOUTH",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 501,
+                        "filename": "krunch_back_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHBACKLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 502,
+                        "filename": "empty_car_break_lights",
+                        "build-id": "ASSET_TEX3D_OBJECTS_EMPTYCARBREAKLIGHTS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 503,
+                        "filename": "trophy_race_flag",
+                        "build-id": "ASSET_TEX3D_COMMON_TROPHYRACEFLAG",
+                        "folder": "common"
+                    },   
+                    {
+                        "index": 504,
+                        "filename": "diddy_skin",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYSKIN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 505,
+                        "filename": "taj_trunk_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TAJTRUNKTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 506,
+                        "filename": "mode",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MODE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 507,
+                        "filename": "pipsy_ears",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYEARS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 508,
+                        "filename": "pipsy_head_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYHEADTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 509,
+                        "filename": "snow_char_bow",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWCHARBOW",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 510,
+                        "filename": "pipsy_bow",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYBOW",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 511,
+                        "filename": "pipsy_belly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYBELLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 512,
+                        "filename": "pipsy_sailor_suit",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYSAILORSUIT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 513,
+                        "filename": "pipsy_eyes",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYEYES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 514,
+                        "filename": "pterodactyl_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PTERODACTYLEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 515,
+                        "filename": "beta_balloon_pipsy_0",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPIPSY_0",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 516,
+                        "filename": "beta_balloon_pipsy_1",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPIPSY_1",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 517,
+                        "filename": "beta_balloon_pipsy_2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPIPSY_2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 518,
+                        "filename": "beta_balloon_pipsy_3",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPIPSY_3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 519,
+                        "filename": "pipsy_gloves",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYGLOVES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 520,
+                        "filename": "pipsy_arms",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYARMS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 521,
+                        "filename": "pipsy_nose_whiskers",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYNOSEWHISKERS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 522,
+                        "filename": "pipsy_head",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYHEAD",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 523,
+                        "filename": "pipsy_back_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYBACKCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 524,
+                        "filename": "timber_mouth_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERMOUTHLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 525,
+                        "filename": "green_dinosaur_inside_mouth",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GREENDINOSAURINSIDEMOUTH",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 526,
+                        "filename": "stopwatch_mouth_worried",
+                        "build-id": "ASSET_TEX3D_OBJECTS_STOPWATCHMOUTHWORRIED",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 527,
+                        "filename": "stopwatch_mouth_happy",
+                        "build-id": "ASSET_TEX3D_OBJECTS_STOPWATCHMOUTHHAPPY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 528,
+                        "filename": "stopwatch_mouth_open_mouth",
+                        "build-id": "ASSET_TEX3D_OBJECTS_STOPWATCHMOUTHOPENMOUTH",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 529,
+                        "filename": "bumper_goggles_front_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERGOGGLESFRONTCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 530,
+                        "filename": "timber_ears_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBEREARSLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 531,
+                        "filename": "drumstick_car_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKCARENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 532,
+                        "filename": "player_1_select",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PLAYER1SELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 533,
+                        "filename": "player_2_select",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PLAYER2SELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 534,
+                        "filename": "player_3_select",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PLAYER3SELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 535,
+                        "filename": "player_4_select",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PLAYER4SELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 536,
+                        "filename": "beta_balloon_player_1_0",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER1_0",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 537,
+                        "filename": "beta_balloon_player_1_1",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER1_1",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 538,
+                        "filename": "beta_balloon_player_1_2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER1_2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 539,
+                        "filename": "beta_balloon_player_1_3",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER1_3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 540,
+                        "filename": "beta_balloon_player_2_0",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER2_0",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 541,
+                        "filename": "beta_balloon_player_2_1",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER2_1",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 542,
+                        "filename": "beta_balloon_player_2_2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER2_2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 543,
+                        "filename": "beta_balloon_player_2_3",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER2_3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 544,
+                        "filename": "beta_balloon_player_3_0",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER3_0",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 545,
+                        "filename": "beta_balloon_player_3_1",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER3_1",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 546,
+                        "filename": "beta_balloon_player_3_2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER3_2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 547,
+                        "filename": "beta_balloon_player_3_3",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER3_3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 548,
+                        "filename": "beta_balloon_player_4_0",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER4_0",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 549,
+                        "filename": "beta_balloon_player_4_1",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER4_1",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 550,
+                        "filename": "beta_balloon_player_4_2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER4_2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 551,
+                        "filename": "beta_balloon_player_4_3",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYER4_3",
+                        "folder": "unused"
+                    },    
+                    {
+                        "index": 552,
+                        "filename": "sign_shield",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_SIGNSHIELD",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 553,
+                        "filename": "cobble_ground",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_COBBLEGROUND",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 554,
+                        "filename": "yellow_cobble_ground",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_YELLOWCOBBLEGROUND",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 555,
+                        "filename": "bubbler_skin_sides_smooth",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUBBLERSKINSIDESSMOOTH",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 556,
+                        "filename": "bubbler_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUBBLEREYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 557,
+                        "filename": "bubbler_skin_sides_dots",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUBBLERSKINSIDESDOTS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 558,
+                        "filename": "bubbler_eye_socket",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUBBLEREYESOCKET",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 559,
+                        "filename": "tiptup_shell",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPSHELL",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 560,
+                        "filename": "krunch_car_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHCARENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 561,
+                        "filename": "beta_balloon_krunch_envmap",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONKRUNCHENVMAP",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 562,
+                        "filename": "turn_sign",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_TURNSIGN",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 563,
+                        "filename": "yellow_dinosaur_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_YELLOWDINOSAURBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 564,
+                        "filename": "green_dinosaur_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GREENDINOSAURBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 565,
+                        "filename": "wizpig_cape",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGCAPE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 566,
+                        "filename": "wizpig_nose_side",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGNOSESIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 567,
+                        "filename": "wizpig_nose_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGNOSEFRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 568,
+                        "filename": "wizpig_hoof",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGHOOF",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 569,
+                        "filename": "smokey_skin",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SMOKEYSKIN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 570,
+                        "filename": "smokey_wings_outline",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SMOKEYWINGSOUTLINE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 571,
+                        "filename": "wizpig_amulet_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGAMULETNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 572,
+                        "filename": "wizpig_head_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGHEADEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 573,
+                        "filename": "trickytops_mouth_edge",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSMOUTHEDGE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 574,
+                        "filename": "wizpig_head_below_ears",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGHEADBELOWEARS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 575,
+                        "filename": "wizpig_forehead",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGFOREHEAD",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 576,
+                        "filename": "wizpig_clothes",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGCLOTHES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 577,
+                        "filename": "wizpig_jewel_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGJEWELEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 578,
+                        "filename": "wizpig_hair",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGHAIR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 579,
+                        "filename": "wizpig_ear",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGEAR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 580,
+                        "filename": "wizpig_head_mouth",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGHEADMOUTH",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 581,
+                        "filename": "trickytops_cheek",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSCHEEK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 582,
+                        "filename": "trickytops_unknown",
+                        "build-id": "ASSET_TEX3D_UNUSED_TRICKYTOPSUNKNOWN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 583,
+                        "filename": "trickytops_frill_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSFRILLBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 584,
+                        "filename": "trickytops_frill_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSFRILLFRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 585,
+                        "filename": "trickytops_underside",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSUNDERSIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 586,
+                        "filename": "trickytops_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 587,
+                        "filename": "wizpig_skin_lines",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGSKINLINES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 588,
+                        "filename": "trickytops_nape",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSNAPE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 589,
+                        "filename": "trickytops_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 590,
+                        "filename": "wizpig_skin",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGSKIN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 591,
+                        "filename": "char_select_hill_fence",
+                        "build-id": "ASSET_TEX3D_COMMON_CHARSELECTHILLFENCE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 592,
+                        "filename": "beta_balloon_pipsy_envmap",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPIPSYENVMAP",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 593,
+                        "filename": "pipsy_car_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYCARENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 594,
+                        "filename": "beta_taj_pad",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETATAJPAD",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 595,
+                        "filename": "beta_taj_pad2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETATAJPAD2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 596,
+                        "filename": "taj_skin",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TAJSKIN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 597,
+                        "filename": "bluey_tusks",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BLUEYTUSKS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 598,
+                        "filename": "drumstick_feathers_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKFEATHERSCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 599,
+                        "filename": "beta_balloon_drumstick_envmap",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONDRUMSTICKENVMAP",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 600,
+                        "filename": "tt_clock_hand",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TTCLOCKHAND",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 601,
+                        "filename": "tt_screw",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TTSCREW",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 602,
+                        "filename": "pipsy_head_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYHEADLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 603,
+                        "filename": "tiptup_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 604,
+                        "filename": "tiptup_toes_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPTOESCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 605,
+                        "filename": "tiptup_shell_back_center",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPSHELLBACKCENTER",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 606,
+                        "filename": "tiptup_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPFRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 607,
+                        "filename": "tiptup_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 608,
+                        "filename": "tiptup_neck",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPNECK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 609,
+                        "filename": "tiptup_front_frame",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPFRONTFRAME",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 610,
+                        "filename": "beta_balloon_players_envmap",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONPLAYERSENVMAP",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 611,
+                        "filename": "conker_car_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_CONKERCARENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 612,
+                        "filename": "conker_back_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_CONKERBACKLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 613,
+                        "filename": "pipsy_back_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYBACKLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 614,
+                        "filename": "racer_common_steering_wheel2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONSTEERINGWHEEL2",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 615,
+                        "filename": "tt_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TTEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 616,
+                        "filename": "tt_eye_still",
+                        "build-id": "ASSET_TEX3D_UNUSED_TTEYESTILL",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 617,
+                        "filename": "drumstick_straps_button_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKSTRAPSBUTTONLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 618,
+                        "filename": "drumstick_straps_button",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKSTRAPSBUTTON",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 619,
+                        "filename": "tt_crown",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TTCROWN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 620,
+                        "filename": "tt_glove",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TTGLOVE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 621,
+                        "filename": "tt_mouth_smile",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TTMOUTHSMILE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 622,
+                        "filename": "tt_rim",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TTRIM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 623,
+                        "filename": "tt_shoe",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TTSHOE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 624,
+                        "filename": "bubbler_tentacles_back_side",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUBBLERTENTACLESBACKSIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 625,
+                        "filename": "smokey_shadow",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SMOKEYSHADOW",
+                        "folder": "objects"
+                    },
                     {
                         "index": 626,
-                        "flip-tex": false
+                        "filename": "yellow_dinosaur_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_YELLOWDINOSAUREYE",
+                        "flip-tex": false,
+                        "folder": "objects"
                     },
                     {
                         "index": 627,
-                        "flip-tex": false
+                        "filename": "green_dinosaur_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GREENDINOSAUREYE",
+                        "flip-tex": false,
+                        "folder": "objects"
                     },
+                    {
+                        "index": 628,
+                        "filename": "racer_common_black",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONBLACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 629,
+                        "filename": "timber_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERFRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 630,
+                        "filename": "timber_mouth",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERMOUTH",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 631,
+                        "filename": "beta_balloon_timber_0",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONTIMBER_0",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 632,
+                        "filename": "beta_balloon_timber_1",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONTIMBER_1",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 633,
+                        "filename": "beta_balloon_timber_2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONTIMBER_2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 634,
+                        "filename": "beta_balloon_timber_3",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONTIMBER_3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 635,
+                        "filename": "timber_face_white_fur",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERFACEWHITEFUR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 636,
+                        "filename": "timber_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBEREYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 637,
+                        "filename": "trickytops_skin_limbs",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSSKINLIMBS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 638,
+                        "filename": "smokey_mouth",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SMOKEYMOUTH",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 639,
+                        "filename": "timber_front_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERFRONTCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 640,
+                        "filename": "timber_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 641,
+                        "filename": "timber_fur",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERFUR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 642,
+                        "filename": "timber_foot",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERFOOT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 643,
+                        "filename": "timber_back_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERBACKLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 644,
+                        "filename": "timber_cheek",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERCHEEK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 645,
+                        "filename": "timber_cheek_plane",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERCHEEKPLANE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 646,
+                        "filename": "timber_cheek_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERCHEEKCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 647,
+                        "filename": "beta_balloon_tiptup_0",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONTIPTUP_0",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 648,
+                        "filename": "beta_balloon_tiptup_1",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONTIPTUP_1",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 649,
+                        "filename": "beta_balloon_tiptup_2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONTIPTUP_2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 650,
+                        "filename": "beta_balloon_tiptup_3",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONTIPTUP_3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 651,
+                        "filename": "tiptup_skin",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPSKIN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 652,
+                        "filename": "tiptup_back_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPBACKLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 653,
+                        "filename": "tiptup_nape",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPNAPE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 654,
+                        "filename": "wizpig_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGEYE",
+                        "folder": "objects"
+                    },            
+                    {
+                        "index": 655,
+                        "filename": "trickytops_limbs",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSLIMBS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 656,
+                        "filename": "trickytops_bottom_light",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSBOTTOMLIGHT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 657,
+                        "filename": "trickytops_forehead",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSFOREHEAD",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 658,
+                        "filename": "wizpig_rocket_unused_shadow",
+                        "build-id": "ASSET_TEX3D_UNUSED_WIZPIGROCKETUNUSEDSHADOW",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 659,
+                        "filename": "trickytops_toes",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSTOES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 660,
+                        "filename": "widescreen",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIDESCREEN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 661,
+                        "filename": "racer_common_hover_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONHOVERBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 662,
+                        "filename": "bumper_hover_top_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERHOVERTOPLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 663,
+                        "filename": "tiptup_hover_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPHOVERTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 664,
+                        "filename": "conker_hover_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_CONKERHOVERTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 665,
+                        "filename": "banjo_hover_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOHOVERTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 666,
+                        "filename": "diddy_hover_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYHOVERTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 667,
+                        "filename": "timber_hover_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERHOVERTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 668,
+                        "filename": "krunch_hover_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHHOVERTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 669,
+                        "filename": "pipsy_hover_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYHOVERTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 670,
+                        "filename": "drumstick_hover_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKHOVERTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 671,
+                        "filename": "bumper_hover_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERHOVERTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 672,
+                        "filename": "taj_turban",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TAJTURBAN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 673,
+                        "filename": "taj_tusks",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TAJTUSKS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 674,
+                        "filename": "racer_common_red_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONREDLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 675,
+                        "filename": "stopwatch_frame_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_STOPWATCHFRAMEENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 676,
+                        "filename": "bluey_skin_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BLUEYSKINENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 677,
+                        "filename": "taj_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TAJFRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 678,
+                        "filename": "taj_cheek",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TAJCHEEK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 679,
+                        "filename": "taj_limbs",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TAJLIMBS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 680,
+                        "filename": "taj_vest",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TAJVEST",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 681,
+                        "filename": "taj_leg_sides",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TAJLEGSIDES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 682,
+                        "filename": "bluey_cheek",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BLUEYCHEEK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 683,
+                        "filename": "racer_common_white",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONWHITE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 684,
+                        "filename": "drumstick_wings_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKWINGSTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 685,
+                        "filename": "tiptup_plane_wing",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPPLANEWING",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 686,
+                        "filename": "conker_plane_wing",
+                        "build-id": "ASSET_TEX3D_OBJECTS_CONKERPLANEWING",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 687,
+                        "filename": "banjo_plane_wing",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOPLANEWING",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 688,
+                        "filename": "diddy_plane_wing",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYPLANEWING",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 689,
+                        "filename": "timber_plane_wing",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERPLANEWING",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 690,
+                        "filename": "krunch_plane_wing",
+                        "build-id": "ASSET_TEX3D_OBJECTS_KRUNCHPLANEWING",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 691,
+                        "filename": "pipsy_plane_wing",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PIPSYPLANEWING",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 692,
+                        "filename": "drumstick_plane_wing",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKPLANEWING",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 693,
+                        "filename": "bumper_plane_wing",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERPLANEWING",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 694,
+                        "filename": "bumper_car_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERCARENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 695,
+                        "filename": "beta_balloon_bumper_envmap",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONBUMPERENVMAP",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 696,
+                        "filename": "gold_balloon_stripes",
+                        "build-id": "ASSET_TEX3D_UNUSED_GOLDBALLOONSTRIPES",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 697,
+                        "filename": "brown_dirt_path",
+                        "build-id": "ASSET_TEX3D_COMMON_BROWNDIRTPATH",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 698,
+                        "filename": "fossil_holes",
+                        "build-id": "ASSET_TEX3D_DINO_FOSSILHOLES",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 699,
+                        "filename": "green_wall_with_dials",
+                        "build-id": "ASSET_TEX3D_SPACE_GREENWALLWITHDIALS",
+                        "folder": "space"
+                    },                            
                     {
                         "index": 658,
                         "flip-tex": false
