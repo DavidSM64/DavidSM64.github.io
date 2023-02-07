@@ -1326,9 +1326,1222 @@
                         "folder": "space"
                     },
                     {
+                        "index": 200,
+                        "filename": "yellow_house_wall",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_YELLOWHOUSEWALL",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 201,
+                        "filename": "coloured_lamp",
+                        "build-id": "ASSET_TEX3D_COMMON_COLOUREDLAMP",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 202,
+                        "filename": "volcano_wall",
+                        "build-id": "ASSET_TEX3D_DINO_VOLCANOWALL",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 203,
+                        "filename": "volcano_wall_magma_transition",
+                        "build-id": "ASSET_TEX3D_DINO_VOLCANOWALLMAGMATRANSITION",
+                        "folder": "dino"
+                    },     
+                    {
+                        "index": 204,
+                        "filename": "magma_high_line_transition",
+                        "build-id": "ASSET_TEX3D_DINO_MAGMAHIGHLINETRANSITION",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 205,
+                        "filename": "volcano_wall_2",
+                        "build-id": "ASSET_TEX3D_DINO_VOLCANOWALL2",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 206,
+                        "filename": "yellow_brick_tile",
+                        "build-id": "ASSET_TEX3D_COMMON_YELLOWBRICKTILE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 207,
+                        "filename": "yellow_brick_tile2",
+                        "build-id": "ASSET_TEX3D_COMMON_YELLOWBRICKTILE2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 208,
+                        "filename": "grass_uncolored",
+                        "build-id": "ASSET_TEX3D_TROPICAL_GRASSUNCOLORED",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 209,
+                        "filename": "blue_wall_with_yellow_arrows",
+                        "build-id": "ASSET_TEX3D_SPACE_BLUEWALLWITHYELLOWARROWS",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 210,
+                        "filename": "blue_wall_small_light",
+                        "build-id": "ASSET_TEX3D_SPACE_BLUEWALLSMALLLIGHT",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 211,
+                        "filename": "blue_wall",
+                        "build-id": "ASSET_TEX3D_SPACE_BLUEWALL",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 212,
+                        "filename": "wall_tile_lights",
+                        "build-id": "ASSET_TEX3D_SPACE_WALLTILELIGHTS",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 213,
+                        "filename": "grass4",
+                        "build-id": "ASSET_TEX3D_COMMON_GRASS4",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 214,
+                        "filename": "grass5",
+                        "build-id": "ASSET_TEX3D_COMMON_GRASS5",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 215,
+                        "filename": "grass6",
+                        "build-id": "ASSET_TEX3D_COMMON_GRASS6",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 216,
+                        "filename": "trophy_cab_edge",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TROPHYCABEDGE",
+                        "folder": "objects"
+                    },   
+                    {
+                        "index": 217,
+                        "filename": "stone_wall_snowy",
+                        "build-id": "ASSET_TEX3D_WINTER_STONEWALLSNOWY",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 218,
+                        "filename": "blue_stone_wall_snowy",
+                        "build-id": "ASSET_TEX3D_WINTER_BLUESTONEWALLSNOWY",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 219,
+                        "filename": "stone_path",
+                        "build-id": "ASSET_TEX3D_COMMON_STONEPATH",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 220,
+                        "filename": "dome_sun_shining",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMESUNSHINING",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 221,
+                        "filename": "sand_water_transition",
+                        "build-id": "ASSET_TEX3D_COMMON_SANDWATERTRANSITION",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 222,
+                        "filename": "nintendo_logo",
+                        "build-id": "ASSET_TEX3D_COMMON_NINTENDOLOGO",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 223,
+                        "filename": "tan_stone_tile",
+                        "build-id": "ASSET_TEX3D_UNUSED_TANSTONETILE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 224,
+                        "filename": "orange_stone2",
+                        "build-id": "ASSET_TEX3D_DINO_ORANGESTONE2",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 225,
+                        "filename": "volcano_wall",
+                        "build-id": "ASSET_TEX3D_DINO_VOLCANOWALL",
+                        "folder": "dino"
+                    },                                           
+                    {
+                        "filename": "grass4",
                         "index": 625,
                         "flip-tex": false
                     },
+                    {
+                        "index": 226,
+                        "filename": "sand3",
+                        "build-id": "ASSET_TEX3D_COMMON_SAND3",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 227,
+                        "filename": "palm_trees_billboard_0",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREESBILLBOARD_0",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 228,
+                        "filename": "palm_trees_billboard_1",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREESBILLBOARD_1",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 229,
+                        "filename": "palm_trees_billboard_2",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREESBILLBOARD_2",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 230,
+                        "filename": "palm_trees_billboard2_0",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREESBILLBOARD2_0",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 231,
+                        "filename": "palm_trees_billboard2_1",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREESBILLBOARD2_1",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 232,
+                        "filename": "palm_trees_billboard2_2",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREESBILLBOARD2_2",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 233,
+                        "filename": "palm_trees_billboard2_3",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREESBILLBOARD2_3",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 234,
+                        "filename": "palm_trees_billboard2_4",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREESBILLBOARD2_4",
+                        "folder": "tropical"
+                    },              
+                    {
+                        "index": 235,
+                        "filename": "palm_tree_leaves",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREELEAVES",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 236,
+                        "filename": "palm_tree_bark_brown",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREEBARKBROWN",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 237,
+                        "filename": "asset_tex3d_tropical_palmtreesbillboard3",
+                        "build-id": "ASSET_TEX3D_TROPICAL_ASSETTEX3DTROPICALPALMTREESBILLBOARD3",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 238,
+                        "filename": "palm_tree_bark_white",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREEBARKWHITE",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 239,
+                        "filename": "palm_tree_shadow",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREESHADOW",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 240,
+                        "filename": "palm_tree_bark_white2",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREEBARKWHITE2",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 241,
+                        "filename": "light_shaft",
+                        "build-id": "ASSET_TEX3D_COMMON_LIGHTSHAFT",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 242,
+                        "filename": "light_shaft2",
+                        "build-id": "ASSET_TEX3D_COMMON_LIGHTSHAFT2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 243,
+                        "filename": "spacecolumn_block_saturn",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SPACECOLUMNBLOCKSATURN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 244,
+                        "filename": "tower_spire",
+                        "build-id": "ASSET_TEX3D_TROPICAL_TOWERSPIRE",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 245,
+                        "filename": "ship_wood_planks",
+                        "build-id": "ASSET_TEX3D_TROPICAL_SHIPWOODPLANKS",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 246,
+                        "filename": "vines",
+                        "build-id": "ASSET_TEX3D_COMMON_VINES",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 247,
+                        "filename": "vines2",
+                        "build-id": "ASSET_TEX3D_COMMON_VINES2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 248,
+                        "filename": "taj_pad_grass",
+                        "build-id": "ASSET_TEX3D_COMMON_TAJPADGRASS",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 249,
+                        "filename": "tree_branch_with_vines",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_TREEBRANCHWITHVINES",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 250,
+                        "filename": "red_carpet",
+                        "build-id": "ASSET_TEX3D_COMMON_REDCARPET",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 251,
+                        "filename": "large_tree_log",
+                        "build-id": "ASSET_TEX3D_COMMON_LARGETREELOG",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 252,
+                        "filename": "temple_stone_dino",
+                        "build-id": "ASSET_TEX3D_DINO_TEMPLESTONEDINO",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 253,
+                        "filename": "white_wall_with_flags",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_WHITEWALLWITHFLAGS",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 254,
+                        "filename": "town_castle_sprite",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_TOWNCASTLESPRITE",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 255,
+                        "filename": "village_viaduct_shadow",
+                        "build-id": "ASSET_TEX3D_WINTER_VILLAGEVIADUCTSHADOW",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 256,
+                        "filename": "dirt_path",
+                        "build-id": "ASSET_TEX3D_DINO_DIRTPATH",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 257,
+                        "filename": "proam64balloonrope",
+                        "build-id": "ASSET_TEX3D_UNUSED_PROAM64BALLOONROPE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 258,
+                        "filename": "dome_blue_sky_0",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKY_0",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 259,
+                        "filename": "dome_blue_sky_1",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKY_1",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 260,
+                        "filename": "dome_blue_sky_2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKY_2",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 261,
+                        "filename": "dome_blue_sky_3",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKY_3",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 262,
+                        "filename": "ship_torn_sail",
+                        "build-id": "ASSET_TEX3D_TROPICAL_SHIPTORNSAIL",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 263,
+                        "filename": "ship_sail_shadow",
+                        "build-id": "ASSET_TEX3D_TROPICAL_SHIPSAILSHADOW",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 264,
+                        "filename": "sand_transition",
+                        "build-id": "ASSET_TEX3D_COMMON_SANDTRANSITION",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 265,
+                        "filename": "sand_underwater",
+                        "build-id": "ASSET_TEX3D_COMMON_SANDUNDERWATER",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 266,
+                        "filename": "spacecolumn_block",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SPACECOLUMNBLOCK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 267,
+                        "filename": "volcano_stone",
+                        "build-id": "ASSET_TEX3D_DINO_VOLCANOSTONE",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 268,
+                        "filename": "moon_stone",
+                        "build-id": "ASSET_TEX3D_SPACE_MOONSTONE",
+                        "folder": "space"
+                    },   
+                    {
+                        "index": 269,
+                        "filename": "tower_window",
+                        "build-id": "ASSET_TEX3D_TROPICAL_TOWERWINDOW",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 270,
+                        "filename": "brown_stone_brick",
+                        "build-id": "ASSET_TEX3D_COMMON_BROWNSTONEBRICK",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 271,
+                        "filename": "sand_wet_dry_transition",
+                        "build-id": "ASSET_TEX3D_DINO_SANDWETDRYTRANSITION",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 272,
+                        "filename": "dark_stone_wall_snowy",
+                        "build-id": "ASSET_TEX3D_WINTER_DARKSTONEWALLSNOWY",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 273,
+                        "filename": "snow_trees_billboard_small",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWTREESBILLBOARDSMALL",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 274,
+                        "filename": "snow4",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOW4",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 275,
+                        "filename": "hanging_snow3",
+                        "build-id": "ASSET_TEX3D_WINTER_HANGINGSNOW3",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 276,
+                        "filename": "hanging_snow4",
+                        "build-id": "ASSET_TEX3D_WINTER_HANGINGSNOW4",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 277,
+                        "filename": "dark_stone_wall_snowy2",
+                        "build-id": "ASSET_TEX3D_WINTER_DARKSTONEWALLSNOWY2",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 278,
+                        "filename": "snow_char_blue_eye",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWCHARBLUEEYE",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 279,
+                        "filename": "snow_char_yellow_eye",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWCHARYELLOWEYE",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 280,
+                        "filename": "snow_char_blue_goggles",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWCHARBLUEGOGGLES",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 281,
+                        "filename": "village_window_lights",
+                        "build-id": "ASSET_TEX3D_WINTER_VILLAGEWINDOWLIGHTS",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 282,
+                        "filename": "village_window_lights_glow",
+                        "build-id": "ASSET_TEX3D_WINTER_VILLAGEWINDOWLIGHTSGLOW",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 283,
+                        "filename": "snow_char_nose",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWCHARNOSE",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 284,
+                        "filename": "cyan_stone",
+                        "build-id": "ASSET_TEX3D_WINTER_CYANSTONE",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 285,
+                        "filename": "snow_trees_billboard_small2",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWTREESBILLBOARDSMALL2",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 286,
+                        "filename": "cyan_stone_snow",
+                        "build-id": "ASSET_TEX3D_WINTER_CYANSTONESNOW",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 287,
+                        "filename": "pink_white_snow",
+                        "build-id": "ASSET_TEX3D_WINTER_PINKWHITESNOW",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 288,
+                        "filename": "purple_stone",
+                        "build-id": "ASSET_TEX3D_SPACE_PURPLESTONE",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 289,
+                        "filename": "finish_line_flag_green_0",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGGREEN_0",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 290,
+                        "filename": "finish_line_flag_green_1",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGGREEN_1",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 291,
+                        "filename": "finish_line_flag_green_2",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGGREEN_2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 292,
+                        "filename": "finish_line_flag_green_3",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGGREEN_3",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 293,
+                        "filename": "starfish",
+                        "build-id": "ASSET_TEX3D_TROPICAL_STARFISH",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 294,
+                        "filename": "finish_line_flag_orange_0",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGORANGE_0",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 295,
+                        "filename": "finish_line_flag_orange_1",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGORANGE_1",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 296,
+                        "filename": "finish_line_flag_orange_2",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGORANGE_2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 297,
+                        "filename": "finish_line_flag_orange_3",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGORANGE_3",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 298,
+                        "filename": "finish_line_flag_orange_3",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGORANGE_3",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 299,
+                        "filename": "finish_line_palm_trees_shadow",
+                        "build-id": "ASSET_TEX3D_DINO_FINISHLINEPALMTREESSHADOW",
+                        "folder": "dino"
+                    }, 
+                    {
+                        "index": 300,
+                        "filename": "water_scrolling",
+                        "build-id": "ASSET_TEX3D_COMMON_WATERSCROLLING",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 301,
+                        "filename": "firemountain_lava",
+                        "build-id": "ASSET_TEX3D_DINO_FIREMOUNTAINLAVA",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 302,
+                        "filename": "firemountain_red_base",
+                        "build-id": "ASSET_TEX3D_DINO_FIREMOUNTAINREDBASE",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 303,
+                        "filename": "firemountain_yellow_base",
+                        "build-id": "ASSET_TEX3D_DINO_FIREMOUNTAINYELLOWBASE",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 304,
+                        "filename": "firemountain_green_base",
+                        "build-id": "ASSET_TEX3D_DINO_FIREMOUNTAINGREENBASE",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 305,
+                        "filename": "firemountain_blue_base",
+                        "build-id": "ASSET_TEX3D_DINO_FIREMOUNTAINBLUEBASE",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 306,
+                        "filename": "brown_dirt_wall",
+                        "build-id": "ASSET_TEX3D_COMMON_BROWNDIRTWALL",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 307,
+                        "filename": "brown_dirt_wall_hilltop",
+                        "build-id": "ASSET_TEX3D_COMMON_BROWNDIRTWALLHILLTOP",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 308,
+                        "filename": "brown_dirt_wall_hilltop_sandy",
+                        "build-id": "ASSET_TEX3D_COMMON_BROWNDIRTWALLHILLTOPSANDY",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 309,
+                        "filename": "light_shaft_3",
+                        "build-id": "ASSET_TEX3D_COMMON_LIGHTSHAFT3",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 310,
+                        "filename": "lagoon_castle_merlon",
+                        "build-id": "ASSET_TEX3D_TROPICAL_LAGOONCASTLEMERLON",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 311,
+                        "filename": "house_guardrail_flags",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_HOUSEGUARDRAILFLAGS",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 312,
+                        "filename": "blue_flag",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_BLUEFLAG",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 313,
+                        "filename": "white_flag",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_WHITEFLAG",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 314,
+                        "filename": "yellow_flag",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_YELLOWFLAG",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 315,
+                        "filename": "volcano_ceiling_shadow",
+                        "build-id": "ASSET_TEX3D_DINO_VOLCANOCEILINGSHADOW",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 316,
+                        "filename": "lagoon_castle_merlon2",
+                        "build-id": "ASSET_TEX3D_TROPICAL_LAGOONCASTLEMERLON2",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 317,
+                        "filename": "waterfall",
+                        "build-id": "ASSET_TEX3D_COMMON_WATERFALL",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 318,
+                        "filename": "white_fence",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WHITEFENCE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 319,
+                        "filename": "dome_white",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEWHITE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 320,
+                        "filename": "sand_abovewater",
+                        "build-id": "ASSET_TEX3D_COMMON_SANDABOVEWATER",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 321,
+                        "filename": "wood_bark",
+                        "build-id": "ASSET_TEX3D_COMMON_WOODBARK",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 322,
+                        "filename": "lagoon_castle_tile",
+                        "build-id": "ASSET_TEX3D_TROPICAL_LAGOONCASTLETILE",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 323,
+                        "filename": "spacecolumn_gold_horn",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SPACECOLUMNGOLDHORN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 324,
+                        "filename": "sand4",
+                        "build-id": "ASSET_TEX3D_COMMON_SAND4",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 325,
+                        "filename": "sand5",
+                        "build-id": "ASSET_TEX3D_COMMON_SAND5",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 326,
+                        "filename": "magma_fall",
+                        "build-id": "ASSET_TEX3D_DINO_MAGMAFALL",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 327,
+                        "filename": "diddy_brown_fur",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYBROWNFUR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 328,
+                        "filename": "tt_plane_wing",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TTPLANEWING",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 329,
+                        "filename": "bluey_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BLUEYNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 330,
+                        "filename": "taj_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TAJEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 331,
+                        "filename": "tower_belfry",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_TOWERBELFRY",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 332,
+                        "filename": "tower_belfry2",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_TOWERBELFRY2",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 333,
+                        "filename": "tower_base",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_TOWERBASE",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 334,
+                        "filename": "tower_base_window",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_TOWERBASEWINDOW",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 335,
+                        "filename": "car_backlights_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_CARBACKLIGHTSLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 336,
+                        "filename": "timber_stripes",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERSTRIPES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 337,
+                        "filename": "bumper_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 338,
+                        "filename": "bumper_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERFRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 339,
+                        "filename": "bumper_head_fur",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERHEADFUR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 340,
+                        "filename": "bumper_glove_plus",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERGLOVEPLUS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 341,
+                        "filename": "bumper_goggles_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERGOGGLESFRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 342,
+                        "filename": "bumper_red_pilot_cap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERREDPILOTCAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 343,
+                        "filename": "bumper_shoulder_fur",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERSHOULDERFUR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 344,
+                        "filename": "bumper_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 345,
+                        "filename": "racer_common_red",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONRED",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 346,
+                        "filename": "bumper_head_fur_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERHEADFURLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 347,
+                        "filename": "bumper_face_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERFACELOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 348,
+                        "filename": "bumper_back_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERBACKLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 349,
+                        "filename": "bumper_goggles_side",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERGOGGLESSIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 350,
+                        "filename": "bumper_head_fur_light",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERHEADFURLIGHT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 351,
+                        "filename": "bumper_goggles_side2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUMPERGOGGLESSIDE2",
+                        "folder": "objects"
+                    },    
+                    {
+                        "index": 352,
+                        "filename": "banjo_backpack",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOBACKPACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 353,
+                        "filename": "banjo_shorts",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOSHORTS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 354,
+                        "filename": "banjo_shorts_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOSHORTSCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 355,
+                        "filename": "banjo_chest",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOCHEST",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 356,
+                        "filename": "banjo_chest_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOCHESTCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 357,
+                        "filename": "banjo_hair_top_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOHAIRTOPCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 358,
+                        "filename": "banjo_wrist_ankles_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOWRISTANKLESCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 359,
+                        "filename": "banjo_ear_shadow",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOEARSHADOW",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 360,
+                        "filename": "banjo_eyes",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOEYES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 361,
+                        "filename": "beta_balloon_banjo_0",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONBANJO_0",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 362,
+                        "filename": "beta_balloon_banjo_1",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONBANJO_1",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 363,
+                        "filename": "beta_balloon_banjo_2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONBANJO_2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 364,
+                        "filename": "beta_balloon_banjo_3",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETABALLOONBANJO_3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 365,
+                        "filename": "banjo_skin",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOSKIN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 366,
+                        "filename": "banjo_chest_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOCHESTLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 367,
+                        "filename": "banjo_hair_fur",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOHAIRFUR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 368,
+                        "filename": "banjo_arm_fur",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOARMFUR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 369,
+                        "filename": "banjo_neck",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJONECK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 370,
+                        "filename": "banjo_neck_fur_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJONECKFURBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 371,
+                        "filename": "banjo_back_lowestpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOBACKLOWESTPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 372,
+                        "filename": "banjo_backpack_straps",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOBACKPACKSTRAPS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 373,
+                        "filename": "banjo_back_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOBACKLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 374,
+                        "filename": "diddy_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DIDDYNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 375,
+                        "filename": "racer_common_black",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONBLACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 376,
+                        "filename": "tt_vehicle_silver",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TTVEHICLESILVER",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 377,
+                        "filename": "bubbler_tentacles_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUBBLERTENTACLESTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 378,
+                        "filename": "drumstick_vehicle_cyan",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKVEHICLECYAN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 379,
+                        "filename": "beta_tiptup_balloon_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BETATIPTUPBALLOONENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 380,
+                        "filename": "banjo_car_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BANJOCARENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 381,
+                        "filename": "tiptup_car_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIPTUPCARENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 382,
+                        "filename": "conker_car_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_CONKERCARENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 383,
+                        "filename": "bonus",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BONUS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 384,
+                        "filename": "racer_common_underside",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RACERCOMMONUNDERSIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 385,
+                        "filename": "timber_cap_brim",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERCAPBRIM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 386,
+                        "filename": "timber_cap_brim_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERCAPBRIMCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 387,
+                        "filename": "timber_hands",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TIMBERHANDS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 388,
+                        "filename": "drumstick_vest",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKVEST",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 389,
+                        "filename": "drumstick_back_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKBACKLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 390,
+                        "filename": "drumstick_beak",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKBEAK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 391,
+                        "filename": "drumstick_feathers",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKFEATHERS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 392,
+                        "filename": "tt_amulet_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TTAMULETEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 393,
+                        "filename": "beta_drumstick_balloon_0",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETADRUMSTICKBALLOON_0",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 394,
+                        "filename": "beta_drumstick_balloon_1",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETADRUMSTICKBALLOON_1",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 395,
+                        "filename": "beta_drumstick_balloon_2",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETADRUMSTICKBALLOON_2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 396,
+                        "filename": "beta_drumstick_balloon_3",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETADRUMSTICKBALLOON_3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 397,
+                        "filename": "drumstick_lowerback",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKLOWERBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 398,
+                        "filename": "drumstick_front_lowpoly",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKFRONTLOWPOLY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 399,
+                        "filename": "drumstick_feet_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKFEETCHARSELECT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 400,
+                        "filename": "drumstick_feathers2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKFEATHERS2",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 401,
+                        "filename": "drumstick_pants_bottom_charselect",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DRUMSTICKPANTSBOTTOMCHARSELECT",
+                        "folder": "objects"
+                    },                                                                                                                             
                     {
                         "index": 626,
                         "flip-tex": false
