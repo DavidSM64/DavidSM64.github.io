@@ -6133,114 +6133,2379 @@
                         "filename": "dome_unused",
                         "build-id": "ASSET_TEX3D_UNUSED_DOMEUNUSED",
                         "folder": "unused"
-                    },                                                                         
+                    },    
+                    {
+                        "index": 1000,
+                        "filename": "beta_air_zipper",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETAAIRZIPPER",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1001,
+                        "filename": "sign_100",
+                        "build-id": "ASSET_TEX3D_UNUSED_SIGN100",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1002,
+                        "filename": "snow_wall_small",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWWALLSMALL",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1003,
+                        "filename": "snow_wall_large",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWWALLLARGE",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1004,
+                        "filename": "unknown_decal",
+                        "build-id": "ASSET_TEX3D_UNUSED_UNKNOWNDECAL",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1005,
+                        "filename": "unknown_green_dots",
+                        "build-id": "ASSET_TEX3D_UNUSED_UNKNOWNGREENDOTS",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1006,
+                        "filename": "dome_grassy_hills",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEGRASSYHILLS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1007,
+                        "filename": "dome_grass",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEGRASS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1008,
+                        "filename": "beta_krunch_icon",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETAKRUNCHICON",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1009,
+                        "filename": "door_level_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORLEVELBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1010,
+                        "filename": "door_level_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORLEVELTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1011,
+                        "filename": "door_level_top_done",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORLEVELTOPDONE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1012,
+                        "filename": "door_level_top_unused",
+                        "build-id": "ASSET_TEX3D_UNUSED_DOORLEVELTOPUNUSED",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1013,
+                        "filename": "door_level_bottom_done",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORLEVELBOTTOMDONE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1014,
+                        "filename": "door_level_bottom_unused",
+                        "build-id": "ASSET_TEX3D_UNUSED_DOORLEVELBOTTOMUNUSED",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1015,
+                        "filename": "door_level_bottom_unused_qmark",
+                        "build-id": "ASSET_TEX3D_UNUSED_DOORLEVELBOTTOMUNUSEDQMARK",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1016,
+                        "filename": "door_numbers_ones_digit",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORNUMBERSONESDIGIT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1017,
+                        "filename": "door_numbers_tens_digit",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORNUMBERSTENSDIGIT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1018,
+                        "filename": "spaceship2_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SPACESHIP2FRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1019,
+                        "filename": "lighthouse_door",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LIGHTHOUSEDOOR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1020,
+                        "filename": "lighthouse_brick",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LIGHTHOUSEBRICK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1021,
+                        "filename": "lighthouse_beacon_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LIGHTHOUSEBEACONBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1022,
+                        "filename": "lighthouse_rocket_wings",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LIGHTHOUSEROCKETWINGS",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1023,
+                        "filename": "lighthouse_window",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LIGHTHOUSEWINDOW",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1024,
+                        "filename": "electricity_animated",
+                        "build-id": "ASSET_TEX3D_COMMON_ELECTRICITYANIMATED",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1025,
+                        "filename": "lighthouse_glass_window",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LIGHTHOUSEGLASSWINDOW",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1026,
+                        "filename": "glass_window2",
+                        "build-id": "ASSET_TEX3D_SPACE_GLASSWINDOW2",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1027,
+                        "filename": "log_end",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LOGEND",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1028,
+                        "filename": "loop_guardrail",
+                        "build-id": "ASSET_TEX3D_SPACE_LOOPGUARDRAIL",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1029,
+                        "filename": "midi_fade",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MIDIFADE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1030,
+                        "filename": "missle_body",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MISSLEBODY",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1031,
+                        "filename": "missle_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MISSLEBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1032,
+                        "filename": "mode2",
+                        "build-id": "ASSET_TEX3D_UNUSED_MODE2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1033,
+                        "filename": "monorail_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MONORAILFRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1034,
+                        "filename": "monorail_rail_skirt",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MONORAILRAILSKIRT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1035,
+                        "filename": "monorail_front_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MONORAILFRONTTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1036,
+                        "filename": "beta_pipsy_icon",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETAPIPSYICON",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1037,
+                        "filename": "old_forest_tree_bark",
+                        "build-id": "ASSET_TEX3D_UNUSED_OLDFORESTTREEBARK",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1038,
+                        "filename": "dome_blue_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUETOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1039,
+                        "filename": "ice_tunnel_ceiling",
+                        "build-id": "ASSET_TEX3D_WINTER_ICETUNNELCEILING",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1040,
+                        "filename": "dome_green_unknown",
+                        "build-id": "ASSET_TEX3D_UNUSED_DOMEGREENUNKNOWN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1041,
+                        "filename": "trophy_sign_qmark",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TROPHYSIGNQMARK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1042,
+                        "filename": "bubbler_head",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUBBLERHEAD",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1043,
+                        "filename": "bubbler_underside",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BUBBLERUNDERSIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1044,
+                        "filename": "orange_stone3",
+                        "build-id": "ASSET_TEX3D_DINO_ORANGESTONE3",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 1045,
+                        "filename": "palm_tree_leaves2",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREELEAVES2",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 1046,
+                        "filename": "palm_tree_barkbrown2",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREEBARKBROWN2",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 1047,
+                        "filename": "palm_tree_shadow",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREESHADOW",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 1048,
+                        "filename": "paper_center",
+                        "build-id": "ASSET_TEX3D_UNUSED_PAPERCENTER",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1049,
+                        "filename": "paper_edge",
+                        "build-id": "ASSET_TEX3D_UNUSED_PAPEREDGE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1050,
+                        "filename": "seamonster_spine",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SEAMONSTERSPINE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1051,
+                        "filename": "door_wizpig_0",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORWIZPIG_0",
+                        "folder": "objects"
+                    },{
+                        "index": 1052,
+                        "filename": "door_wizpig_1",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORWIZPIG_1",
+                        "folder": "objects"
+                    },{
+                        "index": 1053,
+                        "filename": "door_wizpig_2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORWIZPIG_2",
+                        "folder": "objects"
+                    },{
+                        "index": 1054,
+                        "filename": "door_wizpig_3",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORWIZPIG_3",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1055,
+                        "filename": "sepia_stone",
+                        "build-id": "ASSET_TEX3D_COMMON_SEPIASTONE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1056,
+                        "filename": "water_frozen2",
+                        "build-id": "ASSET_TEX3D_WINTER_WATERFROZEN2",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1057,
+                        "filename": "gold_trophy_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GOLDTROPHYEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1058,
+                        "filename": "wizpig_mountain_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGMOUNTAINEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1059,
+                        "filename": "wizpig_mountain_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGMOUNTAINNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1060,
+                        "filename": "gold_trophy_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GOLDTROPHYNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1061,
+                        "filename": "proam64_balloon_logo",
+                        "build-id": "ASSET_TEX3D_UNUSED_PROAM64BALLOONLOGO",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1062,
+                        "filename": "rainbow",
+                        "build-id": "ASSET_TEX3D_COMMON_RAINBOW",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1063,
+                        "filename": "blue_dark",
+                        "build-id": "ASSET_TEX3D_COMMON_BLUEDARK",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1064,
+                        "filename": "rare_logo_gray",
+                        "build-id": "ASSET_TEX3D_COMMON_RARELOGOGRAY",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1065,
+                        "filename": "rare_logo_gold",
+                        "build-id": "ASSET_TEX3D_COMMON_RARELOGOGOLD",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1066,
+                        "filename": "rareware",
+                        "build-id": "ASSET_TEX3D_OBJECTS_RAREWARE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1067,
+                        "filename": "spaceship_5",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SPACESHIP5",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1068,
+                        "filename": "red_path",
+                        "build-id": "ASSET_TEX3D_SPACE_REDPATH",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1069,
+                        "filename": "red_yellow_lamp",
+                        "build-id": "ASSET_TEX3D_COMMON_REDYELLOWLAMP",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1070,
+                        "filename": "red_bricks",
+                        "build-id": "ASSET_TEX3D_SPACE_REDBRICKS",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1071,
+                        "filename": "spaceship_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SPACESHIPFRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1072,
+                        "filename": "eroded_canyon_rock_shadow",
+                        "build-id": "ASSET_TEX3D_DINO_ERODEDCANYONROCKSHADOW",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 1073,
+                        "filename": "pirateship_rope",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PIRATESHIPROPE",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 1074,
+                        "filename": "yellow_brick",
+                        "build-id": "ASSET_TEX3D_COMMON_YELLOWBRICK",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1075,
+                        "filename": "yellow_stone_ground",
+                        "build-id": "ASSET_TEX3D_COMMON_YELLOWSTONEGROUND",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1076,
+                        "filename": "grass_sandy_unknown",
+                        "build-id": "ASSET_TEX3D_UNUSED_GRASSSANDYUNKNOWN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1077,
+                        "filename": "grey_pavement_edge",
+                        "build-id": "ASSET_TEX3D_COMMON_GREYPAVEMENTEDGE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1078,
+                        "filename": "yellow_brick_tile_sandy",
+                        "build-id": "ASSET_TEX3D_TROPICAL_YELLOWBRICKTILESANDY",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 1079,
+                        "filename": "dark_stone_wall",
+                        "build-id": "ASSET_TEX3D_WINTER_DARKSTONEWALL",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1080,
+                        "filename": "orange_stone4",
+                        "build-id": "ASSET_TEX3D_DINO_ORANGESTONE4",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 1081,
+                        "filename": "orange_stone5",
+                        "build-id": "ASSET_TEX3D_DINO_ORANGESTONE5",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 1082,
+                        "filename": "paper_unknown",
+                        "build-id": "ASSET_TEX3D_UNUSED_PAPERUNKNOWN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1083,
+                        "filename": "shield_level1",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SHIELDLEVEL1",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1084,
+                        "filename": "shield_level2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SHIELDLEVEL2",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1085,
+                        "filename": "shield_level3",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SHIELDLEVEL3",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1086,
+                        "filename": "sign_balloon",
+                        "build-id": "ASSET_TEX3D_UNUSED_SIGNBALLOON",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1087,
+                        "filename": "sign_white",
+                        "build-id": "ASSET_TEX3D_UNUSED_SIGNWHITE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1088,
+                        "filename": "sign_yellow",
+                        "build-id": "ASSET_TEX3D_UNUSED_SIGNYELLOW",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1089,
+                        "filename": "silver_trophy_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SILVERTROPHYENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1090,
+                        "filename": "sign_60",
+                        "build-id": "ASSET_TEX3D_UNUSED_SIGN60",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1091,
+                        "filename": "domebluesky5_0",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKY5_0",
+                        "folder": "objects"
+                    },{
+                        "index": 1092,
+                        "filename": "domebluesky5_1",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKY5_1",
+                        "folder": "objects"
+                    },{
+                        "index": 1093,
+                        "filename": "domebluesky5_2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKY5_2",
+                        "folder": "objects"
+                    },{
+                        "index": 1094,
+                        "filename": "domebluesky5_3",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKY5_3",
+                        "folder": "objects"
+                    },{
+                        "index": 1095,
+                        "filename": "domebluesky5_4",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKY5_4",
+                        "folder": "objects"
+                    },{
+                        "index": 1096,
+                        "filename": "domebluesky5_5",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKY5_5",
+                        "folder": "objects"
+                    },{
+                        "index": 1097,
+                        "filename": "domebluesky5_6",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKY5_6",
+                        "folder": "objects"
+                    },{
+                        "index": 1098,
+                        "filename": "domebluesky5_7",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBLUESKY5_7",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1099,
+                        "filename": "wall_tile_lights2",
+                        "build-id": "ASSET_TEX3D_SPACE_WALLTILELIGHTS2",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1100,
+                        "filename": "paper_decoration",
+                        "build-id": "ASSET_TEX3D_UNUSED_PAPERDECORATION",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1101,
+                        "filename": "wall_tile_lights_large",
+                        "build-id": "ASSET_TEX3D_SPACE_WALLTILELIGHTSLARGE",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1102,
+                        "filename": "village_door",
+                        "build-id": "ASSET_TEX3D_WINTER_VILLAGEDOOR",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1103,
+                        "filename": "hanging_snow5",
+                        "build-id": "ASSET_TEX3D_WINTER_HANGINGSNOW5",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1104,
+                        "filename": "wooden_guardrail_snowy",
+                        "build-id": "ASSET_TEX3D_WINTER_WOODENGUARDRAILSNOWY",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1105,
+                        "filename": "dark_stone_wall_snowy3",
+                        "build-id": "ASSET_TEX3D_WINTER_DARKSTONEWALLSNOWY3",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1106,
+                        "filename": "hanging_snow6",
+                        "build-id": "ASSET_TEX3D_WINTER_HANGINGSNOW6",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1107,
+                        "filename": "snowball_face",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SNOWBALLFACE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1108,
+                        "filename": "snow5",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOW5",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1109,
+                        "filename": "dome_planets2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEPLANETS2",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1110,
+                        "filename": "blue_light_stone",
+                        "build-id": "ASSET_TEX3D_SPACE_BLUELIGHTSTONE",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1111,
+                        "filename": "purple_path",
+                        "build-id": "ASSET_TEX3D_SPACE_PURPLEPATH",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1112,
+                        "filename": "pink_stone",
+                        "build-id": "ASSET_TEX3D_SPACE_PINKSTONE",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1113,
+                        "filename": "arch_inner",
+                        "build-id": "ASSET_TEX3D_SPACE_ARCHINNER",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1114,
+                        "filename": "spaceship_unknown",
+                        "build-id": "ASSET_TEX3D_UNUSED_SPACESHIPUNKNOWN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1115,
+                        "filename": "spaceship_unknown2",
+                        "build-id": "ASSET_TEX3D_UNUSED_SPACESHIPUNKNOWN2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1116,
+                        "filename": "spaceship_unknown3",
+                        "build-id": "ASSET_TEX3D_UNUSED_SPACESHIPUNKNOWN3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1117,
+                        "filename": "moon",
+                        "build-id": "ASSET_TEX3D_COMMON_MOON",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1118,
+                        "filename": "saturn",
+                        "build-id": "ASSET_TEX3D_UNUSED_SATURN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1119,
+                        "filename": "spaceship_front_lowres",
+                        "build-id": "ASSET_TEX3D_UNUSED_SPACESHIPFRONTLOWRES",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1120,
+                        "filename": "asteroid",
+                        "build-id": "ASSET_TEX3D_OBJECTS_ASTEROID",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1121,
+                        "filename": "sun",
+                        "build-id": "ASSET_TEX3D_COMMON_SUN",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1122,
+                        "filename": "sun2",
+                        "build-id": "ASSET_TEX3D_COMMON_SUN2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1123,
+                        "filename": "spaceship_unknown4",
+                        "build-id": "ASSET_TEX3D_UNUSED_SPACESHIPUNKNOWN4",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1124,
+                        "filename": "spaceship_unknown5",
+                        "build-id": "ASSET_TEX3D_UNUSED_SPACESHIPUNKNOWN5",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1125,
+                        "filename": "finish_line_flag_orange2_0",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGORANGE2_0",
+                        "folder": "common"
+                    },{
+                        "index": 1126,
+                        "filename": "finish_line_flag_orange2_1",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGORANGE2_1",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1127,
+                        "filename": "finish_line_flag_snowy_0",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGSNOWY_0",
+                        "folder": "common"
+                    },{
+                        "index": 1128,
+                        "filename": "finish_line_flag_snowy_1",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGSNOWY_1",
+                        "folder": "common"
+                    },{
+                        "index": 1129,
+                        "filename": "finish_line_flag_snowy_2",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGSNOWY_2",
+                        "folder": "common"
+                    },{
+                        "index": 1130,
+                        "filename": "finish_line_flag_snowy_3",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGSNOWY_3",
+                        "folder": "common"
+                    },{
+                        "index": 1131,
+                        "filename": "finish_line_flag_snowy_4",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGSNOWY_4",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1132,
+                        "filename": "level_name_border",
+                        "build-id": "ASSET_TEX3D_COMMON_LEVELNAMEBORDER",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1133,
+                        "filename": "bronze_trophy_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BRONZETROPHYEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1134,
+                        "filename": "bronze_trophy_smile",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BRONZETROPHYSMILE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1135,
+                        "filename": "bronze_trophy_screw",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BRONZETROPHYSCREW",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1136,
+                        "filename": "effect_box",
+                        "build-id": "ASSET_TEX3D_OBJECTS_EFFECTBOX",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1137,
+                        "filename": "dome_yellow_sun",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEYELLOWSUN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1138,
+                        "filename": "dome_bottom_snow",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEBOTTOMSNOW",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1139,
+                        "filename": "seamonster_unknown2",
+                        "build-id": "ASSET_TEX3D_UNUSED_SEAMONSTERUNKNOWN2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1140,
+                        "filename": "seamonster_unknown_eye",
+                        "build-id": "ASSET_TEX3D_UNUSED_SEAMONSTERUNKNOWNEYE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1141,
+                        "filename": "dome_moon_crescent",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEMOONCRESCENT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1142,
+                        "filename": "lighthouse_rocket_booster",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LIGHTHOUSEROCKETBOOSTER",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1143,
+                        "filename": "beta_tiptup_icon",
+                        "build-id": "ASSET_TEX3D_UNUSED_BETATIPTUPICON",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1144,
+                        "filename": "fallen_tree_log_shadow",
+                        "build-id": "ASSET_TEX3D_DINO_FALLENTREELOGSHADOW",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 1145,
+                        "filename": "sign_30",
+                        "build-id": "ASSET_TEX3D_UNUSED_SIGN30",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1146,
+                        "filename": "trickytops_face_eye_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSFACEEYEBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1147,
+                        "filename": "trickytops_eyesocket",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRICKYTOPSEYESOCKET",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1148,
+                        "filename": "trickytops_statue_eye",
+                        "build-id": "ASSET_TEX3D_DINO_TRICKYTOPSSTATUEEYE",
+                        "folder": "dino"
+                    },
+                    {
+                        "index": 1149,
+                        "filename": "bronze_trophy_decoration",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BRONZETROPHYDECORATION",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1150,
+                        "filename": "gold_trophy_decoration",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GOLDTROPHYDECORATION",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1151,
+                        "filename": "gold_trophy_number",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GOLDTROPHYNUMBER",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1152,
+                        "filename": "silver_trophy_number",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SILVERTROPHYNUMBER",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1153,
+                        "filename": "bronze_trophy_number",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BRONZETROPHYNUMBER",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1154,
+                        "filename": "silver_trophy_decoration",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SILVERTROPHYDECORATION",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1155,
+                        "filename": "bluey_statue_eye",
+                        "build-id": "ASSET_TEX3D_WINTER_BLUEYSTATUEEYE",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1156,
+                        "filename": "water5",
+                        "build-id": "ASSET_TEX3D_COMMON_WATER5",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1157,
+                        "filename": "dome_island_coast_0",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEISLANDCOAST_0",
+                        "folder": "objects"
+                    },{
+                        "index": 1158,
+                        "filename": "dome_island_coast_1",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEISLANDCOAST_1",
+                        "folder": "objects"
+                    },{
+                        "index": 1159,
+                        "filename": "dome_island_coast_2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEISLANDCOAST_2",
+                        "folder": "objects"
+                    },{
+                        "index": 1160,
+                        "filename": "dome_island_coast_3",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEISLANDCOAST_3",
+                        "folder": "objects"
+                    },{
+                        "index": 1161,
+                        "filename": "dome_island_coast_4",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEISLANDCOAST_4",
+                        "folder": "objects"
+                    },{
+                        "index": 1162,
+                        "filename": "dome_island_coast_5",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEISLANDCOAST_5",
+                        "folder": "objects"
+                    },{
+                        "index": 1163,
+                        "filename": "dome_island_coast_6",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEISLANDCOAST_6",
+                        "folder": "objects"
+                    },{
+                        "index": 1164,
+                        "filename": "dome_island_coast_7",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOMEISLANDCOAST_7",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1165,
+                        "filename": "door_worldgate_back_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORWORLDGATEBACKBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1166,
+                        "filename": "door_worldgate_side",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORWORLDGATESIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1167,
+                        "filename": "door_worldgate_front_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORWORLDGATEFRONTTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1168,
+                        "filename": "door_worldgate_front_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORWORLDGATEFRONTBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1169,
+                        "filename": "door_worldgate_back_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORWORLDGATEBACKTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1170,
+                        "filename": "whale_underside",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WHALEUNDERSIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1171,
+                        "filename": "whale_fin",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WHALEFIN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1172,
+                        "filename": "whale_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WHALEEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1173,
+                        "filename": "whale_blowhole",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WHALEBLOWHOLE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1174,
+                        "filename": "whale_mouth_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WHALEMOUTHTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1175,
+                        "filename": "whale_mouth_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WHALEMOUTHBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1176,
+                        "filename": "whale_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WHALENOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1177,
+                        "filename": "waterfall2",
+                        "build-id": "ASSET_TEX3D_COMMON_WATERFALL2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1178,
+                        "filename": "red_glass_window",
+                        "build-id": "ASSET_TEX3D_SPACE_REDGLASSWINDOW",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1179,
+                        "filename": "wood_block",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WOODBLOCK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1180,
+                        "filename": "wood_sign",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WOODSIGN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1181,
+                        "filename": "door_level_single_done_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORLEVELSINGLEDONETOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1182,
+                        "filename": "door_level_single_done_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORLEVELSINGLEDONEBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1183,
+                        "filename": "door_level_checkmark",
+                        "build-id": "ASSET_TEX3D_UNUSED_DOORLEVELCHECKMARK",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1184,
+                        "filename": "door_level_done_checkmark_top",
+                        "build-id": "ASSET_TEX3D_UNUSED_DOORLEVELDONECHECKMARKTOP",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1185,
+                        "filename": "door_level_done_checkmark_bottom",
+                        "build-id": "ASSET_TEX3D_UNUSED_DOORLEVELDONECHECKMARKBOTTOM",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1186,
+                        "filename": "wood_unknown",
+                        "build-id": "ASSET_TEX3D_UNUSED_WOODUNKNOWN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1187,
+                        "filename": "whale_bay_programmer_art_sign",
+                        "build-id": "ASSET_TEX3D_UNUSED_WHALEBAYPROGRAMMERARTSIGN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1188,
+                        "filename": "treasure_caves_programmer_art_sign",
+                        "build-id": "ASSET_TEX3D_UNUSED_TREASURECAVESPROGRAMMERARTSIGN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1189,
+                        "filename": "crescent_island_programmer_art_sign",
+                        "build-id": "ASSET_TEX3D_UNUSED_CRESCENTISLANDPROGRAMMERARTSIGN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1190,
+                        "filename": "pirate_lagoon_programmer_art_sign",
+                        "build-id": "ASSET_TEX3D_UNUSED_PIRATELAGOONPROGRAMMERARTSIGN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1191,
+                        "filename": "wood_unknown2",
+                        "build-id": "ASSET_TEX3D_UNUSED_WOODUNKNOWN2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1192,
+                        "filename": "volcano_stone",
+                        "build-id": "ASSET_TEX3D_UNUSED_VOLCANOSTONE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1193,
+                        "filename": "door_tt_icon_left",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORTTICONLEFT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1194,
+                        "filename": "door_tt_icon_right",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORTTICONRIGHT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1195,
+                        "filename": "door_tt_top_right",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORTTTOPRIGHT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1196,
+                        "filename": "door_tt_bottom_right",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORTTBOTTOMRIGHT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1197,
+                        "filename": "door_tt_top_right_active",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORTTTOPRIGHTACTIVE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1198,
+                        "filename": "door_tt_bottom_right_top_active",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORTTBOTTOMRIGHTTOPACTIVE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1199,
+                        "filename": "door_tt_bottom_right_active",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORTTBOTTOMRIGHTACTIVE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1200,
+                        "filename": "door_boss_bottom2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORBOSSBOTTOM2",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1201,
+                        "filename": "roof_tile_shingles2",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_ROOFTILESHINGLES2",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1202,
+                        "filename": "village_white_wall2",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_VILLAGEWHITEWALL2",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1203,
+                        "filename": "taj_pad_snow",
+                        "build-id": "ASSET_TEX3D_UNUSED_TAJPADSNOW",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1204,
+                        "filename": "door_challenge_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORCHALLENGETOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1205,
+                        "filename": "door_challenge_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORCHALLENGEBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1206,
+                        "filename": "vines_on_wood",
+                        "build-id": "ASSET_TEX3D_UNUSED_VINESONWOOD",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1207,
+                        "filename": "hanging_ice2",
+                        "build-id": "ASSET_TEX3D_WINTER_HANGINGICE2",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1208,
+                        "filename": "unknown_balcony",
+                        "build-id": "ASSET_TEX3D_UNUSED_UNKNOWNBALCONY",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1209,
+                        "filename": "ground_cobble",
+                        "build-id": "ASSET_TEX3D_UNUSED_GROUNDCOBBLE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1210,
+                        "filename": "green_brick_wall",
+                        "build-id": "ASSET_TEX3D_UNUSED_GREENBRICKWALL",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1211,
+                        "filename": "old_brick_wall",
+                        "build-id": "ASSET_TEX3D_UNUSED_OLDBRICKWALL",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1212,
+                        "filename": "orange_gate_tip",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_ORANGEGATETIP",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1213,
+                        "filename": "sand_wet_dry_transition2",
+                        "build-id": "ASSET_TEX3D_COMMON_SANDWETDRYTRANSITION2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1214,
+                        "filename": "roof_tile_shingles3",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_ROOFTILESHINGLES3",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1215,
+                        "filename": "steel_gate",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_STEELGATE",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1216,
+                        "filename": "steel_gate_tip",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_STEELGATETIP",
+                        "folder": "medieval"
+                    },          
+                    {
+                        "index": 1217,
+                        "filename": "dirt_wall_mossy",
+                        "build-id": "ASSET_TEX3D_COMMON_DIRTWALLMOSSY",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1218,
+                        "filename": "blue_lightning_bolt",
+                        "build-id": "ASSET_TEX3D_SPACE_BLUELIGHTNINGBOLT",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1219,
+                        "filename": "wizpigship_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGSHIPEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1220,
+                        "filename": "wizpigship_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGSHIPNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1221,
+                        "filename": "wizpigship_exhast_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGSHIPEXHASTBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1222,
+                        "filename": "wizpigship_exhast_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGSHIPEXHASTTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1223,
+                        "filename": "red_stripes_for_spaceship",
+                        "build-id": "ASSET_TEX3D_OBJECTS_REDSTRIPESFORSPACESHIP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1224,
+                        "filename": "party_post_0",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PARTYPOST_0",
+                        "folder": "objects"
+                    },{
+                        "index": 1225,
+                        "filename": "party_post_1",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PARTYPOST_1",
+                        "folder": "objects"
+                    },{
+                        "index": 1226,
+                        "filename": "party_post_2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PARTYPOST_2",
+                        "folder": "objects"
+                    },{
+                        "index": 1227,
+                        "filename": "party_post_3",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PARTYPOST_3",
+                        "folder": "objects"
+                    },{
+                        "index": 1228,
+                        "filename": "party_post_4",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PARTYPOST_4",
+                        "folder": "objects"
+                    },{
+                        "index": 1229,
+                        "filename": "party_post_5",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PARTYPOST_5",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1230,
+                        "filename": "door_boss_taj_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORBOSSTAJTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1231,
+                        "filename": "door_boss_taj_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORBOSSTAJBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1232,
+                        "filename": "door_level_gb_number_top_right",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORLEVELGBNUMBERTOPRIGHT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1233,
+                        "filename": "door_level_gb_number_top_left",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORLEVELGBNUMBERTOPLEFT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1234,
+                        "filename": "door_level_gb_number_bottom_right",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORLEVELGBNUMBERBOTTOMRIGHT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1235,
+                        "filename": "door_level_gb_number_bottom_left",
+                        "build-id": "ASSET_TEX3D_OBJECTS_DOORLEVELGBNUMBERBOTTOMLEFT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1236,
+                        "filename": "forest_billboard",
+                        "build-id": "ASSET_TEX3D_UNUSED_FORESTBILLBOARD",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1237,
+                        "filename": "brown_stone2",
+                        "build-id": "ASSET_TEX3D_COMMON_BROWNSTONE2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1238,
+                        "filename": "grey_stone_large",
+                        "build-id": "ASSET_TEX3D_UNUSED_GREYSTONELARGE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1239,
+                        "filename": "log_large_mossy",
+                        "build-id": "ASSET_TEX3D_COMMON_LOGLARGEMOSSY",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1240,
+                        "filename": "log_exposed_side3",
+                        "build-id": "ASSET_TEX3D_COMMON_LOGEXPOSEDSIDE3",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1241,
+                        "filename": "water_fountain",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_WATERFOUNTAIN",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1242,
+                        "filename": "unknown_purple",
+                        "build-id": "ASSET_TEX3D_UNUSED_UNKNOWNPURPLE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1243,
+                        "filename": "unknown_red",
+                        "build-id": "ASSET_TEX3D_UNUSED_UNKNOWNRED",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1244,
+                        "filename": "unknown_red2",
+                        "build-id": "ASSET_TEX3D_UNUSED_UNKNOWNRED2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1245,
+                        "filename": "village_white_wall3",
+                        "build-id": "ASSET_TEX3D_UNUSED_VILLAGEWHITEWALL3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1246,
+                        "filename": "wood_guardrail_top",
+                        "build-id": "ASSET_TEX3D_COMMON_WOODGUARDRAILTOP",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1247,
+                        "filename": "village_grey_wall",
+                        "build-id": "ASSET_TEX3D_UNUSED_VILLAGEGREYWALL",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1248,
+                        "filename": "village_white_wall4",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_VILLAGEWHITEWALL4",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1249,
+                        "filename": "finish_line_red_tape",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEREDTAPE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1250,
+                        "filename": "bluey_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_BLUEYEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1251,
+                        "filename": "transparent2",
+                        "build-id": "ASSET_TEX3D_COMMON_TRANSPARENT2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1252,
+                        "filename": "green_cyan_gradient",
+                        "build-id": "ASSET_TEX3D_UNUSED_GREENCYANGRADIENT",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1253,
+                        "filename": "gold_unknown",
+                        "build-id": "ASSET_TEX3D_UNUSED_GOLDUNKNOWN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1254,
+                        "filename": "shrubbery",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_SHRUBBERY",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1255,
+                        "filename": "cyan_yellow_arrow_sign2",
+                        "build-id": "ASSET_TEX3D_COMMON_CYANYELLOWARROWSIGN2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1256,
+                        "filename": "debug_yellow_blue_invisible",
+                        "build-id": "ASSET_TEX3D_COMMON_DEBUGYELLOWBLUEINVISIBLE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1257,
+                        "filename": "brown_stone_grassy",
+                        "build-id": "ASSET_TEX3D_COMMON_BROWNSTONEGRASSY",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1258,
+                        "filename": "brown_stone_grassy2",
+                        "build-id": "ASSET_TEX3D_COMMON_BROWNSTONEGRASSY2",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1259,
+                        "filename": "wizpig_mouth",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGMOUTH",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1260,
+                        "filename": "walrus_cove_sign",
+                        "build-id": "ASSET_TEX3D_WINTER_WALRUSCOVESIGN",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1261,
+                        "filename": "everfrost_peak_sign",
+                        "build-id": "ASSET_TEX3D_WINTER_EVERFROSTPEAKSIGN",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1262,
+                        "filename": "frosty_village_sign",
+                        "build-id": "ASSET_TEX3D_WINTER_FROSTYVILLAGESIGN",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1263,
+                        "filename": "snowball_valley",
+                        "build-id": "ASSET_TEX3D_WINTER_SNOWBALLVALLEY",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1264,
+                        "filename": "wizpig_robe_lowres",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGROBELOWRES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1265,
+                        "filename": "wizpig_skin_lowres",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGSKINLOWRES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1266,
+                        "filename": "cyan_yellow_arrown_sign_with_border",
+                        "build-id": "ASSET_TEX3D_COMMON_CYANYELLOWARROWNSIGNWITHBORDER",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1267,
+                        "filename": "whale_bay_sign",
+                        "build-id": "ASSET_TEX3D_TROPICAL_WHALEBAYSIGN",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 1268,
+                        "filename": "treasure_caves_sign",
+                        "build-id": "ASSET_TEX3D_TROPICAL_TREASURECAVESSIGN",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 1269,
+                        "filename": "crescent_island_sign",
+                        "build-id": "ASSET_TEX3D_TROPICAL_CRESCENTISLANDSIGN",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 1270,
+                        "filename": "pirate_lagoon_sign",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PIRATELAGOONSIGN",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 1271,
+                        "filename": "rocket_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_ROCKETENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1272,
+                        "filename": "wizpig_belt_lowres",
+                        "build-id": "ASSET_TEX3D_OBJECTS_WIZPIGBELTLOWRES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1273,
+                        "filename": "purple_wizpig_stone_dark",
+                        "build-id": "ASSET_TEX3D_SPACE_PURPLEWIZPIGSTONEDARK",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1274,
+                        "filename": "purple_wizpig_stone",
+                        "build-id": "ASSET_TEX3D_SPACE_PURPLEWIZPIGSTONE",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1275,
+                        "filename": "purple_wizpig_stone_wall",
+                        "build-id": "ASSET_TEX3D_SPACE_PURPLEWIZPIGSTONEWALL",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1276,
+                        "filename": "purple_wizpig_sand",
+                        "build-id": "ASSET_TEX3D_SPACE_PURPLEWIZPIGSAND",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1277,
+                        "filename": "wizpig_chair_seat_cushion",
+                        "build-id": "ASSET_TEX3D_SPACE_WIZPIGCHAIRSEATCUSHION",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1278,
+                        "filename": "wizpig_char_seat",
+                        "build-id": "ASSET_TEX3D_SPACE_WIZPIGCHARSEAT",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1279,
+                        "filename": "rocket_envmap2",
+                        "build-id": "ASSET_TEX3D_OBJECTS_ROCKETENVMAP2",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1280,
+                        "filename": "haunted_wood_sign",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_HAUNTEDWOODSIGN",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1281,
+                        "filename": "windmill_plains_sign",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_WINDMILLPLAINSSIGN",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1282,
+                        "filename": "boulder_canyon_sign",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_BOULDERCANYONSIGN",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1283,
+                        "filename": "greenwood_village_sign_0",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_GREENWOODVILLAGESIGN_0",
+                        "folder": "medieval"
+                    },{
+                        "index": 1284,
+                        "filename": "greenwood_village_sign_1",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_GREENWOODVILLAGESIGN_1",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1285,
+                        "filename": "spacedust_alley_sign",
+                        "build-id": "ASSET_TEX3D_SPACE_SPACEDUSTALLEYSIGN",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1286,
+                        "filename": "darkmoon_caverns_sign_0",
+                        "build-id": "ASSET_TEX3D_SPACE_DARKMOONCAVERNSSIGN_0",
+                        "folder": "space"
+                    },{
+                        "index": 1287,
+                        "filename": "darkmoon_caverns_sign_1",
+                        "build-id": "ASSET_TEX3D_SPACE_DARKMOONCAVERNSSIGN_1",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1288,
+                        "filename": "twilight_city_sign",
+                        "build-id": "ASSET_TEX3D_UNUSED_TWILIGHTCITYSIGN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1289,
+                        "filename": "spaceport_alpha_sign",
+                        "build-id": "ASSET_TEX3D_SPACE_SPACEPORTALPHASIGN",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1290,
+                        "filename": "wizpig_room_arch_side_top",
+                        "build-id": "ASSET_TEX3D_SPACE_WIZPIGROOMARCHSIDETOP",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1291,
+                        "filename": "wizpig_room_arch_front",
+                        "build-id": "ASSET_TEX3D_SPACE_WIZPIGROOMARCHFRONT",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1292,
+                        "filename": "wizpig_room_arch_bottom",
+                        "build-id": "ASSET_TEX3D_SPACE_WIZPIGROOMARCHBOTTOM",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1293,
+                        "filename": "wizpig_room_arch_side_bottom",
+                        "build-id": "ASSET_TEX3D_SPACE_WIZPIGROOMARCHSIDEBOTTOM",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1294,
+                        "filename": "keith_pig_door",
+                        "build-id": "ASSET_TEX3D_UNUSED_KEITHPIGDOOR",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1295,
+                        "filename": "keith_pig_door2",
+                        "build-id": "ASSET_TEX3D_UNUSED_KEITHPIGDOOR2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1296,
+                        "filename": "keith_pig_door3",
+                        "build-id": "ASSET_TEX3D_UNUSED_KEITHPIGDOOR3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1297,
+                        "filename": "spaceship_side_booster",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SPACESHIPSIDEBOOSTER",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1298,
+                        "filename": "spaceship_unknown",
+                        "build-id": "ASSET_TEX3D_UNUSED_SPACESHIPUNKNOWN",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1299,
+                        "filename": "spaceship_unknown2",
+                        "build-id": "ASSET_TEX3D_UNUSED_SPACESHIPUNKNOWN2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1300,
+                        "filename": "spaceship_unknown3",
+                        "build-id": "ASSET_TEX3D_UNUSED_SPACESHIPUNKNOWN3",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1301,
+                        "filename": "spaceship_unknown4",
+                        "build-id": "ASSET_TEX3D_UNUSED_SPACESHIPUNKNOWN4",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1302,
+                        "filename": "big_planet",
+                        "build-id": "ASSET_TEX3D_SPACE_BIGPLANET",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1303,
+                        "filename": "wizpig_rocket_transparent",
+                        "build-id": "ASSET_TEX3D_UNUSED_WIZPIGROCKETTRANSPARENT",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1304,
+                        "filename": "candy_cane2",
+                        "build-id": "ASSET_TEX3D_WINTER_CANDYCANE2",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1305,
+                        "filename": "debug_red_green",
+                        "build-id": "ASSET_TEX3D_COMMON_DEBUGREDGREEN",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1306,
+                        "filename": "first_place_0",
+                        "build-id": "ASSET_TEX3D_COMMON_FIRSTPLACE_0",
+                        "folder": "common"
+                    },{
+                        "index": 1307,
+                        "filename": "first_place_1",
+                        "build-id": "ASSET_TEX3D_COMMON_FIRSTPLACE_1",
+                        "folder": "common"
+                    },{
+                        "index": 1308,
+                        "filename": "first_place_2",
+                        "build-id": "ASSET_TEX3D_COMMON_FIRSTPLACE_2",
+                        "folder": "common"
+                    },{
+                        "index": 1309,
+                        "filename": "first_place_3",
+                        "build-id": "ASSET_TEX3D_COMMON_FIRSTPLACE_3",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1310,
+                        "filename": "small_bolt",
+                        "build-id": "ASSET_TEX3D_UNUSED_SMALLBOLT",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1311,
+                        "filename": "large_bolt",
+                        "build-id": "ASSET_TEX3D_UNUSED_LARGEBOLT",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1312,
+                        "filename": "purple_path",
+                        "build-id": "ASSET_TEX3D_UNUSED_PURPLEPATH",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1313,
+                        "filename": "purple_path_edge",
+                        "build-id": "ASSET_TEX3D_UNUSED_PURPLEPATHEDGE",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1314,
+                        "filename": "yellow_brick_tile3",
+                        "build-id": "ASSET_TEX3D_COMMON_YELLOWBRICKTILE3",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1315,
+                        "filename": "hanging_ice3",
+                        "build-id": "ASSET_TEX3D_WINTER_HANGINGICE3",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1316,
+                        "filename": "brown_stone_snowy",
+                        "build-id": "ASSET_TEX3D_WINTER_BROWNSTONESNOWY",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1317,
+                        "filename": "golden_taj_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_GOLDENTAJEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1318,
+                        "filename": "yellow_trickytops_toes",
+                        "build-id": "ASSET_TEX3D_OBJECTS_YELLOWTRICKYTOPSTOES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1319,
+                        "filename": "yellow_trickytops_frill",
+                        "build-id": "ASSET_TEX3D_OBJECTS_YELLOWTRICKYTOPSFRILL",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1320,
+                        "filename": "yellow_trickytops_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_YELLOWTRICKYTOPSBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1321,
+                        "filename": "pink_trickytops_toes",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PINKTRICKYTOPSTOES",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1322,
+                        "filename": "pink_trickytops_underside",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PINKTRICKYTOPSUNDERSIDE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1323,
+                        "filename": "pink_trickytops_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PINKTRICKYTOPSNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1324,
+                        "filename": "pink_trickytops_frill",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PINKTRICKYTOPSFRILL",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1325,
+                        "filename": "pink_trickytops_back",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PINKTRICKYTOPSBACK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1326,
+                        "filename": "pink_trickytops_eye",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PINKTRICKYTOPSEYE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1327,
+                        "filename": "pink_trickytops_skin",
+                        "build-id": "ASSET_TEX3D_OBJECTS_PINKTRICKYTOPSSKIN",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1328,
+                        "filename": "magnetfx",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MAGNETFX",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1329,
+                        "filename": "miniship_nose",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MINISHIPNOSE",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1330,
+                        "filename": "miniship_hull",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MINISHIPHULL",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1331,
+                        "filename": "miniship_exhast",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MINISHIPEXHAST",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1332,
+                        "filename": "miniship_booster",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MINISHIPBOOSTER",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1333,
+                        "filename": "miniship_booster_exhast",
+                        "build-id": "ASSET_TEX3D_OBJECTS_MINISHIPBOOSTEREXHAST",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1334,
+                        "filename": "fan_updraft",
+                        "build-id": "ASSET_TEX3D_SPACE_FANUPDRAFT",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1335,
+                        "filename": "n64_logo_yellow",
+                        "build-id": "ASSET_TEX3D_OBJECTS_N64LOGOYELLOW",
+                        "folder": "objects"
+                    },
                     {
                         "index": 1336,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_0",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_0",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1337,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_1",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_1",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1338,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_2",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_2",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1339,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_3",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_3",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1340,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_4",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_4",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1341,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_5",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_5",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1342,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_6",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_6",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1343,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_7",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_7",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1344,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_8",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_8",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1345,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_9",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_9",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1346,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_10",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_10",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1347,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_11",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_11",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1348,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_12",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_12",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1349,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_13",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_13",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1350,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_14",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_14",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1351,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_15",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_15",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1352,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_16",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_16",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1353,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_17",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_17",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1354,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_18",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_18",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1355,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_19",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_19",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1356,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_20",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_20",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1357,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_21",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_21",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1358,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_22",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_22",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1359,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_23",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_23",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1360,
-                        "flip-tex": false
-                    },
-                    {
+                        "filename": "menu_tex_24",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_24",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },{
                         "index": 1361,
-                        "flip-tex": false
+                        "filename": "menu_tex_25",
+                        "build-id": "ASSET_TEX3D_UNUSED_MENUTEX_25",
+                        "flip-tex": false,
+                        "folder": "unused"
                     },
                     {
                         "index": 1362,
-                        "flip-tex": false
+                        "filename": "plane_shadow",
+                        "build-id": "ASSET_TEX3D_UNUSED_PLANESHADOW",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1363,
+                        "filename": "magic_carpet_shadow",
+                        "build-id": "ASSET_TEX3D_UNUSED_MAGICCARPETSHADOW",
+                        "flip-tex": false,
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1364,
+                        "filename": "unknown_effect",
+                        "build-id": "ASSET_TEX3D_UNUSED_UNKNOWNEFFECT",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1365,
+                        "filename": "trademark",
+                        "build-id": "ASSET_TEX3D_OBJECTS_TRADEMARK",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1366,
+                        "filename": "tanstonetile",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_TANSTONETILE",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1367,
+                        "filename": "icicle_pyramid_top_entrance_tex_unknown",
+                        "build-id": "ASSET_TEX3D_WINTER_ICICLEPYRAMIDTOPENTRANCETEXUNKNOWN",
+                        "folder": "winter"
+                    },
+                    {
+                        "index": 1368,
+                        "filename": "star_city_sign",
+                        "build-id": "ASSET_TEX3D_SPACE_STARCITYSIGN",
+                        "folder": "space"
+                    },
+                    {
+                        "index": 1369,
+                        "filename": "level_door_silver_balloon_top_right",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LEVELDOORSILVERBALLOONTOPRIGHT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1370,
+                        "filename": "level_door_silver_balloon_top_left",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LEVELDOORSILVERBALLOONTOPLEFT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1371,
+                        "filename": "level_door_silver_balloon_bottom_right",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LEVELDOORSILVERBALLOONBOTTOMRIGHT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1372,
+                        "filename": "level_door_silver_balloon_bottom_left",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LEVELDOORSILVERBALLOONBOTTOMLEFT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1373,
+                        "filename": "level_door_silver_balloon_bottom_fullclear",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LEVELDOORSILVERBALLOONBOTTOMFULLCLEAR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1374,
+                        "filename": "level_door_silver_balloon_top_fullclear",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LEVELDOORSILVERBALLOONTOPFULLCLEAR",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1375,
+                        "filename": "silver_balloon_envmap",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SILVERBALLOONENVMAP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1376,
+                        "filename": "level_door_silver_number_top",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LEVELDOORSILVERNUMBERTOP",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1377,
+                        "filename": "level_door_silver_number_bottom",
+                        "build-id": "ASSET_TEX3D_OBJECTS_LEVELDOORSILVERNUMBERBOTTOM",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1378,
+                        "filename": "spaceship3_window",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SPACESHIP3WINDOW",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1379,
+                        "filename": "spaceship3_hull",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SPACESHIP3HULL",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1380,
+                        "filename": "spaceship3_booster",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SPACESHIP3BOOSTER",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1381,
+                        "filename": "spaceship3_front",
+                        "build-id": "ASSET_TEX3D_OBJECTS_SPACESHIP3FRONT",
+                        "folder": "objects"
+                    },
+                    {
+                        "index": 1382,
+                        "filename": "yellow_brick_tile4",
+                        "build-id": "ASSET_TEX3D_COMMON_YELLOWBRICKTILE4",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1383,
+                        "filename": "void",
+                        "build-id": "ASSET_TEX3D_COMMON_VOID",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1384,
+                        "filename": "debug_fire_mountain_ceiling",
+                        "build-id": "ASSET_TEX3D_COMMON_DEBUGFIREMOUNTAINCEILING",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1385,
+                        "filename": "yellow_arrow_sign2",
+                        "build-id": "ASSET_TEX3D_UNUSED_YELLOWARROWSIGN2",
+                        "folder": "unused"
+                    },
+                    {
+                        "index": 1386,
+                        "filename": "finish_line_flag_snowy2_0",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGSNOWY2_0",
+                        "folder": "common"
+                    },{
+                        "index": 1387,
+                        "filename": "finish_line_flag_snowy2_1",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGSNOWY2_1",
+                        "folder": "common"
+                    },{
+                        "index": 1388,
+                        "filename": "finish_line_flag_snowy2_2",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGSNOWY2_2",
+                        "folder": "common"
+                    },{
+                        "index": 1389,
+                        "filename": "finish_line_flag_snowy2_3",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGSNOWY2_3",
+                        "folder": "common"
+                    },{
+                        "index": 1390,
+                        "filename": "finish_line_flag_snowy2_4",
+                        "build-id": "ASSET_TEX3D_COMMON_FINISHLINEFLAGSNOWY2_4",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1391,
+                        "filename": "waterfall3",
+                        "build-id": "ASSET_TEX3D_COMMON_WATERFALL3",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1392,
+                        "filename": "yellow_brick_tile5",
+                        "build-id": "ASSET_TEX3D_COMMON_YELLOWBRICKTILE5",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1393,
+                        "filename": "red_arrow_sign4",
+                        "build-id": "ASSET_TEX3D_COMMON_REDARROWSIGN4",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1394,
+                        "filename": "yellow_brick_tile6",
+                        "build-id": "ASSET_TEX3D_COMMON_YELLOWBRICKTILE6",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1395,
+                        "filename": "village_grey_wall2",
+                        "build-id": "ASSET_TEX3D_MEDIEVAL_VILLAGEGREYWALL2",
+                        "folder": "medieval"
+                    },
+                    {
+                        "index": 1396,
+                        "filename": "yellow_brick_tile7",
+                        "build-id": "ASSET_TEX3D_COMMON_YELLOWBRICKTILE7",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1397,
+                        "filename": "sand6",
+                        "build-id": "ASSET_TEX3D_COMMON_SAND6",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1398,
+                        "filename": "palm_tree_shadow_long",
+                        "build-id": "ASSET_TEX3D_TROPICAL_PALMTREESHADOWLONG",
+                        "folder": "tropical"
+                    },
+                    {
+                        "index": 1399,
+                        "filename": "debug_black_white",
+                        "build-id": "ASSET_TEX3D_COMMON_DEBUGBLACKWHITE",
+                        "folder": "common"
+                    },
+                    {
+                        "index": 1400,
+                        "filename": "rareware_sign_non_blinking",
+                        "build-id": "ASSET_TEX3D_SPACE_RAREWARESIGNNONBLINKING",
+                        "folder": "space"
                     }
                 ]
             },
