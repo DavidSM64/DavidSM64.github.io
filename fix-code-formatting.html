@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fix C Code Formatting</title>
+    <script src="fixC.js"></script>
+    <style>
+        body {
+            background-color: #282828;
+            color: #FFFFFF;
+        }
+        textarea {
+            background-color: #383838;
+            color: #FFFFFF;
+            width: 49%;
+        }
+        button {
+            background-color: #3C8F2A; /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #2C7F1A; /* Darker green */
+        }
+        button:active {
+            background-color: #1C5a10; /* Even darker green */
+        }
+        .container {
+            display: flex;
+            justify-content: space-between;
+        }
+    </style>
+</head>
+<body>
+    <h1>Fix C Code Formatting</h1>
+    <button onclick="fixFormat()">Fix Formatting</button><br/><br/>
+    <div class="container">
+        <textarea id="input" rows="40" cols="50"></textarea>
+        <textarea id="output" rows="40" cols="50" readonly></textarea>
+    </div>
+
+    <script>
+        function fixFormat() {
+            var input = document.getElementById('input').value;
+            var output = fix_code_formatting(input);
+            document.getElementById('output').value = output;
+        }
+    </script>
+</body>
+</html>
