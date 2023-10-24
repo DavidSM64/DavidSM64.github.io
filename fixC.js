@@ -1,9 +1,9 @@
 const REGEX_CURLY_BRACE_SAME_LINE = /\)\s*\{/gm;
 const REGEX_ELSE_SAME_LINE = /\}\s*else\s*\{/gm;
 const REGEX_EMPTY_SAME_LINE = /\{\s*\}/gm;
-const REGEX_REMOVE_LEADING_SPACES_LINE = /^ +/gm;
 const REGEX_FIND_SWITCH_BLOCKS = /(?:(?:case)|(?:default)).*\n(?: *)((?:.*\n)*?\s*(?:(?=(?:case))|(?:break;)))/g;
 const REGEX_GET_LEFT_POINTERS = /([a-zA-Z_][a-zA-Z0-9_]*)([*]+)[ ]+([a-zA-Z_][a-zA-Z0-9_]*)/gm;
+const REGEX_ELSE_IF = /\}\s*else\s*if\s*([(][^)]*[)])\s*\{/gm;
 
 function _get_detailed_matches(inputText, regex) {
     let results = [];
@@ -47,11 +47,15 @@ function _add_indents(input, indentSize = 4) {
     let indent = 0;
     return input.split('\n').map(line => {
         const trimmedLine = line.trim();
+        const trimmedLineNoComment = trimmedLine.replace(/\/\/.*/, "").trim();
         if (trimmedLine.startsWith('}')) {
             indent -= indentSize;
+            if(indent < 0) {
+                indent = 0;
+            }
         }
         const result = ' '.repeat(indent) + trimmedLine;
-        if (trimmedLine.endsWith('{')) {
+        if (trimmedLineNoComment.endsWith('{')) {
             indent += indentSize;
         }
         return result;
@@ -67,13 +71,33 @@ function _fix_pointer_alignment(input) {
     return input;
 }
 
+function _fix_if_else(input) {
+    let matches = _get_detailed_matches(input, REGEX_ELSE_IF);
+    for (let match of matches) {
+        let newPattern = '} else if(' + match[1] + ') {';
+        input = input.replace(match[0], newPattern);
+    }
+    return input;
+}
+
+function _trim_all_lines(input) {
+    var lines = input.split('\n');
+
+    for (var i = 0; i < lines.length; i++) {
+        lines[i] = lines[i].trim();
+    }
+
+    return lines.join('\n');
+}
+
 function fix_code_formatting(input) {
     out = input;
     out = _replace_matches(out, _get_whole_matches(out, REGEX_CURLY_BRACE_SAME_LINE), ") {");
     out = _replace_matches(out, _get_whole_matches(out, REGEX_ELSE_SAME_LINE), "} else {");
     out = _replace_matches(out, _get_whole_matches(out, REGEX_EMPTY_SAME_LINE), "{}");
-    out = _replace_matches(out, _get_whole_matches(out, REGEX_REMOVE_LEADING_SPACES_LINE), "");
+    out = _trim_all_lines(out);
     out = _fix_pointer_alignment(out);
+    out = _fix_if_else(out);
     out = _add_indents(out);
     return out;
 }

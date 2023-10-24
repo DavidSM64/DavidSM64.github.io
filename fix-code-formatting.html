@@ -11,7 +11,10 @@
         textarea {
             background-color: #383838;
             color: #FFFFFF;
-            width: 49%;
+            width: 100%;
+        }
+        #output {
+            background-color: #303030;
         }
         button {
             background-color: #3C8F2A; /* Green */
@@ -33,14 +36,23 @@
             display: flex;
             justify-content: space-between;
         }
+        .text-area-container {
+            width: 49.6%;
+        }
     </style>
 </head>
 <body>
-    <h1>Fix C Code Formatting</h1>
+    <h1>Fix C Code Formatting (for DKR Decomp)</h1>
     <button onclick="fixFormat()">Fix Formatting</button><br/><br/>
     <div class="container">
-        <textarea id="input" rows="40" cols="50"></textarea>
-        <textarea id="output" rows="40" cols="50" readonly></textarea>
+        <div class="text-area-container">
+            <label for="input">Input</label><br/>
+            <textarea id="input" rows="40"></textarea>
+        </div>
+        <div class="text-area-container">
+            <label for="output">Output</label><br/>
+            <textarea id="output" rows="40" readonly></textarea>
+        </div>
     </div>
 
     <script>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hex to Decimal Converter</title>
+    <script>
+        function convertHexToDecimal() {
+            var input = document.getElementById('input').value;
+            var output = input.replace(/0x[\da-fA-F]+/g, function(hex) {
+                return parseInt(hex);
+            });
+            document.getElementById('output').value = output;
+        }
+    </script>
+</head>
+<body>
+    <textarea id="input" rows="4" cols="50"></textarea><br/>
+    <button onclick="convertHexToDecimal()">Convert</button><br/>
+    <textarea id="output" rows="4" cols="50" readonly></textarea>
+</body>
+</html>
