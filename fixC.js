@@ -43,11 +43,15 @@ function _replace_matches(inputText, matches, replacement) {
     return result;
 }
 
+function _get_line_no_comment(line) {
+    return line.replace(/(?:\/\/.*)|(?:\/[*].*[*]\/)/, "");
+}
+
 function _add_indents(input, indentSize = 4) {
     let indent = 0;
     return input.split('\n').map(line => {
         const trimmedLine = line.trim();
-        const trimmedLineNoComment = trimmedLine.replace(/\/\/.*/, "").trim();
+        const trimmedLineNoComment = _get_line_no_comment(trimmedLine).trim();
         if (trimmedLine.startsWith('}')) {
             indent -= indentSize;
             if(indent < 0) {
@@ -58,6 +62,29 @@ function _add_indents(input, indentSize = 4) {
         if (trimmedLineNoComment.endsWith('{')) {
             indent += indentSize;
         }
+        return result;
+    }).join('\n');
+}
+
+// Adds indents to switch statements specifically.
+function _add_switch_indents(input, indentSize = 4) {
+    let indent = 0;
+    let nextIndent = 0;
+    return input.split('\n').map(line => {
+        if(nextIndent != 0) {
+            indent += nextIndent;
+            nextIndent = 0;
+        }
+        const lineNoComment = _get_line_no_comment(line);
+        const lineNoCommentTrimmed = lineNoComment.trim();
+        if((lineNoCommentTrimmed.startsWith("case") || lineNoCommentTrimmed.startsWith("default")) && lineNoCommentTrimmed.endsWith(':')) {
+            nextIndent += indentSize;
+        }
+        if(lineNoCommentTrimmed.endsWith('break;')) {
+            nextIndent -= indentSize;
+        }
+        let result = ' '.repeat(indent) + line;
+        
         return result;
     }).join('\n');
 }
@@ -99,5 +126,6 @@ function fix_code_formatting(input) {
     out = _fix_pointer_alignment(out);
     out = _fix_if_else(out);
     out = _add_indents(out);
+    out = _add_switch_indents(out);
     return out;
 }

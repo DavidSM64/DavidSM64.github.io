@@ -1,0 +1,150 @@
+<html>
+
+<head>
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+        .textareas {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            max-width: 1600px;
+        }
+        .textarea-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 49.5%;
+        }
+        #output-container {
+            margin-left: auto;
+        }
+        textarea {
+            width: 100%;
+            height: 120px;
+            background-color: #333333;
+            color: #ffffff;
+            border: 1px solid #555555;
+        }
+        button {
+            margin-top: 20px;
+            background-color: #555555;
+            color: #ffffff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #777777;
+        }
+    </style>
+<script>
+    const DKRJP_FONT_CHARACTERS = [
+    "", "、", "$", "(", ")", "・", "%", "「", "」", "’", "”", "<", ">", "&", "〜", " ",
+    "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F",
+    "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V",
+    "W", "X", "Y", "Z", "!", "\"", "#", "'", "*", "+", ",", "-", ".", "/", ":", "=",
+    "?", "@", "。", "゛", "゜", "ァ", "ィ", "ゥ", "ェ", "ォ", "ッ", "ャ", "ュ", "ョ", "ヲ", "ン",
+    "ア", "イ", "ウ", "エ", "オ", "カ", "キ", "ク", "ケ", "コ", "サ", "シ", "ス", "セ", "ソ", "タ",
+    "チ", "ツ", "テ", "ト", "ナ", "ニ", "ヌ", "ネ", "ノ", "ハ", "ヒ", "フ", "ヘ", "ホ", "マ", "ミ",
+    "ム", "メ", "モ", "ヤ", "ユ", "ヨ", "ラ", "リ", "ル", "レ", "ロ", "ワ", "ガ", "ギ", "グ", "ゲ",
+    "ゴ", "ザ", "ジ", "ズ", "ゼ", "ゾ", "ダ", "デ", "ヅ", "デ", "ド", "バ", "ビ", "ブ", "ベ", "ボ",
+    "パ", "ピ", "プ", "ペ", "ポ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k",
+    "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "ぁ", 
+    "ぃ", "ぅ", "ぇ", "ぉ", "っ", "ゃ", "ゅ", "ょ", "を", "ん", "あ", "い", "う", "え", "お", "か", 
+    "き", "く", "け", "こ", "さ", "し", "す", "せ", "そ", "た", "ち", "つ", "て", "と", "な", "に", 
+    "ぬ", "ね", "の", "は", "ひ", "ふ", "へ", "ほ", "ま", "み", "む", "め", "も", "や", "ゆ", "よ", 
+    "ら", "り", "る", "れ", "ろ", "わ", "が", "ぎ", "ぐ", "げ", "ご", "ざ", "じ", "ず", "ぜ", "ぞ",
+    "だ", "で", "づ", "で", "ど", "ば", "び", "ぶ", "べ", "ぼ", "ぱ", "ぴ", "ぷ", "ぺ", "ぽ", "ヴ"
+    ];
+</script>
+</head>
+<body>
+    <div class="container">
+        <div class="textareas">
+            <div class="textarea-container">
+                <label for="input">Input</label>
+                <textarea id="input"></textarea>
+            </div>
+            <div class="textarea-container" id="output-container">
+                <label for="output">Output</label>
+                <textarea id="output" style="float:right;"></textarea>
+            </div>
+        </div>
+        <button onclick="convert()">Convert</button>
+    </div>
+    
+<script>
+
+//inputBytes = "80 5a 80 4f 80 5b 80 4b 80 51 80 4f 80 79 80 51 80 57 00"
+
+
+function testPrintTable() {
+    for(let row = 0; row < 16; row++) {
+        rowText = "";
+        for(let col = 0; col < 16; col++) {
+            rowText += DKRJP_FONT_CHARACTERS[row * 16 + col];
+        }
+        console.log(rowText);
+    }
+}
+
+function stringToByteArray(input) {
+    let byteArray = input.split(' ').map(byte => {
+        if (byte.startsWith('0x')) {
+            return parseInt(byte.slice(2), 16);
+        } else if (byte.startsWith('$')) {
+            return parseInt(byte.slice(1), 16);
+        } else {
+            return parseInt(byte, 16);
+        }
+    });
+    return byteArray;
+}
+
+function parseBytes(byteArray) {
+    let out = "";
+    
+    let index = 0;
+    
+    while(index < byteArray.length) {
+        let curChar = byteArray[index++];
+    
+        if(curChar & 0x80) { // Japanese character!
+            let jpFontIndex = ((curChar & 0x7F) << 8) | (byteArray[index++]);
+            out += DKRJP_FONT_CHARACTERS[jpFontIndex];
+        } else {
+            if(curChar == '\0') {
+                break;
+            } else if(curChar < ' ') { // Control characters.
+                out += curChar;
+            } else {
+                // Do nothing.
+            }
+        }
+    }
+    
+    
+    return out;
+}
+
+function convert() {
+    var inputBytes = document.getElementById('input').value;
+    const byteArray = stringToByteArray(inputBytes);
+    document.getElementById('output').value = parseBytes(byteArray);
+}
+
+document.getElementById('input').value = "80 5a 80 4f 80 5b 80 4b 80 51 80 4f 80 79 80 51 80 57 00";
+convert();
+
+</script>
+</body>
+</html>
