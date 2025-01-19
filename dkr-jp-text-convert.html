@@ -98,6 +98,7 @@ function testPrintTable() {
 }
 
 function stringToByteArray(input) {
+    input = input.replace(/[\r\n]+/g, ' '); // Convert all newlines to spaces
     let byteArray = input.split(' ').map(byte => {
         if (byte.startsWith('0x')) {
             return parseInt(byte.slice(2), 16);
